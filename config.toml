@@ -1,0 +1,81 @@
+baseurl = "/"
+languageCode = "en-us"
+theme = "hello-friend-ng"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Metadata mostly used in document's head
+  description = "Cr0w's Place, home of Thomas Sermpinis a.k.a. Cr0wTom."
+  keywords = "homepage, blog, science, informatics, hacking, pentesting"
+  images = [""]
+
+  # Directory name of your blog content (default is `content/posts`)
+  contentTypeName = "content/projects"
+  # Default theme "light" or "dark"
+  defaultTheme = "light"
+
+[languages]
+  [languages.en]
+    title = "Cr0w's Place"
+    subtitle = "Hacking for Donuts"
+    keywords = ""
+    copyright = "Thomas Sermpinis"
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "../../../Cr0w/Tom"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+# And you can even create generic menu
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog"
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects"
+  [[menu.main]]
+    identifier = "resume"
+    name = "Résumé"
+    url = "/resume"
+
+  # Social icons
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/Cr0wTom"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:serbinistom007@gmail.com"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://linkedin.com/in/thomas-sermpinis-0473a4b0"
+
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/serbinhio"
+
+  [[params.social]]
+    name = "youtube"
+    url  = "https://youtube.com/Cr0wsPlace"
+
+  [[params.social]]
+    name = "facebook"
+    url  = "https://facebook.com/CrOwTom"
+
