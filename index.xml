@@ -13,24 +13,6 @@
     
     
     <item>
-      <title>Lets fill this section</title>
-      <link>https://cr0wtom.github.io/projects/my-first-post/</link>
-      <pubDate>Thu, 07 Nov 2019 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/my-first-post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>https://cr0wtom.github.io/projects/my-second-post/</link>
-      <pubDate>Thu, 07 Nov 2019 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/my-second-post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>About</title>
       <link>https://cr0wtom.github.io/about/</link>
       <pubDate>Tue, 05 Nov 2019 15:48:39 +0100</pubDate>
@@ -39,6 +21,76 @@
       <description>Thomas Sermpinis is OSCP Certified and actively looking for new challenges in the field of Information Security, Red Team Operations, Penetration Testing and Security Research.
 He has ethically reported web vulnerabilities to known companies such as AT&amp;amp;T, IBM, Acronis and Xiaomi while in his free time he also hacks machines at hackthebox.eu.
 He currently works as a Cyber Security Consultant with main interests around Automotive security - research and penetration testing.</description>
+    </item>
+    
+    <item>
+      <title>SBC: Penetration Testing with Raspberry Pi</title>
+      <link>https://cr0wtom.github.io/projects/sbc-penetration-testing-with-raspberry-pi-hakin9/</link>
+      <pubDate>Sun, 07 Oct 2018 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/projects/sbc-penetration-testing-with-raspberry-pi-hakin9/</guid>
+      <description>Instructor in the 4 week course for Hakin9 Media, in the topic of penetration testing with Raspberry Pi and other security related hardware.
+See project</description>
+    </item>
+    
+    <item>
+      <title>Attack and Defense in Blockchain Technologies</title>
+      <link>https://cr0wtom.github.io/projects/attack-and-defense-in-blockchain-technologies-hakin9/</link>
+      <pubDate>Sat, 07 Apr 2018 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/projects/attack-and-defense-in-blockchain-technologies-hakin9/</guid>
+      <description>Instructor in the 4 week course for Hakin9 Media, in Blockchain security topics.
+See Project</description>
+    </item>
+    
+    <item>
+      <title>Bypassing Web Application Firewalls</title>
+      <link>https://cr0wtom.github.io/projects/bypassing-web-application-firewalls-hakin9/</link>
+      <pubDate>Wed, 07 Dec 2016 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/projects/bypassing-web-application-firewalls-hakin9/</guid>
+      <description>Workshop Instructor in the 4 week topic, &amp;ldquo;Bypassing Web Application Firewalls&amp;rdquo;, hosted by the Hakin9 Magazine.
+See project</description>
+    </item>
+    
+    <item>
+      <title>Web Application Hacking: Advanced SQL Injection and Data Store Attacks</title>
+      <link>https://cr0wtom.github.io/projects/web-application-hacking-advanced-sql-injection-and-data-store-attacks-hakin9/</link>
+      <pubDate>Wed, 07 Sep 2016 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/projects/web-application-hacking-advanced-sql-injection-and-data-store-attacks-hakin9/</guid>
+      <description>Workshop Instructor in the 4 week topic, &amp;ldquo;Web Application Hacking: Advanced SQL Injection and Data Store Attacks&amp;rdquo;, hosted by the eForensics Magazine.
+See Project</description>
+    </item>
+    
+    <item>
+      <title>Penetration Testing with Android Devices</title>
+      <link>https://cr0wtom.github.io/projects/pentesting-with-kali2-hakin9/</link>
+      <pubDate>Tue, 07 Jul 2015 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/projects/pentesting-with-kali2-hakin9/</guid>
+      <description>Co-Workshop instructor in the topic &amp;ldquo;Penetration Testing with Kali 2.0&amp;rdquo; due to the release of the second version of the Kali OS, hosted by the PenTest Magazine.
+See project</description>
+    </item>
+    
+    <item>
+      <title>Android Malware Analysis</title>
+      <link>https://cr0wtom.github.io/projects/android-malware-analysis-hakin9/</link>
+      <pubDate>Wed, 07 Jan 2015 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/projects/android-malware-analysis-hakin9/</guid>
+      <description>Workshop Instructor in the 4 week topic, &amp;ldquo;Android Malware Analysis&amp;rdquo;, hosted by the eForensics Magazine.
+See Project</description>
+    </item>
+    
+    <item>
+      <title>Penetration Testing with Android Devices</title>
+      <link>https://cr0wtom.github.io/projects/pentesting-with-android-hakin9/</link>
+      <pubDate>Wed, 07 Jan 2015 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/projects/pentesting-with-android-hakin9/</guid>
+      <description>Workshop Instructor in the 10 week topic, &amp;ldquo;Penetration Testing with Android Devices&amp;rdquo;, hosted by the Pentest Magazine.
+You can find more here.</description>
     </item>
     
   </channel>
