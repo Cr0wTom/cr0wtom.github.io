@@ -3,15 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cr0wtom.github.io/categories/</loc>
+    <loc>https://cr0wtom.github.io/projects/my-first-post/</loc>
+    <lastmod>2019-11-07T16:56:46+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cr0wtom.github.io/</loc>
+    <loc>https://cr0wtom.github.io/projects/</loc>
+    <lastmod>2019-11-07T16:56:46+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://cr0wtom.github.io/tags/</loc>
+    <lastmod>2019-11-07T16:56:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cr0wtom.github.io/tags/test/</loc>
+    <lastmod>2019-11-07T16:56:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cr0wtom.github.io/about/</loc>
+    <lastmod>2019-11-05T15:48:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cr0wtom.github.io/blog/</loc>
+    <lastmod>2019-11-05T15:48:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cr0wtom.github.io/</loc>
+    <lastmod>2019-11-05T15:48:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cr0wtom.github.io/resume/</loc>
+    <lastmod>2019-11-05T15:48:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cr0wtom.github.io/categories/</loc>
   </url>
   
 </urlset>
