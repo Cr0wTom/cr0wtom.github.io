@@ -64,6 +64,16 @@ See project</description>
     
     <item>
       <title>Hakin9 - Web Application Hacking: Advanced SQL Injection and Data Store Attacks</title>
+      <link>https://cr0wtom.github.io/projects/2600-article_todo/</link>
+      <pubDate>Wed, 07 Sep 2016 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/projects/2600-article_todo/</guid>
+      <description>Workshop Instructor in the 4 week topic, &amp;ldquo;Web Application Hacking: Advanced SQL Injection and Data Store Attacks&amp;rdquo;, hosted by the eForensics Magazine.
+See Project</description>
+    </item>
+    
+    <item>
+      <title>Hakin9 - Web Application Hacking: Advanced SQL Injection and Data Store Attacks</title>
       <link>https://cr0wtom.github.io/projects/web-application-hacking-advanced-sql-injection-and-data-store-attacks-hakin9/</link>
       <pubDate>Wed, 07 Sep 2016 16:56:46 +0100</pubDate>
       
@@ -130,6 +140,16 @@ See Project</description>
       <guid>https://cr0wtom.github.io/projects/pentesting-with-android-hakin9/</guid>
       <description>Workshop Instructor in the 10 week topic, &amp;ldquo;Penetration Testing with Android Devices&amp;rdquo;, hosted by the Pentest Magazine.
 You can find more here.</description>
+    </item>
+    
+    <item>
+      <title>DeltaHacker - All Articles</title>
+      <link>https://cr0wtom.github.io/projects/deltahacker-all-articles/</link>
+      <pubDate>Sun, 07 Sep 2014 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/projects/deltahacker-all-articles/</guid>
+      <description>For a couple of years I was constalty cooperating with DeltaHacker as a Magazine Editor for penetration testing and cyber security technical topics, with my nickname being Cr0wTom. I wrote 10 articles in total, but suddenly they exist only in Greek and you can find abstracts of the article in my blog, but you can also purchace all of DeltaHacker&amp;rsquo;s issues by their website.
+DeltaHacker alongside my personal blog, can be considered my start in the security industry, my first steps and some really exciting times with people from the Greek hacking community that I really apreciate.</description>
     </item>
     
   </channel>
