@@ -40,7 +40,7 @@
 <meta itemprop="description" content="During one of my penetration tests for a local military equipment supplier while working for Auxilium Cyber Security, I faced a web application running on an embedded device that used web sockets in order to initiate the connection between the server and the client. There are several different technologies that can be used in the backend system in order to make use of web sockets, but the client made use of Socket.">
 <meta itemprop="datePublished" content="2020-06-07T16:56:46&#43;01:00" />
 <meta itemprop="dateModified" content="2020-06-07T16:56:46&#43;01:00" />
-<meta itemprop="wordCount" content="258">
+<meta itemprop="wordCount" content="261">
 <meta itemprop="image" content="https://cr0wtom.github.io"/>
 
 
@@ -125,6 +125,8 @@
 <p>One of the functionalities was a configuration file upload, that was stored in a folder in the filesystem, by using the Socket.io-file npm module. Socket.io-file (2.0.31) is a node module for uploading files via the Socket.io module. Playing around with the requests I managed to bypass the restrictions and upload a file in a different folder from the expected one (I knew that as I had access to the back-end of the system).</p>
 <p>Client and project aside, the upload functionality of socket.io-file is vulnerable to improper input validation, allowing attackers to bypass upload directory restrictions and it allows them to upload files to paths of their choice in the underlying system.</p>
 <p><a href="https://cr0wsplace.wordpress.com/2020/07/02/socket-io-file-2-0-31-improper-input-validation-in-file-upload-functionality/">Technical Report</a></p>
+<p><a href="https://www.npmjs.com/advisories/1519">Advisory</a></p>
+<p><a href="https://github.com/advisories/GHSA-9h4g-27m8-qjrg">Github Advisory</a></p>
 
             </div>
         </article>
