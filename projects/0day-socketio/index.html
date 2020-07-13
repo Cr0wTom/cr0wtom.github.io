@@ -120,7 +120,11 @@
             
 
             <div class="post-content">
-                <p>During one of my penetration tests for a local military equipment supplier while working for Auxilium Cyber Security, I faced a web application running on an embedded device that used web sockets in order to initiate the connection between the server and the client. There are several different technologies that can be used in the backend system in order to make use of web sockets, but the client made use of Socket.io.</p>
+                
+    <img src="/images/Socket.io-file_0day.jpg"  alt="Course"  class="center"  style="border-radius: 8px;"  />
+
+
+<p>During one of my penetration tests for a local military equipment supplier while working for Auxilium Cyber Security, I faced a web application running on an embedded device that used web sockets in order to initiate the connection between the server and the client. There are several different technologies that can be used in the backend system in order to make use of web sockets, but the client made use of Socket.io.</p>
 <p>The web application was relatively small, with only a few entry points that did not seem to be vulnerable. All the modules were up to date and my enumeration started to go into a dead end. As there were more days for my pentest, I decided to dig deeper and I started analyzing more the request and researching about the npm modules that were included and were in use in the web application.</p>
 <p>One of the functionalities was a configuration file upload, that was stored in a folder in the filesystem, by using the Socket.io-file npm module. Socket.io-file (2.0.31) is a node module for uploading files via the Socket.io module. Playing around with the requests I managed to bypass the restrictions and upload a file in a different folder from the expected one (I knew that as I had access to the back-end of the system).</p>
 <p>Client and project aside, the upload functionality of socket.io-file is vulnerable to improper input validation, allowing attackers to bypass upload directory restrictions and it allows them to upload files to paths of their choice in the underlying system.</p>
