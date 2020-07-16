@@ -7,7 +7,8 @@
 <meta name="author"
     content="">
 <meta name="description"
-    content="During one of my penetration tests for a local military equipment supplier while working for Auxilium Cyber Security, I faced a web application running on an embedded device that used web sockets in order to initiate the connection between the server and the client. There are several different technologies that can be used in the backend system in order to make use of web sockets, but the client made use of Socket." />
+    content="Title: Path Traversal in Socket.io-file NPM module Date: 18/05/2020 CVE-ID: 2020-15779 Author: Thomas Sermpinis Versions: &amp;lt;= 2.0.31 Package URL: https://www.npmjs.com/package/socket.io-file Tested on: node v10.19.0, Socket.io-file v2.0.31, socket.io v2.3.0
+All versions of socket.io-file are vulnerable to Path Traversal. The package fails to sanitize user input and uses it to generate the file upload paths. The socket.io-file::createFile message contains a name option that is passed directly to path.join(). It is possible to upload files to arbitrary folders on the server by sending relative paths on the name value, such as ." />
 <meta name="keywords" content="" />
 <meta name="robots" content="noodp" />
 <link rel="canonical" href="https://cr0wtom.github.io/projects/0day-socketio/" />
@@ -15,7 +16,7 @@
 
 <title>
     
-    0day - Socket.io-file &lt;= 2.0.31 – Improper Input Validation in File Upload Functionality :: Cr0w&#39;s Place  — Hacking for Donuts
+    0day - [CVE-2020-15779] Path Traversal in Socket.io-file NPM module Functionality :: Cr0w&#39;s Place  — Hacking for Donuts
     
 </title>
 
@@ -36,11 +37,12 @@
 <link rel="manifest" href="/site.webmanifest">
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#252627">
 <link rel="shortcut icon" href="/favicon.ico">
-<meta name="theme-color" content="#252627"><meta itemprop="name" content="0day - Socket.io-file &lt;= 2.0.31 – Improper Input Validation in File Upload Functionality">
-<meta itemprop="description" content="During one of my penetration tests for a local military equipment supplier while working for Auxilium Cyber Security, I faced a web application running on an embedded device that used web sockets in order to initiate the connection between the server and the client. There are several different technologies that can be used in the backend system in order to make use of web sockets, but the client made use of Socket.">
+<meta name="theme-color" content="#252627"><meta itemprop="name" content="0day - [CVE-2020-15779] Path Traversal in Socket.io-file NPM module Functionality">
+<meta itemprop="description" content="Title: Path Traversal in Socket.io-file NPM module Date: 18/05/2020 CVE-ID: 2020-15779 Author: Thomas Sermpinis Versions: &lt;= 2.0.31 Package URL: https://www.npmjs.com/package/socket.io-file Tested on: node v10.19.0, Socket.io-file v2.0.31, socket.io v2.3.0
+All versions of socket.io-file are vulnerable to Path Traversal. The package fails to sanitize user input and uses it to generate the file upload paths. The socket.io-file::createFile message contains a name option that is passed directly to path.join(). It is possible to upload files to arbitrary folders on the server by sending relative paths on the name value, such as .">
 <meta itemprop="datePublished" content="2020-06-07T16:56:46&#43;01:00" />
 <meta itemprop="dateModified" content="2020-06-07T16:56:46&#43;01:00" />
-<meta itemprop="wordCount" content="261">
+<meta itemprop="wordCount" content="112">
 <meta itemprop="image" content="https://cr0wtom.github.io"/>
 
 
@@ -48,8 +50,9 @@
 <meta itemprop="keywords" content="0day," /><meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://cr0wtom.github.io"/>
 
-<meta name="twitter:title" content="0day - Socket.io-file &lt;= 2.0.31 – Improper Input Validation in File Upload Functionality"/>
-<meta name="twitter:description" content="During one of my penetration tests for a local military equipment supplier while working for Auxilium Cyber Security, I faced a web application running on an embedded device that used web sockets in order to initiate the connection between the server and the client. There are several different technologies that can be used in the backend system in order to make use of web sockets, but the client made use of Socket."/>
+<meta name="twitter:title" content="0day - [CVE-2020-15779] Path Traversal in Socket.io-file NPM module Functionality"/>
+<meta name="twitter:description" content="Title: Path Traversal in Socket.io-file NPM module Date: 18/05/2020 CVE-ID: 2020-15779 Author: Thomas Sermpinis Versions: &lt;= 2.0.31 Package URL: https://www.npmjs.com/package/socket.io-file Tested on: node v10.19.0, Socket.io-file v2.0.31, socket.io v2.3.0
+All versions of socket.io-file are vulnerable to Path Traversal. The package fails to sanitize user input and uses it to generate the file upload paths. The socket.io-file::createFile message contains a name option that is passed directly to path.join(). It is possible to upload files to arbitrary folders on the server by sending relative paths on the name value, such as ."/>
 
 
 
@@ -115,7 +118,7 @@
         </div>
 
         <article>
-            <h2 class="post-title"><a href="https://cr0wtom.github.io/projects/0day-socketio/">0day - Socket.io-file &lt;= 2.0.31 – Improper Input Validation in File Upload Functionality</a></h2>
+            <h2 class="post-title"><a href="https://cr0wtom.github.io/projects/0day-socketio/">0day - [CVE-2020-15779] Path Traversal in Socket.io-file NPM module Functionality</a></h2>
 
             
 
@@ -124,13 +127,19 @@
     <img src="/images/Socket.io-file_0day.jpg"  alt="Course"  class="center"  style="border-radius: 8px;"  />
 
 
-<p>During one of my penetration tests for a local military equipment supplier while working for Auxilium Cyber Security, I faced a web application running on an embedded device that used web sockets in order to initiate the connection between the server and the client. There are several different technologies that can be used in the backend system in order to make use of web sockets, but the client made use of Socket.io.</p>
-<p>The web application was relatively small, with only a few entry points that did not seem to be vulnerable. All the modules were up to date and my enumeration started to go into a dead end. As there were more days for my pentest, I decided to dig deeper and I started analyzing more the request and researching about the npm modules that were included and were in use in the web application.</p>
-<p>One of the functionalities was a configuration file upload, that was stored in a folder in the filesystem, by using the Socket.io-file npm module. Socket.io-file (2.0.31) is a node module for uploading files via the Socket.io module. Playing around with the requests I managed to bypass the restrictions and upload a file in a different folder from the expected one (I knew that as I had access to the back-end of the system).</p>
-<p>Client and project aside, the upload functionality of socket.io-file is vulnerable to improper input validation, allowing attackers to bypass upload directory restrictions and it allows them to upload files to paths of their choice in the underlying system.</p>
+<p><strong>Title:</strong> Path Traversal in Socket.io-file NPM module
+<strong>Date:</strong> 18/05/2020
+<strong>CVE-ID:</strong> 2020-15779
+<strong>Author:</strong> Thomas Sermpinis
+<strong>Versions:</strong> &lt;= 2.0.31
+<strong>Package URL:</strong> <a href="https://www.npmjs.com/package/socket.io-file">https://www.npmjs.com/package/socket.io-file</a>
+<strong>Tested on:</strong> node v10.19.0, Socket.io-file v2.0.31, socket.io v2.3.0</p>
+<p>All versions of socket.io-file are vulnerable to Path Traversal. The package fails to sanitize user input and uses it to generate the file upload paths. The socket.io-file::createFile message contains a name option that is passed directly to path.join(). It is possible to upload files to arbitrary folders on the server by sending relative paths on the name value, such as ../../test.js. The uploadDir and rename options can be used to define the file upload path.</p>
 <p><a href="https://cr0wsplace.wordpress.com/2020/07/02/socket-io-file-2-0-31-improper-input-validation-in-file-upload-functionality/">Technical Report</a></p>
 <p><a href="https://www.npmjs.com/advisories/1519">Advisory</a></p>
 <p><a href="https://github.com/advisories/GHSA-9h4g-27m8-qjrg">Github Advisory</a></p>
+<p><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15779">CVE-ID (Mitre)</a></p>
+<p><a href="https://nvd.nist.gov/vuln/detail/CVE-2020-15779">CVE-ID (NIST)</a></p>
 
             </div>
         </article>
