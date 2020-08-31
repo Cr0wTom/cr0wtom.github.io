@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Thomas Sermpinis</copyright>
-    <lastBuildDate>Sun, 07 Jun 2020 16:56:46 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2020 16:56:46 +0100</lastBuildDate>
     
 	<atom:link href="https://cr0wtom.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Academic - DeTRACT a decentralized, transparent, immutable and open PKI certificate framework</title>
+      <link>https://cr0wtom.github.io/projects/detract-a-decentralized-transparent-immutable-and-open-pki-certificate-framework/</link>
+      <pubDate>Fri, 07 Aug 2020 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/projects/detract-a-decentralized-transparent-immutable-and-open-pki-certificate-framework/</guid>
+      <description>The academic paper based on my masters thesis and research made during my work with the OSwinds research team of the Aristotle Unicersity of Thessaloniki got published in Springers&amp;rsquo; Internationa Journal of Information Security by the name &amp;ldquo;DeTRACT a decentralized, transparent, immutable and open PKI certificate framework&amp;rdquo;.
+Thanks to the team, George Vlahavas, Konstantinos Karasavvas &amp;amp; Athena Vakali.
+Abstract Public key infrastructure (PKI) is widely used over the Internet to secure and to encrypt communication among parties.</description>
+    </item>
     
     <item>
       <title>0day - [CVE-2020-15779] Path Traversal in Socket.io-file NPM module Functionality</title>
