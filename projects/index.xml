@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Thomas Sermpinis</copyright>
-    <lastBuildDate>Fri, 07 Aug 2020 16:56:46 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2020 16:56:46 +0100</lastBuildDate>
     
 	<atom:link href="https://cr0wtom.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Certifications - Offensive Security Certified Expert</title>
+      <link>https://cr0wtom.github.io/projects/certifications-osce/</link>
+      <pubDate>Mon, 07 Sep 2020 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/projects/certifications-osce/</guid>
+      <description>OSCEs have expert-level penetration testing skills. They have proven that they can craft their own exploits, execute attacks to compromise systems, and gain administrative access. The intense 48-hour exam also demonstrates that OSCEs have an above-average degree of persistence, determination, and ability to perform under pressure and can think outside the box to determine innovative ways of penetrating internal networks. An OSCE also has familiarity with more advanced protections like ASLR.</description>
+    </item>
     
     <item>
       <title>Academic - DeTRACT a decentralized, transparent, immutable and open PKI certificate framework</title>
@@ -37,15 +46,6 @@ Versions: &amp;lt;= 2.0.31
 Package URL: https://www.npmjs.com/package/socket.io-file
 Tested on: node v10.19.0, Socket.io-file v2.0.31, socket.io v2.3.0
 All versions of socket.io-file are vulnerable to Path Traversal. The package fails to sanitize user input and uses it to generate the file upload paths. The socket.io-file::createFile message contains a name option that is passed directly to path.join(). It is possible to upload files to arbitrary folders on the server by sending relative paths on the name value, such as .</description>
-    </item>
-    
-    <item>
-      <title>Certifications - Offensive Security Certified Expert</title>
-      <link>https://cr0wtom.github.io/projects/certifications-osce/</link>
-      <pubDate>Thu, 07 May 2020 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/certifications-osce/</guid>
-      <description>OSCEs have expert-level penetration testing skills. They have proven that they can craft their own exploits, execute attacks to compromise systems, and gain administrative access. The intense 48-hour exam also demonstrates that OSCEs have an above-average degree of persistence, determination, and ability to perform under pressure and can think outside the box to determine innovative ways of penetrating internal networks. An OSCE also has familiarity with more advanced protections like ASLR.</description>
     </item>
     
     <item>
