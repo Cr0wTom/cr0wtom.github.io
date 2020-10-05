@@ -13,7 +13,7 @@
     
     
     <item>
-      <title>Socket.io-file &lt;= 2.0.31 - File Type Restriction Bypass</title>
+      <title>0day - Socket.io-file &lt;= 2.0.31 - File Type Restriction Bypass</title>
       <link>https://cr0wtom.github.io/projects/0day-socketio_2/</link>
       <pubDate>Tue, 08 Sep 2020 16:56:46 +0100</pubDate>
       
@@ -25,9 +25,7 @@ Author: Thomas Sermpinis
 Versions: &amp;lt;= 2.0.31
 Package URL: -
 Tested on: node v10.19.0, Socket.io-file v2.0.31, socket.io v2.3.0
-All versions of socket.io-file are vulnerable to File Type Restriction Bypass.
-More information TBA.
-Technical Report</description>
+All versions of socket.io-file are vulnerable to a file restriction bypass. The validation for valid file types only happens on the client-side, which allows an attacker to intercept the Websocket request post-validation and alter the name value to upload any file types.</description>
     </item>
     
     <item>
