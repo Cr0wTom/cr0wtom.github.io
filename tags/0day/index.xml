@@ -20,7 +20,7 @@
       <guid>https://cr0wtom.github.io/projects/0day-socketio_2/</guid>
       <description>Title: File Type Restriction Bypass in Socket.io-file NPM module
 Date: 31/07/2020
-CVE-ID: -
+CVE-ID: CVE-2020-24807
 Author: Thomas Sermpinis
 Versions: &amp;lt;= 2.0.31
 Package URL: -
