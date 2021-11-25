@@ -7,7 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Thomas Sermpinis</copyright>
-    <lastBuildDate>Tue, 11 May 2021 12:56:46 +0100</lastBuildDate><atom:link href="https://cr0wtom.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Nov 2021 16:56:46 +0100</lastBuildDate><atom:link href="https://cr0wtom.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Academic</title>
+      <link>https://cr0wtom.github.io/tags/academic/</link>
+      <pubDate>Wed, 24 Nov 2021 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automotive</title>
+      <link>https://cr0wtom.github.io/tags/automotive/</link>
+      <pubDate>Wed, 24 Nov 2021 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/tags/automotive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GitHub</title>
+      <link>https://cr0wtom.github.io/tags/github/</link>
+      <pubDate>Wed, 24 Nov 2021 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://cr0wtom.github.io/tags/security/</link>
+      <pubDate>Wed, 24 Nov 2021 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/tags/security/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>0day</title>
       <link>https://cr0wtom.github.io/tags/0day/</link>
@@ -23,15 +59,6 @@
       <pubDate>Mon, 07 Sep 2020 16:56:46 +0100</pubDate>
       
       <guid>https://cr0wtom.github.io/tags/certifications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Academic</title>
-      <link>https://cr0wtom.github.io/tags/academic/</link>
-      <pubDate>Fri, 07 Aug 2020 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/tags/academic/</guid>
       <description></description>
     </item>
     
@@ -59,15 +86,6 @@
       <pubDate>Sun, 07 Jul 2019 16:56:46 +0100</pubDate>
       
       <guid>https://cr0wtom.github.io/tags/2600/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GitHub</title>
-      <link>https://cr0wtom.github.io/tags/github/</link>
-      <pubDate>Sun, 07 Apr 2019 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/tags/github/</guid>
       <description></description>
     </item>
     

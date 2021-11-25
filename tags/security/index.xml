@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security on Cr0w&#39;s Place</title>
+    <link>https://cr0wtom.github.io/tags/security/</link>
+    <description>Recent content in Security on Cr0w&#39;s Place</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Thomas Sermpinis</copyright>
+    <lastBuildDate>Wed, 24 Nov 2021 16:56:46 +0100</lastBuildDate><atom:link href="https://cr0wtom.github.io/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub - CaringCaribou UDS Fuzzer Module</title>
+      <link>https://cr0wtom.github.io/projects/github-uds_fuzzer-cc-module/</link>
+      <pubDate>Wed, 24 Nov 2021 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/projects/github-uds_fuzzer-cc-module/</guid>
+      <description>A fuzzing module for the UDS protocol, as a CaringCaribou contribution. It includes the following sub-functions:
+  seed_randomness_fuzzer: Supply the seed request process used by the target ECU and fuzz it to test for possible duplicates after a supplied Hard ECUReset (with flexibility on the reset method implementation), which means that the device is possibly vulnerable.
+  delay_fuzzer: This is more of an exploitation sub-function, where a seed request process is supplied, alongside the seed from a single seed/key pair that a tester has acquired.</description>
+    </item>
+    
+  </channel>
+</rss>
