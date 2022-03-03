@@ -29,13 +29,16 @@
     <loc>https://cr0wtom.github.io/tags/0day/</loc>
     <lastmod>2021-05-11T12:56:46+01:00</lastmod>
   </url><url>
-    <loc>https://cr0wtom.github.io/projects/0day-dlt-daemon/</loc>
+    <loc>https://cr0wtom.github.io/tags/research/</loc>
     <lastmod>2021-05-11T12:56:46+01:00</lastmod>
   </url><url>
-    <loc>https://cr0wtom.github.io/projects/0day-aleth/</loc>
+    <loc>https://cr0wtom.github.io/projects/research-dlt-daemon/</loc>
+    <lastmod>2021-05-11T12:56:46+01:00</lastmod>
+  </url><url>
+    <loc>https://cr0wtom.github.io/projects/research-aleth/</loc>
     <lastmod>2021-01-11T12:56:46+01:00</lastmod>
   </url><url>
-    <loc>https://cr0wtom.github.io/projects/0day-socketio_2/</loc>
+    <loc>https://cr0wtom.github.io/projects/research-socketio_2/</loc>
     <lastmod>2020-09-08T16:56:46+01:00</lastmod>
   </url><url>
     <loc>https://cr0wtom.github.io/tags/certifications/</loc>
@@ -44,16 +47,16 @@
     <loc>https://cr0wtom.github.io/projects/certifications-osce/</loc>
     <lastmod>2020-09-07T16:56:46+01:00</lastmod>
   </url><url>
-    <loc>https://cr0wtom.github.io/projects/detract-a-decentralized-transparent-immutable-and-open-pki-certificate-framework/</loc>
-    <lastmod>2020-08-07T16:56:46+01:00</lastmod>
-  </url><url>
     <loc>https://cr0wtom.github.io/tags/blockchain/</loc>
     <lastmod>2020-08-07T16:56:46+01:00</lastmod>
   </url><url>
     <loc>https://cr0wtom.github.io/tags/paper/</loc>
     <lastmod>2020-08-07T16:56:46+01:00</lastmod>
   </url><url>
-    <loc>https://cr0wtom.github.io/projects/0day-socketio/</loc>
+    <loc>https://cr0wtom.github.io/projects/research-detract-a-decentralized-transparent-immutable-and-open-pki-certificate-framework/</loc>
+    <lastmod>2020-08-07T16:56:46+01:00</lastmod>
+  </url><url>
+    <loc>https://cr0wtom.github.io/projects/research-socketio/</loc>
     <lastmod>2020-06-07T16:56:46+01:00</lastmod>
   </url><url>
     <loc>https://cr0wtom.github.io/projects/certifications-oscp/</loc>
@@ -110,19 +113,22 @@
     <loc>https://cr0wtom.github.io/tags/oscp/</loc>
     <lastmod>2018-10-07T16:56:46+01:00</lastmod>
   </url><url>
-    <loc>https://cr0wtom.github.io/projects/talks-consensus-algorithms/</loc>
+    <loc>https://cr0wtom.github.io/projects/research-talks-consensus-algorithms/</loc>
     <lastmod>2018-10-07T16:56:46+01:00</lastmod>
   </url><url>
-    <loc>https://cr0wtom.github.io/projects/traceability-decentralization-in-supply-chain-management-using-blockchain-technologies/</loc>
-    <lastmod>2018-07-07T16:56:46+01:00</lastmod>
+    <loc>https://cr0wtom.github.io/tags/talks/</loc>
+    <lastmod>2018-10-07T16:56:46+01:00</lastmod>
   </url><url>
-    <loc>https://cr0wtom.github.io/projects/pki-decentralization-using-blockchain-technologies/</loc>
-    <lastmod>2018-05-07T16:56:46+01:00</lastmod>
+    <loc>https://cr0wtom.github.io/projects/research-traceability-decentralization-in-supply-chain-management-using-blockchain-technologies/</loc>
+    <lastmod>2018-07-07T16:56:46+01:00</lastmod>
   </url><url>
     <loc>https://cr0wtom.github.io/tags/msc/</loc>
     <lastmod>2018-05-07T16:56:46+01:00</lastmod>
   </url><url>
-    <loc>https://cr0wtom.github.io/projects/talks-introduction-to-bitcoin-and-blockchain-technologies-greek/</loc>
+    <loc>https://cr0wtom.github.io/projects/research-pki-decentralization-using-blockchain-technologies/</loc>
+    <lastmod>2018-05-07T16:56:46+01:00</lastmod>
+  </url><url>
+    <loc>https://cr0wtom.github.io/projects/research-talks-introduction-to-bitcoin-and-blockchain-technologies-greek/</loc>
     <lastmod>2018-05-07T16:56:46+01:00</lastmod>
   </url><url>
     <loc>https://cr0wtom.github.io/projects/attack-and-defense-in-blockchain-technologies-hakin9/</loc>
@@ -161,19 +167,19 @@
     <loc>https://cr0wtom.github.io/projects/scholarship-blackhat2016/</loc>
     <lastmod>2016-08-07T16:56:46+01:00</lastmod>
   </url><url>
-    <loc>https://cr0wtom.github.io/projects/integration-of-near-field-communication-into-warehouse-management-systems/</loc>
+    <loc>https://cr0wtom.github.io/tags/bsc/</loc>
     <lastmod>2016-06-07T16:56:46+01:00</lastmod>
   </url><url>
-    <loc>https://cr0wtom.github.io/tags/bsc/</loc>
+    <loc>https://cr0wtom.github.io/projects/research-integration-of-near-field-communication-into-warehouse-management-systems/</loc>
     <lastmod>2016-06-07T16:56:46+01:00</lastmod>
   </url><url>
     <loc>https://cr0wtom.github.io/projects/pentesting-with-kali2-hakin9/</loc>
     <lastmod>2015-07-07T16:56:46+01:00</lastmod>
   </url><url>
-    <loc>https://cr0wtom.github.io/projects/integration-of-augmented-reality-technology-into-warehouse-management-systems/</loc>
+    <loc>https://cr0wtom.github.io/projects/research-integration-of-augmented-reality-technology-into-warehouse-management-systems/</loc>
     <lastmod>2015-04-07T16:56:46+01:00</lastmod>
   </url><url>
-    <loc>https://cr0wtom.github.io/projects/integration-of-near-field-communication-technology-into-warehouse-management-systems/</loc>
+    <loc>https://cr0wtom.github.io/projects/research-integration-of-near-field-communication-technology-into-warehouse-management-systems/</loc>
     <lastmod>2015-04-07T16:56:46+01:00</lastmod>
   </url><url>
     <loc>https://cr0wtom.github.io/projects/android-malware-analysis-hakin9/</loc>

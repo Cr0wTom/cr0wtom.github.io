@@ -20,11 +20,11 @@
     </item>
     
     <item>
-      <title>0day - [CVE-2021-29507] Improper Input Validation leads to buffer overflow in dlt-daemon</title>
-      <link>https://cr0wtom.github.io/projects/0day-dlt-daemon/</link>
+      <title>Research - [CVE-2021-29507] Improper Input Validation leads to buffer overflow in dlt-daemon (0day)</title>
+      <link>https://cr0wtom.github.io/projects/research-dlt-daemon/</link>
       <pubDate>Tue, 11 May 2021 12:56:46 +0100</pubDate>
       
-      <guid>https://cr0wtom.github.io/projects/0day-dlt-daemon/</guid>
+      <guid>https://cr0wtom.github.io/projects/research-dlt-daemon/</guid>
       <description>Title: Improper Input Validation leads to buffer overflow in dlt-daemon
 Date: 12/05/2021
 CVE-ID: CVE-2021-29507
@@ -36,11 +36,11 @@ The dlt-daemon includes a configuration file load functionality (-c) which is vu
     </item>
     
     <item>
-      <title>0day - [CVE-2020-26800] Stack based buffer overflow while parsing JSON file in Aleth C&#43;&#43; Ethereum client</title>
-      <link>https://cr0wtom.github.io/projects/0day-aleth/</link>
+      <title>Research - [CVE-2020-26800] Stack based buffer overflow while parsing JSON file in Aleth C&#43;&#43; Ethereum client (0day)</title>
+      <link>https://cr0wtom.github.io/projects/research-aleth/</link>
       <pubDate>Mon, 11 Jan 2021 12:56:46 +0100</pubDate>
       
-      <guid>https://cr0wtom.github.io/projects/0day-aleth/</guid>
+      <guid>https://cr0wtom.github.io/projects/research-aleth/</guid>
       <description>Title: Stack based buffer overflow while parsing JSON file in Aleth C++ Ethereum client
 Date: 11/01/2021
 CVE-ID: CVE-2020-26800
@@ -52,11 +52,11 @@ An attacker can supply a specially crafted config.json file, consisting of 3764 
     </item>
     
     <item>
-      <title>0day - [CVE-2020-24807] File Type Restriction Bypass in Socket.io-file NPM module</title>
-      <link>https://cr0wtom.github.io/projects/0day-socketio_2/</link>
+      <title>Research - [CVE-2020-24807] File Type Restriction Bypass in Socket.io-file NPM module (0day)</title>
+      <link>https://cr0wtom.github.io/projects/research-socketio_2/</link>
       <pubDate>Tue, 08 Sep 2020 16:56:46 +0100</pubDate>
       
-      <guid>https://cr0wtom.github.io/projects/0day-socketio_2/</guid>
+      <guid>https://cr0wtom.github.io/projects/research-socketio_2/</guid>
       <description>Title: File Type Restriction Bypass in Socket.io-file NPM module
 Date: 31/07/2020
 CVE-ID: CVE-2020-24807
@@ -77,22 +77,22 @@ All versions of socket.io-file are vulnerable to a file restriction bypass. The 
     </item>
     
     <item>
-      <title>Academic - DeTRACT a decentralized, transparent, immutable and open PKI certificate framework</title>
-      <link>https://cr0wtom.github.io/projects/detract-a-decentralized-transparent-immutable-and-open-pki-certificate-framework/</link>
+      <title>Research - DeTRACT a decentralized, transparent, immutable and open PKI certificate framework</title>
+      <link>https://cr0wtom.github.io/projects/research-detract-a-decentralized-transparent-immutable-and-open-pki-certificate-framework/</link>
       <pubDate>Fri, 07 Aug 2020 16:56:46 +0100</pubDate>
       
-      <guid>https://cr0wtom.github.io/projects/detract-a-decentralized-transparent-immutable-and-open-pki-certificate-framework/</guid>
+      <guid>https://cr0wtom.github.io/projects/research-detract-a-decentralized-transparent-immutable-and-open-pki-certificate-framework/</guid>
       <description>The academic paper based on my masters thesis and research made during my work with the OSwinds research team of the Aristotle Unicersity of Thessaloniki got published in Springers&#39; Internationa Journal of Information Security by the name &amp;ldquo;DeTRACT a decentralized, transparent, immutable and open PKI certificate framework&amp;rdquo;.
 Thanks to the team, George Vlahavas, Konstantinos Karasavvas &amp;amp; Athena Vakali.
 Abstract Public key infrastructure (PKI) is widely used over the Internet to secure and to encrypt communication among parties.</description>
     </item>
     
     <item>
-      <title>0day - [CVE-2020-15779] Path Traversal in Socket.io-file NPM module Functionality</title>
-      <link>https://cr0wtom.github.io/projects/0day-socketio/</link>
+      <title>Research - [CVE-2020-15779] Path Traversal in Socket.io-file NPM module Functionality (0day)</title>
+      <link>https://cr0wtom.github.io/projects/research-socketio/</link>
       <pubDate>Sun, 07 Jun 2020 16:56:46 +0100</pubDate>
       
-      <guid>https://cr0wtom.github.io/projects/0day-socketio/</guid>
+      <guid>https://cr0wtom.github.io/projects/research-socketio/</guid>
       <description>Title: Path Traversal in Socket.io-file NPM module
 Date: 18/05/2020
 CVE-ID: 2020-15779
@@ -256,11 +256,11 @@ See project</description>
     </item>
     
     <item>
-      <title>Talks - Consensus Algorithms (Greek)</title>
-      <link>https://cr0wtom.github.io/projects/talks-consensus-algorithms/</link>
+      <title>Research/Talks - Consensus Algorithms (Greek)</title>
+      <link>https://cr0wtom.github.io/projects/research-talks-consensus-algorithms/</link>
       <pubDate>Sun, 07 Oct 2018 16:56:46 +0100</pubDate>
       
-      <guid>https://cr0wtom.github.io/projects/talks-consensus-algorithms/</guid>
+      <guid>https://cr0wtom.github.io/projects/research-talks-consensus-algorithms/</guid>
       <description>Presentation at the &amp;ldquo;Bitcoin &amp;amp; Blockchain Tech Meetup (Thessaloniki)&amp;rdquo; taking place at Thessaloniki.
 Presentation Video
 Meetup Link
@@ -268,31 +268,31 @@ Slides</description>
     </item>
     
     <item>
-      <title>Academic - Traceability Decentralization in Supply Chain Management Using Blockchain Technologies</title>
-      <link>https://cr0wtom.github.io/projects/traceability-decentralization-in-supply-chain-management-using-blockchain-technologies/</link>
+      <title>Research - Traceability Decentralization in Supply Chain Management Using Blockchain Technologies</title>
+      <link>https://cr0wtom.github.io/projects/research-traceability-decentralization-in-supply-chain-management-using-blockchain-technologies/</link>
       <pubDate>Sat, 07 Jul 2018 16:56:46 +0100</pubDate>
       
-      <guid>https://cr0wtom.github.io/projects/traceability-decentralization-in-supply-chain-management-using-blockchain-technologies/</guid>
+      <guid>https://cr0wtom.github.io/projects/research-traceability-decentralization-in-supply-chain-management-using-blockchain-technologies/</guid>
       <description>Presentation and paper proceeding in the 4th Olympus International Conference on Supply Chains (14-15 September 2018, Katerini), on the topic &amp;ldquo;Traceability Decentralization in Supply Chain Management Using Blockchain Technologies&amp;rdquo;. Co-author Christos Sermpinis.
 Abstract With the increase of web users and applications with real time requests, the ability to identify, track and trace elements of a product as it moves in the supply chain is deemed necessary, and for many industries is even mandated by national or international regulations.</description>
     </item>
     
     <item>
-      <title>Academic - PKI Decentralization Using Blockchain Technologies</title>
-      <link>https://cr0wtom.github.io/projects/pki-decentralization-using-blockchain-technologies/</link>
+      <title>Research - PKI Decentralization Using Blockchain Technologies</title>
+      <link>https://cr0wtom.github.io/projects/research-pki-decentralization-using-blockchain-technologies/</link>
       <pubDate>Mon, 07 May 2018 16:56:46 +0100</pubDate>
       
-      <guid>https://cr0wtom.github.io/projects/pki-decentralization-using-blockchain-technologies/</guid>
+      <guid>https://cr0wtom.github.io/projects/research-pki-decentralization-using-blockchain-technologies/</guid>
       <description>My masters thesis, supervised by Athena Vakali, was based on blockchain technologies with the title “PKI Decentralization Using Blockchain Technologies”.
 Abstract The Public Key Infrastructure (PKI) is used widely on the Internet in order to certify the identity of users, and as a result encrypt the communication between two parties and make it more secure. From this model, multiple problems can arise, most of them due to its centralized nature. In the past, there have been cases of Certificate Authorities distributing rogue certificates that resulted in attacks, targeting users of the system.</description>
     </item>
     
     <item>
-      <title>Talks - Introduction to Bitcoin and Blockchain Technologies (Greek)</title>
-      <link>https://cr0wtom.github.io/projects/talks-introduction-to-bitcoin-and-blockchain-technologies-greek/</link>
+      <title>Research/Talks - Introduction to Bitcoin and Blockchain Technologies (Greek)</title>
+      <link>https://cr0wtom.github.io/projects/research-talks-introduction-to-bitcoin-and-blockchain-technologies-greek/</link>
       <pubDate>Mon, 07 May 2018 16:56:46 +0100</pubDate>
       
-      <guid>https://cr0wtom.github.io/projects/talks-introduction-to-bitcoin-and-blockchain-technologies-greek/</guid>
+      <guid>https://cr0wtom.github.io/projects/research-talks-introduction-to-bitcoin-and-blockchain-technologies-greek/</guid>
       <description>Presentation at the &amp;ldquo;Bitcoin and Machine Learning joint meetup&amp;rdquo; taking place at Thessaloniki.
 Presentation Video
 Slides
@@ -421,11 +421,11 @@ BlackHat Europe 2016 – Epilogue</description>
     </item>
     
     <item>
-      <title>Academic - Integration of Near Field Communication into Warehouse Management Systems (BSc Thesis)</title>
-      <link>https://cr0wtom.github.io/projects/integration-of-near-field-communication-into-warehouse-management-systems/</link>
+      <title>Research - Integration of Near Field Communication into Warehouse Management Systems (BSc Thesis)</title>
+      <link>https://cr0wtom.github.io/projects/research-integration-of-near-field-communication-into-warehouse-management-systems/</link>
       <pubDate>Tue, 07 Jun 2016 16:56:46 +0100</pubDate>
       
-      <guid>https://cr0wtom.github.io/projects/integration-of-near-field-communication-into-warehouse-management-systems/</guid>
+      <guid>https://cr0wtom.github.io/projects/research-integration-of-near-field-communication-into-warehouse-management-systems/</guid>
       <description>My bachelors thesis, supervised by Dimitrios Folinas, was based on NFC and WMS technologies with the title “Integration of Near Field Communication into Warehouse Management Systems”.
 Abstract (Greek) Στην παρούσα εργασία θα αναφερθούμε και θα εξετάσουμε μία καινοτόμο εφαρμογή που έχει να κάνει με την εφαρμογή της τεχνολογίας NFC, και παράλληλα της πολιτικής BYOD, στα συστήματα WMS. Τα κύρια σημεία που εξετάστηκαν είναι το αν υπάρχει ενδιαφέρον από τους εργαζομένους, όσο αναφορά την εφαρμογή ενός τέτοιου συστήματος στον χώρο εργασίας τους, και αν είναι δυνατή η ανάπτυξη ενός ολοκληρωμένου συστήματος με την προσθήκη των τεχνολογιών και πολιτικών που προτείνονται.</description>
     </item>
@@ -441,21 +441,21 @@ See project</description>
     </item>
     
     <item>
-      <title>Academic - Integration of Augmented Reality technology into Warehouse Management Systems</title>
-      <link>https://cr0wtom.github.io/projects/integration-of-augmented-reality-technology-into-warehouse-management-systems/</link>
+      <title>Research - Integration of Augmented Reality technology into Warehouse Management Systems</title>
+      <link>https://cr0wtom.github.io/projects/research-integration-of-augmented-reality-technology-into-warehouse-management-systems/</link>
       <pubDate>Tue, 07 Apr 2015 16:56:46 +0100</pubDate>
       
-      <guid>https://cr0wtom.github.io/projects/integration-of-augmented-reality-technology-into-warehouse-management-systems/</guid>
+      <guid>https://cr0wtom.github.io/projects/research-integration-of-augmented-reality-technology-into-warehouse-management-systems/</guid>
       <description>Presentation in the &amp;ldquo;12th Student Conference on Management Science and Technology&amp;rdquo; taking place in Athens on 14th of May 2015. The subject is my innovative idea on the &amp;ldquo;Integration of Augmented Reality technology into Warehouse Management Systems&amp;rdquo; based on my paper made in the context of my studies in the Technological Educational Institute of Central Macedonia.
 Slides</description>
     </item>
     
     <item>
-      <title>Academic - Integration of Near Field Communication technology into Warehouse Management Systems</title>
-      <link>https://cr0wtom.github.io/projects/integration-of-near-field-communication-technology-into-warehouse-management-systems/</link>
+      <title>Research - Integration of Near Field Communication technology into Warehouse Management Systems</title>
+      <link>https://cr0wtom.github.io/projects/research-integration-of-near-field-communication-technology-into-warehouse-management-systems/</link>
       <pubDate>Tue, 07 Apr 2015 16:56:46 +0100</pubDate>
       
-      <guid>https://cr0wtom.github.io/projects/integration-of-near-field-communication-technology-into-warehouse-management-systems/</guid>
+      <guid>https://cr0wtom.github.io/projects/research-integration-of-near-field-communication-technology-into-warehouse-management-systems/</guid>
       <description>Presentation in the &amp;ldquo;12th Student Conference on Management Science and Technology&amp;rdquo; taking place in Athens on 14th of May 2015. The subject is my innovative idea on the &amp;ldquo;Integration of Near Field Communication technology into Warehouse Management Systems&amp;rdquo; based on my paper made in the context of my studies in the Technological Educational Institute of Central Macedonia.
 Slides</description>
     </item>
