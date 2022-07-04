@@ -7,11 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Thomas Sermpinis</copyright>
-    <lastBuildDate>Thu, 24 Feb 2022 16:56:46 +0100</lastBuildDate><atom:link href="https://cr0wtom.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Jun 2022 16:56:46 +0100</lastBuildDate><atom:link href="https://cr0wtom.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Academic</title>
       <link>https://cr0wtom.github.io/tags/academic/</link>
-      <pubDate>Thu, 24 Feb 2022 16:56:46 +0100</pubDate>
+      <pubDate>Thu, 30 Jun 2022 16:56:46 +0100</pubDate>
       
       <guid>https://cr0wtom.github.io/tags/academic/</guid>
       <description></description>
@@ -20,9 +20,45 @@
     <item>
       <title>Automotive</title>
       <link>https://cr0wtom.github.io/tags/automotive/</link>
-      <pubDate>Thu, 24 Feb 2022 16:56:46 +0100</pubDate>
+      <pubDate>Thu, 30 Jun 2022 16:56:46 +0100</pubDate>
       
       <guid>https://cr0wtom.github.io/tags/automotive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://cr0wtom.github.io/tags/research/</link>
+      <pubDate>Thu, 30 Jun 2022 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://cr0wtom.github.io/tags/security/</link>
+      <pubDate>Thu, 30 Jun 2022 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://cr0wtom.github.io/tags/talks/</link>
+      <pubDate>Thu, 30 Jun 2022 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/tags/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TROOPERS22</title>
+      <link>https://cr0wtom.github.io/tags/troopers22/</link>
+      <pubDate>Thu, 30 Jun 2022 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/tags/troopers22/</guid>
       <description></description>
     </item>
     
@@ -36,29 +72,11 @@
     </item>
     
     <item>
-      <title>Security</title>
-      <link>https://cr0wtom.github.io/tags/security/</link>
-      <pubDate>Thu, 24 Feb 2022 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/tags/security/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>0day</title>
       <link>https://cr0wtom.github.io/tags/0day/</link>
       <pubDate>Tue, 11 May 2021 12:56:46 +0100</pubDate>
       
       <guid>https://cr0wtom.github.io/tags/0day/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>https://cr0wtom.github.io/tags/research/</link>
-      <pubDate>Tue, 11 May 2021 12:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/tags/research/</guid>
       <description></description>
     </item>
     
@@ -122,15 +140,6 @@
       <pubDate>Sun, 07 Oct 2018 16:56:46 +0100</pubDate>
       
       <guid>https://cr0wtom.github.io/tags/oscp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Talks</title>
-      <link>https://cr0wtom.github.io/tags/talks/</link>
-      <pubDate>Sun, 07 Oct 2018 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/tags/talks/</guid>
       <description></description>
     </item>
     

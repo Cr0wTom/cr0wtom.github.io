@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Thomas Sermpinis</copyright>
-    <lastBuildDate>Thu, 24 Feb 2022 16:56:46 +0100</lastBuildDate><atom:link href="https://cr0wtom.github.io/tags/automotive/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Jun 2022 16:56:46 +0100</lastBuildDate><atom:link href="https://cr0wtom.github.io/tags/automotive/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research/Talks - UDS Fuzzing and the Path to Game Over</title>
+      <link>https://cr0wtom.github.io/projects/research-talks-uds-fuzzing-troopers/</link>
+      <pubDate>Thu, 30 Jun 2022 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/projects/research-talks-uds-fuzzing-troopers/</guid>
+      <description>The automotive industry presented significant advances in the sector in the last decade, to catch up with the technological advances of the world. Lack of proper regulations and security standards meant that automotive companies had to develop custom solutions most of the time, which resulted in a lot of security issues. Security testing also fell behind, as there was no significant need till now to test and research those devices, but with more and more connected components the risks are increasing rapidly.</description>
+    </item>
+    
     <item>
       <title>GitHub - CaringCaribou DoIP Module</title>
       <link>https://cr0wtom.github.io/projects/github-doip-cc-module/</link>
