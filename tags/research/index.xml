@@ -167,5 +167,15 @@ Slides</description>
 Slides</description>
     </item>
     
+    <item>
+      <title>Research/Talks - Penetration Testing with Android Devices</title>
+      <link>https://cr0wtom.github.io/projects/research-talks-penetration-testing-with-android-devices/</link>
+      <pubDate>Sun, 30 Nov 2014 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/projects/research-talks-penetration-testing-with-android-devices/</guid>
+      <description>One of my first talks in the security industry happened in the Google DevFest 2014 Season of Thessaloniki. A brief visit to the ways of performing penetration testing with an Android device was presented.
+Slides</description>
+    </item>
+    
   </channel>
 </rss>
