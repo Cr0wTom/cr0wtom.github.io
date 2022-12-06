@@ -24,7 +24,7 @@
       
       <guid>https://cr0wtom.github.io/projects/github-doip-cc-module/</guid>
       <description>An enumeration and exploitation module for the UDS protocol on DoIP upon the ISO 13400-2, as a CaringCaribou contribution. It includes the following sub-functions:
- discovery - Scan for arbitration IDs where ECUs listen and respond to incoming diagnostics requests services - Scan for diagnostics services supported by an ECU ecu_reset - Reset an ECU security_seed - Request security seeds from an ECU dump_dids - Dump data identifiers with the read_data_by_identifier UDS service testerpresent - Force an elevated diagnostics session against an ECU to stay active seed_randomness_fuzzer - ECUReset method fuzzing for seed randomness evaluation  Project Link</description>
+discovery - Scan for arbitration IDs where ECUs listen and respond to incoming diagnostics requests services - Scan for diagnostics services supported by an ECU ecu_reset - Reset an ECU security_seed - Request security seeds from an ECU dump_dids - Dump data identifiers with the read_data_by_identifier UDS service testerpresent - Force an elevated diagnostics session against an ECU to stay active seed_randomness_fuzzer - ECUReset method fuzzing for seed randomness evaluation Project Link</description>
     </item>
     
     <item>
@@ -34,8 +34,8 @@
       
       <guid>https://cr0wtom.github.io/projects/github-uds_fuzzer-cc-module/</guid>
       <description>A fuzzing module for the UDS protocol, as a CaringCaribou contribution. It includes the following sub-functions:
-  seed_randomness_fuzzer: Supply the seed request process used by the target ECU and fuzz it to test for possible duplicates after a supplied Hard ECUReset (with flexibility on the reset method implementation), which means that the device is possibly vulnerable.
-  delay_fuzzer: This is more of an exploitation sub-function, where a seed request process is supplied, alongside the seed from a single seed/key pair that a tester has acquired.</description>
+seed_randomness_fuzzer: Supply the seed request process used by the target ECU and fuzz it to test for possible duplicates after a supplied Hard ECUReset (with flexibility on the reset method implementation), which means that the device is possibly vulnerable.
+delay_fuzzer: This is more of an exploitation sub-function, where a seed request process is supplied, alongside the seed from a single seed/key pair that a tester has acquired.</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Fri, 07 Aug 2020 16:56:46 +0100</pubDate>
       
       <guid>https://cr0wtom.github.io/projects/research-detract-a-decentralized-transparent-immutable-and-open-pki-certificate-framework/</guid>
-      <description>The academic paper based on my masters thesis and research made during my work with the OSwinds research team of the Aristotle Unicersity of Thessaloniki got published in Springers&#39; Internationa Journal of Information Security by the name &amp;ldquo;DeTRACT a decentralized, transparent, immutable and open PKI certificate framework&amp;rdquo;.
+      <description>The academic paper based on my masters thesis and research made during my work with the OSwinds research team of the Aristotle Unicersity of Thessaloniki got published in Springers&amp;rsquo; Internationa Journal of Information Security by the name &amp;ldquo;DeTRACT a decentralized, transparent, immutable and open PKI certificate framework&amp;rdquo;.
 Thanks to the team, George Vlahavas, Konstantinos Karasavvas &amp;amp; Athena Vakali.
 Abstract Public key infrastructure (PKI) is widely used over the Internet to secure and to encrypt communication among parties.</description>
     </item>
@@ -173,11 +173,10 @@ Blog Post</description>
       <pubDate>Wed, 28 Mar 2018 16:56:46 +0100</pubDate>
       
       <guid>https://cr0wtom.github.io/projects/academic-informatics-and-management-msc/</guid>
-      <description>Master&amp;rsquo;s Degree with title Informatics and Management from the Aristotle University of Thessaloniki and the department of Computer Science.
-  Thesis: PKI Decentralization Using Blockchain Technologies (Grade: 10/10)
-  Courses: Business Intelligence, IT Infrastructure, IT Business Systems, Worldwide Web, IT Project Management, Research Methodology and Data Analysis, E-commerce, Databases and Data Mining, Financial Risk Management
-  Final Grade: 9,25/10
-  </description>
+      <description>Master&amp;rsquo;s Degree with title Informatics and Management from the Aristotle University of Thessaloniki and the department of Computer Science.
+Thesis: PKI Decentralization Using Blockchain Technologies (Grade: 10/10)
+Courses: Business Intelligence, IT Infrastructure, IT Business Systems, Worldwide Web, IT Project Management, Research Methodology and Data Analysis, E-commerce, Databases and Data Mining, Financial Risk Management
+Final Grade: 9,25/10</description>
     </item>
     
     <item>
@@ -187,9 +186,9 @@ Blog Post</description>
       
       <guid>https://cr0wtom.github.io/projects/academic-administration-and-economics-bsc/</guid>
       <description>Bachelor&amp;rsquo;s Degree on Administration and Economics from the University of Applied Sciences of Central Macedonia with major in Supply Chain Management (Logistics).
-  Major: Supply Chain Management
-  Thesis: Integration of Near Field Communication technology into Warehouse Management Systems (Grade: 10/10)
-  Courses: Mathematics, Consumer behavior, Informatics, Introduction to economics, Plant product processing, Animal product processing, HRM, Dissertation writing, Statistical and qualitative data analysis, Urban Commercial Law, Technical Chemistry, Business Administration, Marketing, Technology and Materials Management, Accounting principles, Industrial Processes in Manufacturing, Costing - Management Accounting, GIS, Quality control, Packaging and Standardization, E-commerce, Reverse and Green Logistics, Introduction to Logistics, Marking and Traceability, Organisational Behavior, Systems and Means of Transport, Inventory Management and Demand Forecasting, Warehouse Organization and Management, Quality management, Supply Chain Management, Research methodology, Purchasing management, CRM, Operational research, Management of services supply chain.</description>
+Major: Supply Chain Management
+Thesis: Integration of Near Field Communication technology into Warehouse Management Systems (Grade: 10/10)
+Courses: Mathematics, Consumer behavior, Informatics, Introduction to economics, Plant product processing, Animal product processing, HRM, Dissertation writing, Statistical and qualitative data analysis, Urban Commercial Law, Technical Chemistry, Business Administration, Marketing, Technology and Materials Management, Accounting principles, Industrial Processes in Manufacturing, Costing - Management Accounting, GIS, Quality control, Packaging and Standardization, E-commerce, Reverse and Green Logistics, Introduction to Logistics, Marking and Traceability, Organisational Behavior, Systems and Means of Transport, Inventory Management and Demand Forecasting, Warehouse Organization and Management, Quality management, Supply Chain Management, Research methodology, Purchasing management, CRM, Operational research, Management of services supply chain.</description>
     </item>
     
     <item>
