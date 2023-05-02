@@ -2,37 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cr0wtom.github.io/tags/academic/</loc>
+    <lastmod>2023-04-30T16:56:46+01:00</lastmod>
+  </url><url>
+    <loc>https://cr0wtom.github.io/tags/automotive/</loc>
+    <lastmod>2023-04-30T16:56:46+01:00</lastmod>
+  </url><url>
+    <loc>https://cr0wtom.github.io/</loc>
+    <lastmod>2023-04-30T16:56:46+01:00</lastmod>
+  </url><url>
+    <loc>https://cr0wtom.github.io/projects/</loc>
+    <lastmod>2023-04-30T16:56:46+01:00</lastmod>
+  </url><url>
+    <loc>https://cr0wtom.github.io/tags/research/</loc>
+    <lastmod>2023-04-30T16:56:46+01:00</lastmod>
+  </url><url>
+    <loc>https://cr0wtom.github.io/projects/research-talks-horror-stories-troopers23/</loc>
+    <lastmod>2023-04-30T16:56:46+01:00</lastmod>
+  </url><url>
+    <loc>https://cr0wtom.github.io/tags/security/</loc>
+    <lastmod>2023-04-30T16:56:46+01:00</lastmod>
+  </url><url>
+    <loc>https://cr0wtom.github.io/tags/</loc>
+    <lastmod>2023-04-30T16:56:46+01:00</lastmod>
+  </url><url>
+    <loc>https://cr0wtom.github.io/tags/talks/</loc>
+    <lastmod>2023-04-30T16:56:46+01:00</lastmod>
+  </url><url>
+    <loc>https://cr0wtom.github.io/tags/troopers23/</loc>
+    <lastmod>2023-04-30T16:56:46+01:00</lastmod>
+  </url><url>
     <loc>https://cr0wtom.github.io/tags/2600/</loc>
     <lastmod>2023-02-07T16:56:46+01:00</lastmod>
   </url><url>
     <loc>https://cr0wtom.github.io/projects/2600-is-it-time-to-change-our-approach-to-security/</loc>
     <lastmod>2023-02-07T16:56:46+01:00</lastmod>
   </url><url>
-    <loc>https://cr0wtom.github.io/</loc>
-    <lastmod>2023-02-07T16:56:46+01:00</lastmod>
-  </url><url>
-    <loc>https://cr0wtom.github.io/projects/</loc>
-    <lastmod>2023-02-07T16:56:46+01:00</lastmod>
-  </url><url>
-    <loc>https://cr0wtom.github.io/tags/</loc>
-    <lastmod>2023-02-07T16:56:46+01:00</lastmod>
-  </url><url>
-    <loc>https://cr0wtom.github.io/tags/academic/</loc>
-    <lastmod>2022-06-30T16:56:46+01:00</lastmod>
-  </url><url>
-    <loc>https://cr0wtom.github.io/tags/automotive/</loc>
-    <lastmod>2022-06-30T16:56:46+01:00</lastmod>
-  </url><url>
-    <loc>https://cr0wtom.github.io/tags/research/</loc>
-    <lastmod>2022-06-30T16:56:46+01:00</lastmod>
-  </url><url>
-    <loc>https://cr0wtom.github.io/projects/research-talks-uds-fuzzing-troopers/</loc>
-    <lastmod>2022-06-30T16:56:46+01:00</lastmod>
-  </url><url>
-    <loc>https://cr0wtom.github.io/tags/security/</loc>
-    <lastmod>2022-06-30T16:56:46+01:00</lastmod>
-  </url><url>
-    <loc>https://cr0wtom.github.io/tags/talks/</loc>
+    <loc>https://cr0wtom.github.io/projects/research-talks-uds-fuzzing-troopers22/</loc>
     <lastmod>2022-06-30T16:56:46+01:00</lastmod>
   </url><url>
     <loc>https://cr0wtom.github.io/tags/troopers22/</loc>
