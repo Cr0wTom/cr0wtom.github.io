@@ -7,11 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Thomas Sermpinis</copyright>
-    <lastBuildDate>Sun, 02 Jul 2023 16:56:46 +0100</lastBuildDate><atom:link href="https://cr0wtom.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Jun 2023 16:56:46 +0100</lastBuildDate><atom:link href="https://cr0wtom.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Academic</title>
       <link>https://cr0wtom.github.io/tags/academic/</link>
-      <pubDate>Sun, 02 Jul 2023 16:56:46 +0100</pubDate>
+      <pubDate>Fri, 30 Jun 2023 16:56:46 +0100</pubDate>
       
       <guid>https://cr0wtom.github.io/tags/academic/</guid>
       <description></description>
@@ -20,7 +20,7 @@
     <item>
       <title>Automotive</title>
       <link>https://cr0wtom.github.io/tags/automotive/</link>
-      <pubDate>Sun, 02 Jul 2023 16:56:46 +0100</pubDate>
+      <pubDate>Fri, 30 Jun 2023 16:56:46 +0100</pubDate>
       
       <guid>https://cr0wtom.github.io/tags/automotive/</guid>
       <description></description>
@@ -29,16 +29,25 @@
     <item>
       <title>CCC</title>
       <link>https://cr0wtom.github.io/tags/ccc/</link>
-      <pubDate>Sun, 02 Jul 2023 16:56:46 +0100</pubDate>
+      <pubDate>Fri, 30 Jun 2023 16:56:46 +0100</pubDate>
       
       <guid>https://cr0wtom.github.io/tags/ccc/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>DeepSec</title>
+      <link>https://cr0wtom.github.io/tags/deepsec/</link>
+      <pubDate>Fri, 30 Jun 2023 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/tags/deepsec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Research</title>
       <link>https://cr0wtom.github.io/tags/research/</link>
-      <pubDate>Sun, 02 Jul 2023 16:56:46 +0100</pubDate>
+      <pubDate>Fri, 30 Jun 2023 16:56:46 +0100</pubDate>
       
       <guid>https://cr0wtom.github.io/tags/research/</guid>
       <description></description>
@@ -47,7 +56,7 @@
     <item>
       <title>Security</title>
       <link>https://cr0wtom.github.io/tags/security/</link>
-      <pubDate>Sun, 02 Jul 2023 16:56:46 +0100</pubDate>
+      <pubDate>Fri, 30 Jun 2023 16:56:46 +0100</pubDate>
       
       <guid>https://cr0wtom.github.io/tags/security/</guid>
       <description></description>
@@ -56,7 +65,7 @@
     <item>
       <title>Talks</title>
       <link>https://cr0wtom.github.io/tags/talks/</link>
-      <pubDate>Sun, 02 Jul 2023 16:56:46 +0100</pubDate>
+      <pubDate>Fri, 30 Jun 2023 16:56:46 +0100</pubDate>
       
       <guid>https://cr0wtom.github.io/tags/talks/</guid>
       <description></description>
