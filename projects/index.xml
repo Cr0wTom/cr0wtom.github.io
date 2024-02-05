@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Thomas Sermpinis</copyright>
-    <lastBuildDate>Sun, 07 Jan 2024 16:56:46 +0100</lastBuildDate><atom:link href="https://cr0wtom.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Feb 2024 16:56:46 +0100</lastBuildDate><atom:link href="https://cr0wtom.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research/Talks - ASRG Prague Group</title>
+      <link>https://cr0wtom.github.io/projects/research-talks-asrg/</link>
+      <pubDate>Thu, 01 Feb 2024 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/projects/research-talks-asrg/</guid>
+      <description> As the new leader of the ASRG Prague Group, I will be presenting a series of events, focused on Automotive Security. List to be updated with more information, as the events happen.
+Event 1: ASRG Prague Meetup: Vehicle (In)Securities - Part 1
+Event Link LinkedIn Link </description>
+    </item>
+    
     <item>
       <title>Undisclosed OBC Research</title>
       <link>https://cr0wtom.github.io/projects/research-obc-research/</link>
@@ -29,11 +40,11 @@
     <item>
       <title>2600 - Is it time to change our approach to security?</title>
       <link>https://cr0wtom.github.io/projects/2600-is-it-time-to-change-our-approach-to-security/</link>
-      <pubDate>Tue, 07 Feb 2023 16:56:46 +0100</pubDate>
+      <pubDate>Mon, 07 Nov 2022 16:56:46 +0100</pubDate>
       
       <guid>https://cr0wtom.github.io/projects/2600-is-it-time-to-change-our-approach-to-security/</guid>
-      <description>Undisclosed Article for 2600 Magazine, planned to be released in the autumn issue of 2023.
-Stay Tuned&amp;hellip;
+      <description>One more article for the legendary 2600 magazine, going through the intresting and critical story of the Automotive security, and my views on where we are, where we are going, and what we should pay attention and change on our way there.
+Volume Thirty Nine Number Three - Autumn 2022. Buy the issue.
 2600 Magazine</description>
     </item>
     
