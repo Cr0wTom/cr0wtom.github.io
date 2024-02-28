@@ -7,13 +7,67 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Thomas Sermpinis</copyright>
-    <lastBuildDate>Thu, 01 Feb 2024 16:56:46 +0100</lastBuildDate><atom:link href="https://cr0wtom.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Feb 2024 16:56:46 +0100</lastBuildDate><atom:link href="https://cr0wtom.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Academic</title>
       <link>https://cr0wtom.github.io/tags/academic/</link>
-      <pubDate>Thu, 01 Feb 2024 16:56:46 +0100</pubDate>
+      <pubDate>Tue, 27 Feb 2024 16:56:46 +0100</pubDate>
       
       <guid>https://cr0wtom.github.io/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automotive</title>
+      <link>https://cr0wtom.github.io/tags/automotive/</link>
+      <pubDate>Tue, 27 Feb 2024 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/tags/automotive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POCrew</title>
+      <link>https://cr0wtom.github.io/tags/pocrew/</link>
+      <pubDate>Tue, 27 Feb 2024 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/tags/pocrew/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://cr0wtom.github.io/tags/research/</link>
+      <pubDate>Tue, 27 Feb 2024 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://cr0wtom.github.io/tags/security/</link>
+      <pubDate>Tue, 27 Feb 2024 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://cr0wtom.github.io/tags/talks/</link>
+      <pubDate>Tue, 27 Feb 2024 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/tags/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zer0Con</title>
+      <link>https://cr0wtom.github.io/tags/zer0con/</link>
+      <pubDate>Tue, 27 Feb 2024 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/tags/zer0con/</guid>
       <description></description>
     </item>
     
@@ -23,42 +77,6 @@
       <pubDate>Thu, 01 Feb 2024 16:56:46 +0100</pubDate>
       
       <guid>https://cr0wtom.github.io/tags/asrg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Automotive</title>
-      <link>https://cr0wtom.github.io/tags/automotive/</link>
-      <pubDate>Thu, 01 Feb 2024 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/tags/automotive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>https://cr0wtom.github.io/tags/research/</link>
-      <pubDate>Thu, 01 Feb 2024 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/tags/research/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Security</title>
-      <link>https://cr0wtom.github.io/tags/security/</link>
-      <pubDate>Thu, 01 Feb 2024 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/tags/security/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Talks</title>
-      <link>https://cr0wtom.github.io/tags/talks/</link>
-      <pubDate>Thu, 01 Feb 2024 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/tags/talks/</guid>
       <description></description>
     </item>
     

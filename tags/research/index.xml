@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Thomas Sermpinis</copyright>
-    <lastBuildDate>Thu, 01 Feb 2024 16:56:46 +0100</lastBuildDate><atom:link href="https://cr0wtom.github.io/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Feb 2024 16:56:46 +0100</lastBuildDate><atom:link href="https://cr0wtom.github.io/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research/Talks - Back to the Future: Old Vulnerabilities Becoming New Again</title>
+      <link>https://cr0wtom.github.io/projects/research-talks-back-to-the-future/</link>
+      <pubDate>Tue, 27 Feb 2024 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/projects/research-talks-back-to-the-future/</guid>
+      <description>While hardware security is a topic of interest for decades, devices are constantly getting smaller, more powerful and more complicated. Most would assume that this resulted in higher security standards, but from our 100+ penetration tests in the (heavily hardware based) automotive industry, we beg to differ.
+With automotive suppliers trying to make everything work under heavily constrained environments, with limited resources both for energy and processing power, understandably many things are getting left out of the table, with one of the biggest victim being security.</description>
+    </item>
+    
     <item>
       <title>Research/Talks - ASRG Prague Group</title>
       <link>https://cr0wtom.github.io/projects/research-talks-asrg/</link>
