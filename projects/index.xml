@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Thomas Sermpinis</copyright>
-    <lastBuildDate>Tue, 27 Feb 2024 16:56:46 +0100</lastBuildDate><atom:link href="https://cr0wtom.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Apr 2024 16:56:46 +0100</lastBuildDate><atom:link href="https://cr0wtom.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research/Talks - V2GEvil: Ghost in the wires</title>
+      <link>https://cr0wtom.github.io/projects/research-talks-v2gevil/</link>
+      <pubDate>Sat, 27 Apr 2024 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/projects/research-talks-v2gevil/</guid>
+      <description>This research is dedicated to enhancing the cybersecurity of electric vehicles, with a specific focus on identifying vulnerabilities in the Electric Vehicle Communication Controller (EVCC). This controller facilitates communication with the Supply Equipment Communication Controller during the charging process. Accessible through the On-Board Charging (OBC) port, which is as publicly available as the gas tank in combustion engine vehicles.
+The research journey began by studying the electric vehicle charging ports, how they communicate, and the standards they follow, especially focusing on ISO 15118.</description>
+    </item>
+    
     <item>
       <title>Research/Talks - Back to the Future: Old Vulnerabilities Becoming New Again</title>
       <link>https://cr0wtom.github.io/projects/research-talks-back-to-the-future/</link>
@@ -331,8 +341,8 @@ Project Link</description>
       <pubDate>Sun, 07 Oct 2018 16:56:46 +0100</pubDate>
       
       <guid>https://cr0wtom.github.io/projects/sbc-penetration-testing-with-raspberry-pi-hakin9/</guid>
-      <description>Instructor in the 4 week course for Hakin9 Media, in the topic of penetration testing with Raspberry Pi and other security related hardware.
-See project</description>
+      <description> Instructor in the 4 week course for Hakin9 Media, in the topic of penetration testing with Raspberry Pi and other security related hardware.
+See project YouTube Video Sample </description>
     </item>
     
     <item>
@@ -386,8 +396,8 @@ Blog Post</description>
       <pubDate>Sat, 07 Apr 2018 16:56:46 +0100</pubDate>
       
       <guid>https://cr0wtom.github.io/projects/attack-and-defense-in-blockchain-technologies-hakin9/</guid>
-      <description>Instructor in the 4 week course for Hakin9 Media, in Blockchain security topics.
-See Project</description>
+      <description> Instructor in the 4 week course for Hakin9 Media, in Blockchain security topics.
+See Project YouTube Video Sample </description>
     </item>
     
     <item>
@@ -465,8 +475,8 @@ TROOPERS 17 – The Wrap Up</description>
       <pubDate>Wed, 07 Dec 2016 16:56:46 +0100</pubDate>
       
       <guid>https://cr0wtom.github.io/projects/bypassing-web-application-firewalls-hakin9/</guid>
-      <description>Workshop Instructor in the 4 week topic, &amp;ldquo;Bypassing Web Application Firewalls&amp;rdquo;, hosted by the Hakin9 Magazine.
-See project</description>
+      <description> Workshop Instructor in the 4 week topic, &amp;ldquo;Bypassing Web Application Firewalls&amp;rdquo;, hosted by the Hakin9 Magazine.
+See project YouTube Video Sample YouTube Video Sample 2 </description>
     </item>
     
     <item>
@@ -485,8 +495,8 @@ See Project or buy the Book.</description>
       <pubDate>Wed, 07 Sep 2016 16:56:46 +0100</pubDate>
       
       <guid>https://cr0wtom.github.io/projects/web-application-hacking-advanced-sql-injection-and-data-store-attacks-hakin9/</guid>
-      <description>Workshop Instructor in the 4 week topic, &amp;ldquo;Web Application Hacking: Advanced SQL Injection and Data Store Attacks&amp;rdquo;, hosted by the eForensics Magazine.
-See Project</description>
+      <description> Workshop Instructor in the 4 week topic, &amp;ldquo;Web Application Hacking: Advanced SQL Injection and Data Store Attacks&amp;rdquo;, hosted by the eForensics Magazine.
+See Project YouTube Video Sample </description>
     </item>
     
     <item>
@@ -594,7 +604,8 @@ You can find more here.</description>
       <guid>https://cr0wtom.github.io/projects/research-talks-penetration-testing-with-android-devices/</guid>
       <description>One of my first talks in the security industry happened in the Google DevFest 2014 Season of Thessaloniki. A brief visit to the ways of performing penetration testing with an Android device was presented.
 Conference Link
-Slides</description>
+Slides
+Presentation Video</description>
     </item>
     
     <item>
