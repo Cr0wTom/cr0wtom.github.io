@@ -7,13 +7,49 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Thomas Sermpinis</copyright>
-    <lastBuildDate>Sat, 27 Apr 2024 16:56:46 +0100</lastBuildDate><atom:link href="https://cr0wtom.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 May 2024 16:56:46 +0100</lastBuildDate><atom:link href="https://cr0wtom.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Academic</title>
       <link>https://cr0wtom.github.io/tags/academic/</link>
-      <pubDate>Sat, 27 Apr 2024 16:56:46 +0100</pubDate>
+      <pubDate>Tue, 07 May 2024 16:56:46 +0100</pubDate>
       
       <guid>https://cr0wtom.github.io/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://cr0wtom.github.io/tags/research/</link>
+      <pubDate>Tue, 07 May 2024 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://cr0wtom.github.io/tags/security/</link>
+      <pubDate>Tue, 07 May 2024 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://cr0wtom.github.io/tags/talks/</link>
+      <pubDate>Tue, 07 May 2024 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/tags/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TROOPERS24</title>
+      <link>https://cr0wtom.github.io/tags/troopers24/</link>
+      <pubDate>Tue, 07 May 2024 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/tags/troopers24/</guid>
       <description></description>
     </item>
     
@@ -27,47 +63,11 @@
     </item>
     
     <item>
-      <title>Research</title>
-      <link>https://cr0wtom.github.io/tags/research/</link>
-      <pubDate>Sat, 27 Apr 2024 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/tags/research/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ScapyCon</title>
       <link>https://cr0wtom.github.io/tags/scapycon/</link>
       <pubDate>Sat, 27 Apr 2024 16:56:46 +0100</pubDate>
       
       <guid>https://cr0wtom.github.io/tags/scapycon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Security</title>
-      <link>https://cr0wtom.github.io/tags/security/</link>
-      <pubDate>Sat, 27 Apr 2024 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/tags/security/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Talks</title>
-      <link>https://cr0wtom.github.io/tags/talks/</link>
-      <pubDate>Sat, 27 Apr 2024 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/tags/talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Troopers24</title>
-      <link>https://cr0wtom.github.io/tags/troopers24/</link>
-      <pubDate>Sat, 27 Apr 2024 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/tags/troopers24/</guid>
       <description></description>
     </item>
     
