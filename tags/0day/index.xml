@@ -9,12 +9,12 @@
     <copyright>Thomas Sermpinis</copyright>
     <lastBuildDate>Sun, 07 Jul 2024 16:56:46 +0100</lastBuildDate><atom:link href="https://cr0wtom.github.io/tags/0day/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Research - [CVE-2024-6347] - UNDISCLOSED</title>
+      <title>Research - [CVE-2024-6347] - Unauthorized access to ECU functionality</title>
       <link>https://cr0wtom.github.io/projects/research-nissan_seed/</link>
       <pubDate>Sun, 07 Jul 2024 16:56:46 +0100</pubDate>
       
       <guid>https://cr0wtom.github.io/projects/research-nissan_seed/</guid>
-      <description>Title: UNDISCLOSED
+      <description>Title: Unauthorized access to ECU functionality
 Date: 12/09/2024
 CVE-ID: CVE-2024-6347
 Author: Thomas Sermpinis
@@ -26,12 +26,12 @@ CVE-ID (Mitre)</description>
     </item>
     
     <item>
-      <title>Research - [CVE-2024-6348] - UNDISCLOSED</title>
+      <title>Research - [CVE-2024-6348] - Predictable seed generation after ECU reset</title>
       <link>https://cr0wtom.github.io/projects/research-nissan_ecureset/</link>
       <pubDate>Sun, 07 Jul 2024 16:56:46 +0100</pubDate>
       
       <guid>https://cr0wtom.github.io/projects/research-nissan_ecureset/</guid>
-      <description>Title: UNDISCLOSED
+      <description>Title: Predictable seed generation after ECU reset
 Date: 12/09/2024
 CVE-ID: CVE-2024-6348
 Author: Thomas Sermpinis
