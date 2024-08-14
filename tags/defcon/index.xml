@@ -7,15 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Thomas Sermpinis</copyright>
-    <lastBuildDate>Fri, 07 Jun 2024 16:56:46 +0100</lastBuildDate><atom:link href="https://cr0wtom.github.io/tags/defcon/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Aug 2024 16:56:46 +0100</lastBuildDate><atom:link href="https://cr0wtom.github.io/tags/defcon/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research/Talks - The hack, the crash and two smoking barrels. (And all the times I (almost) killed an engineer.)</title>
       <link>https://cr0wtom.github.io/projects/research-talks-two-smocking-barrels/</link>
-      <pubDate>Fri, 07 Jun 2024 16:56:46 +0100</pubDate>
+      <pubDate>Sun, 11 Aug 2024 16:56:46 +0100</pubDate>
       
       <guid>https://cr0wtom.github.io/projects/research-talks-two-smocking-barrels/</guid>
       <description>Abstract:
 This is not a talk in which I will demonstrate exploit chains obtained from the underworld after signing with blood. It’s about sharing meaningful stories from said underworld. The automotive underworld of huge corporations, short deadlines and lukewarm engineers. The one where companies fight for packing more and more functionality inside your computer on wheels, without paying attention to one of the things that our life actually depends on right now, cybersecurity.</description>
+    </item>
+    
+    <item>
+      <title>Research/Talks - V2GEvil: Ghost in the wires</title>
+      <link>https://cr0wtom.github.io/projects/research-talks-v2gevil/</link>
+      <pubDate>Mon, 24 Jun 2024 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/projects/research-talks-v2gevil/</guid>
+      <description>This research is dedicated to enhancing the cybersecurity of electric vehicles, with a specific focus on identifying vulnerabilities in the Electric Vehicle Communication Controller (EVCC). This controller facilitates communication with the Supply Equipment Communication Controller during the charging process. Accessible through the On-Board Charging (OBC) port, which is as publicly available as the gas tank in combustion engine vehicles.
+The research journey began by studying the electric vehicle charging ports, how they communicate, and the standards they follow, especially focusing on ISO 15118.</description>
     </item>
     
   </channel>
