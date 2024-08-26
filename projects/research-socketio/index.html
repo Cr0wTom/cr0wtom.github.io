@@ -7,12 +7,13 @@
 <meta name="author" content="">
 <meta name="description" content="Title: Path Traversal in Socket.io-file NPM module
 Date: 18/05/2020
-CVE-ID: 2020-15779
+CVE-ID: CVE-2020-15779
+CVSS Score: 7.5 (v3)
 Author: Thomas Sermpinis
 Versions: &amp;lt;= 2.0.31
 Package URL: https://www.npmjs.com/package/socket.io-file
 Tested on: node v10.19.0, Socket.io-file v2.0.31, socket.io v2.3.0
-All versions of socket.io-file are vulnerable to Path Traversal. The package fails to sanitize user input and uses it to generate the file upload paths. The socket.io-file::createFile message contains a name option that is passed directly to path.join(). It is possible to upload files to arbitrary folders on the server by sending relative paths on the name value, such as ." />
+All versions of socket.io-file are vulnerable to Path Traversal. The package fails to sanitize user input and uses it to generate the file upload paths. The socket.io-file::createFile message contains a name option that is passed directly to path." />
 <meta name="keywords" content=", 0day, Research, cve" />
 <meta name="robots" content="noodp" />
 <meta name="theme-color" content="" />
@@ -45,14 +46,15 @@ All versions of socket.io-file are vulnerable to Path Traversal. The package fai
 <meta itemprop="name" content="Research - [CVE-2020-15779] Path Traversal in Socket.io-file NPM module Functionality (0day)">
 <meta itemprop="description" content="Title: Path Traversal in Socket.io-file NPM module
 Date: 18/05/2020
-CVE-ID: 2020-15779
+CVE-ID: CVE-2020-15779
+CVSS Score: 7.5 (v3)
 Author: Thomas Sermpinis
 Versions: &lt;= 2.0.31
 Package URL: https://www.npmjs.com/package/socket.io-file
 Tested on: node v10.19.0, Socket.io-file v2.0.31, socket.io v2.3.0
-All versions of socket.io-file are vulnerable to Path Traversal. The package fails to sanitize user input and uses it to generate the file upload paths. The socket.io-file::createFile message contains a name option that is passed directly to path.join(). It is possible to upload files to arbitrary folders on the server by sending relative paths on the name value, such as ."><meta itemprop="datePublished" content="2020-06-07T16:56:46+01:00" />
+All versions of socket.io-file are vulnerable to Path Traversal. The package fails to sanitize user input and uses it to generate the file upload paths. The socket.io-file::createFile message contains a name option that is passed directly to path."><meta itemprop="datePublished" content="2020-06-07T16:56:46+01:00" />
 <meta itemprop="dateModified" content="2020-06-07T16:56:46+01:00" />
-<meta itemprop="wordCount" content="113"><meta itemprop="image" content="https://cr0wtom.github.io"/>
+<meta itemprop="wordCount" content="117"><meta itemprop="image" content="https://cr0wtom.github.io"/>
 <meta itemprop="keywords" content="0day,Research,cve," />
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://cr0wtom.github.io"/>
@@ -60,12 +62,13 @@ All versions of socket.io-file are vulnerable to Path Traversal. The package fai
 <meta name="twitter:title" content="Research - [CVE-2020-15779] Path Traversal in Socket.io-file NPM module Functionality (0day)"/>
 <meta name="twitter:description" content="Title: Path Traversal in Socket.io-file NPM module
 Date: 18/05/2020
-CVE-ID: 2020-15779
+CVE-ID: CVE-2020-15779
+CVSS Score: 7.5 (v3)
 Author: Thomas Sermpinis
 Versions: &lt;= 2.0.31
 Package URL: https://www.npmjs.com/package/socket.io-file
 Tested on: node v10.19.0, Socket.io-file v2.0.31, socket.io v2.3.0
-All versions of socket.io-file are vulnerable to Path Traversal. The package fails to sanitize user input and uses it to generate the file upload paths. The socket.io-file::createFile message contains a name option that is passed directly to path.join(). It is possible to upload files to arbitrary folders on the server by sending relative paths on the name value, such as ."/>
+All versions of socket.io-file are vulnerable to Path Traversal. The package fails to sanitize user input and uses it to generate the file upload paths. The socket.io-file::createFile message contains a name option that is passed directly to path."/>
 
 
 
@@ -152,7 +155,8 @@ All versions of socket.io-file are vulnerable to Path Traversal. The package fai
 
 <p><strong>Title:</strong> Path Traversal in Socket.io-file NPM module</p>
 <p><strong>Date:</strong> 18/05/2020</p>
-<p><strong>CVE-ID:</strong> 2020-15779</p>
+<p><strong>CVE-ID:</strong> CVE-2020-15779</p>
+<p><strong>CVSS Score:</strong> 7.5 (v3)</p>
 <p><strong>Author:</strong> Thomas Sermpinis</p>
 <p><strong>Versions:</strong> &lt;= 2.0.31</p>
 <p><strong>Package URL:</strong> <a href="https://www.npmjs.com/package/socket.io-file">https://www.npmjs.com/package/socket.io-file</a></p>

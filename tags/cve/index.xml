@@ -14,15 +14,15 @@
       <pubDate>Sun, 07 Jul 2024 16:56:46 +0100</pubDate>
       
       <guid>https://cr0wtom.github.io/projects/research-nissan_seed/</guid>
-      <description>Title: Unauthorized access to ECU functionality
-Date: 12/09/2024
+      <description>Title: Predictable seed generation after ECU reset
+Date: 15/08/2024
 CVE-ID: CVE-2024-6347
+CVSS Score: 5.3 (v4)
 Author: Thomas Sermpinis
-Versions:
-Package URL:
-Tested on:
-Planned to be disclosed in DefCon 32 - Engage, on August 11th, 2024, in Las Vegas, NV.
-CVE-ID (Mitre)</description>
+Versions: Nissan Altima MY22 - MY24 (More to be added)
+CNA: ASRG
+Tested on: Nissan Altima MY22 - MY24
+Unprotected privileged mode access through UDS session in the Blind Spot Detection Sensor ECU firmware in Nissan Altima (2022) allows attackers to trigger denial-of-service (DoS) by unauthorized access to the ECU&amp;rsquo;s programming session. * No preconditions implemented for ECU management functionality through UDS session in the Blind Spot Detection Sensor ECU in Nissan Altima (2022) allows attackers to disrupt normal ECU operations by triggering a control command without authentication.</description>
     </item>
     
     <item>
@@ -32,14 +32,14 @@ CVE-ID (Mitre)</description>
       
       <guid>https://cr0wtom.github.io/projects/research-nissan_ecureset/</guid>
       <description>Title: Predictable seed generation after ECU reset
-Date: 12/09/2024
+Date: 15/08/2024
 CVE-ID: CVE-2024-6348
+CVSS Score: 5.3 (v4)
 Author: Thomas Sermpinis
-Versions:
-Package URL:
-Tested on:
-Planned to be disclosed in DefCon 32 - Engage, on August 11th, 2024, in Las Vegas, NV.
-CVE-ID (Mitre)</description>
+Versions: Nissan Altima MY22 - MY24 (More to be added)
+CNA: ASRG
+Tested on: Nissan Altima MY22 - MY24
+Predictable seed generation in the security access mechanism of UDS in the Blind Spot Protection Sensor ECU in Nissan Altima (2022) allows attackers to predict the requested seeds and bypass security controls via repeated ECU resets and seed requests.</description>
     </item>
     
     <item>
@@ -51,6 +51,7 @@ CVE-ID (Mitre)</description>
       <description>Title: Improper Input Validation leads to buffer overflow in dlt-daemon
 Date: 12/05/2021
 CVE-ID: CVE-2021-29507
+CVSS Score: 6.5 (v3)
 Author: Thomas Sermpinis
 Versions: 2.10.0 &amp;lt; version &amp;lt;= 2.18.6
 Package URL: https://github.com/GENIVI/dlt-daemon/
@@ -67,6 +68,7 @@ The dlt-daemon includes a configuration file load functionality (-c) which is vu
       <description>Title: Stack based buffer overflow while parsing JSON file in Aleth C++ Ethereum client
 Date: 11/01/2021
 CVE-ID: CVE-2020-26800
+CVSS Score: 5.5 (v3)
 Author: Thomas Sermpinis
 Versions: &amp;lt;= 1.8.0
 Package URL: https://github.com/ethereum/aleth
@@ -83,6 +85,7 @@ An attacker can supply a specially crafted config.json file, consisting of 3764 
       <description>Title: File Type Restriction Bypass in Socket.io-file NPM module
 Date: 31/07/2020
 CVE-ID: CVE-2020-24807
+CVSS Score: 7.8 (v3)
 Author: Thomas Sermpinis
 Versions: &amp;lt;= 2.0.31
 Package URL: -
@@ -98,12 +101,13 @@ All versions of socket.io-file are vulnerable to a file restriction bypass. The 
       <guid>https://cr0wtom.github.io/projects/research-socketio/</guid>
       <description>Title: Path Traversal in Socket.io-file NPM module
 Date: 18/05/2020
-CVE-ID: 2020-15779
+CVE-ID: CVE-2020-15779
+CVSS Score: 7.5 (v3)
 Author: Thomas Sermpinis
 Versions: &amp;lt;= 2.0.31
 Package URL: https://www.npmjs.com/package/socket.io-file
 Tested on: node v10.19.0, Socket.io-file v2.0.31, socket.io v2.3.0
-All versions of socket.io-file are vulnerable to Path Traversal. The package fails to sanitize user input and uses it to generate the file upload paths. The socket.io-file::createFile message contains a name option that is passed directly to path.join(). It is possible to upload files to arbitrary folders on the server by sending relative paths on the name value, such as .</description>
+All versions of socket.io-file are vulnerable to Path Traversal. The package fails to sanitize user input and uses it to generate the file upload paths. The socket.io-file::createFile message contains a name option that is passed directly to path.</description>
     </item>
     
   </channel>
