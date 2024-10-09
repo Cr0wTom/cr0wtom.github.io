@@ -4,19 +4,17 @@
     <title>ScapyCon on Cr0w&#39;s Place</title>
     <link>https://cr0wtom.github.io/tags/scapycon/</link>
     <description>Recent content in ScapyCon on Cr0w&#39;s Place</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <generator>Hugo</generator>
+    <language>en</language>
     <copyright>Thomas Sermpinis</copyright>
-    <lastBuildDate>Mon, 24 Jun 2024 16:56:46 +0100</lastBuildDate><atom:link href="https://cr0wtom.github.io/tags/scapycon/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Jun 2024 16:56:46 +0100</lastBuildDate>
+    <atom:link href="https://cr0wtom.github.io/tags/scapycon/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research/Talks - V2GEvil: Ghost in the wires</title>
-      <link>https://cr0wtom.github.io/projects/research-talks-v2gevil/</link>
+      <link>https://cr0wtom.github.io/projects/research-talks---v2gevil/</link>
       <pubDate>Mon, 24 Jun 2024 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-talks-v2gevil/</guid>
-      <description>This research is dedicated to enhancing the cybersecurity of electric vehicles, with a specific focus on identifying vulnerabilities in the Electric Vehicle Communication Controller (EVCC). This controller facilitates communication with the Supply Equipment Communication Controller during the charging process. Accessible through the On-Board Charging (OBC) port, which is as publicly available as the gas tank in combustion engine vehicles.
-The research journey began by studying the electric vehicle charging ports, how they communicate, and the standards they follow, especially focusing on ISO 15118.</description>
+      <guid>https://cr0wtom.github.io/projects/research-talks---v2gevil/</guid>
+      <description>This research is dedicated to enhancing the cybersecurity of electric vehicles, with a specific focus on identifying vulnerabilities in the Electric Vehicle Communication Controller (EVCC). This controller facilitates communication with the Supply Equipment Communication Controller during the charging process. Accessible through the On-Board Charging (OBC) port, which is as publicly available as the gas tank in combustion engine vehicles.&#xA;The research journey began by studying the electric vehicle charging ports, how they communicate, and the standards they follow, especially focusing on ISO 15118.</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="author" content="">
+<meta name="description" content="This research is dedicated to enhancing the cybersecurity of electric vehicles, with a specific focus on identifying vulnerabilities in the Electric Vehicle Communication Controller (EVCC). This controller facilitates communication with the Supply Equipment Communication Controller during the charging process. Accessible through the On-Board Charging (OBC) port, which is as publicly available as the gas tank in combustion engine vehicles.
+The research journey began by studying the electric vehicle charging ports, how they communicate, and the standards they follow, especially focusing on ISO 15118." />
+<meta name="keywords" content="homepage, blog, science, informatics, hacking, pentesting, Academic, security, Research, Talks, Automotive, Troopers24, ScapyCon, DEFCON, CHV" />
+<meta name="robots" content="noodp" />
+<meta name="theme-color" content="" />
+<link rel="canonical" href="https://cr0wtom.github.io/projects/research-talks---v2gevil/" />
+
+
+    <title>
+        
+            Research/Talks - V2GEvil: Ghost in the wires :: Cr0w&#39;s Place  — Hacking for Donuts
+        
+    </title>
+
+
+
+
+
+<link rel="stylesheet" href="/main.b78c3be9451dc4ca61ca377f3dc2cf2e6345a44c2bae46216a322ef366daa399.css" integrity="sha256-t4w76UUdxMphyjd/PcLPLmNFpEwrrkYhajIu82bao5k=">
+
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <meta name="msapplication-TileColor" content="">
+
+
+
+  <meta itemprop="name" content="Research/Talks - V2GEvil: Ghost in the wires">
+  <meta itemprop="description" content="This research is dedicated to enhancing the cybersecurity of electric vehicles, with a specific focus on identifying vulnerabilities in the Electric Vehicle Communication Controller (EVCC). This controller facilitates communication with the Supply Equipment Communication Controller during the charging process. Accessible through the On-Board Charging (OBC) port, which is as publicly available as the gas tank in combustion engine vehicles.
+The research journey began by studying the electric vehicle charging ports, how they communicate, and the standards they follow, especially focusing on ISO 15118.">
+  <meta itemprop="datePublished" content="2024-06-24T16:56:46+01:00">
+  <meta itemprop="dateModified" content="2024-06-24T16:56:46+01:00">
+  <meta itemprop="wordCount" content="315">
+  <meta itemprop="image" content="https://cr0wtom.github.io/">
+  <meta itemprop="keywords" content="Academic,Security,Research,Talks,Automotive,Troopers24,ScapyCon,DEFCON,CHV">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://cr0wtom.github.io/">
+  <meta name="twitter:title" content="Research/Talks - V2GEvil: Ghost in the wires">
+  <meta name="twitter:description" content="This research is dedicated to enhancing the cybersecurity of electric vehicles, with a specific focus on identifying vulnerabilities in the Electric Vehicle Communication Controller (EVCC). This controller facilitates communication with the Supply Equipment Communication Controller during the charging process. Accessible through the On-Board Charging (OBC) port, which is as publicly available as the gas tank in combustion engine vehicles.
+The research journey began by studying the electric vehicle charging ports, how they communicate, and the standards they follow, especially focusing on ISO 15118.">
+
+
+
+
+
+
+
+    <meta property="article:published_time" content="2024-06-24 16:56:46 &#43;0100 &#43;0100" />
+
+
+
+
+
+
+
+
+
+
+
+    </head>
+
+    
+        <body>
+    
+    
+        <div class="container">
+            <header class="header">
+    <span class="header__inner">
+        <a href="/" style="text-decoration: none;">
+    <div class="logo">
+        
+            <span class="logo__mark">></span>
+            <span class="logo__text ">
+                ../../../Cr0w/Tom</span>
+            <span class="logo__cursor" style=
+                  "
+                   
+                   ">
+            </span>
+        
+    </div>
+</a>
+
+
+        <span class="header__right">
+            
+                <nav class="menu">
+    <ul class="menu__inner"><li><a href="/about">About</a></li><li><a href="https://cr0wsplace.wordpress.com">Blog</a></li><li><a href="/tags/cve">CVEs</a></li><li><a href="/labs">Labs</a></li><li><a href="/projects">Projects</a></li><li><a href="https://drive.google.com/file/d/1h9KMYGYFR0cwMygpmAFmd2oOLDvqIto1/view?usp=share_link">Résumé</a></li><li><a href="/tags/talks">Talks</a></li>
+    </ul>
+</nav>
+
+                <span class="menu-trigger">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                        <path d="M0 0h24v24H0z" fill="none"/>
+                        <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+                    </svg>
+                </span>
+            
+        </span>
+    </span>
+</header>
+
+
+            <div class="content">
+                
+    <main class="post">
+
+        <div class="post-info">
+            
+            </p>
+        </div>
+
+        <article>
+            <h2 class="post-title"><a href="https://cr0wtom.github.io/projects/research-talks---v2gevil/">Research/Talks - V2GEvil: Ghost in the wires</a></h2>
+
+            
+            
+            
+
+            <div class="post-content">
+                
+    <img src="/images/v2gEvil.jpg"  alt="Course"  class="center"  style="border-radius: 8px;"  />
+
+
+<p>This research is dedicated to enhancing the cybersecurity of electric vehicles, with a specific focus on identifying vulnerabilities in the Electric Vehicle Communication Controller (EVCC). This controller facilitates communication with the Supply Equipment Communication Controller during the charging process. Accessible through the On-Board Charging (OBC) port, which is as publicly available as the gas tank in combustion engine vehicles.</p>
+<p>The research journey began by studying the electric vehicle charging ports, how they communicate, and the standards they follow, especially focusing on ISO 15118. Then, we closely looked at how On-Board Charging (OBC) works, especially its communication protocols during charging, with a special focus on the High-Level Communication (HLC).</p>
+<p>Our research efforts resulted in the development of a dedicated security tool. This tool is designed to examine and assess the implementation of the EVCC (Electric Vehicle Communication Controller). It can simulate the behaviour of the SECC (Supply Equipment Communication Controller) during charging and includes extra features to simplify the process of enumeration and fuzzing the EVCC during charging operations.</p>
+<p>In this talk, we’ll explore the world of electric vehicle cybersecurity, focusing on charging communication, vulnerabilities in EVCC implementation, and the development of a dedicated security tool. We’ll discuss charging standards, communication protocols, and real-world scenarios to understand the evolving landscape of electric mobility cybersecurity. Additionally, we’ll showcase and discuss the hardware required for connecting to the vehicle charging port.</p>
+<ul>
+<li><a href="https://cr0wsplace.com/projects/research-obc-research/">Thesis</a></li>
+<li><a href="https://github.com/khuntpav/V2GEvil">GitHub</a></li>
+</ul>
+<p>Presented in TROOPERS24, on June 24-28, 2024, in Heidelberg, Germany:</p>
+<ul>
+<li><a href="https://troopers.de/troopers24/talks/lx7rvf/">Conference Link</a></li>
+<li><a href="https://github.com/Cr0wTom/Conference-Talks/blob/main/2024/TROOPERS24%20-%20V2GEvil%20-%20Ghost%20in%20the%20wires.pdf">Slides</a></li>
+<li><a href="https://troopers.de/downloads/troopers24/TR24_v2gEvil_LX7RVF.pdf">Slides - Conference Link</a></li>
+<li><a href="https://youtu.be/JVWFfSmIlRY?si=T6eveZypUBHnrrNo">Recording</a></li>
+</ul>
+<p>Presented in DEFCON Car Hacking Village, on August 8th, 2024, in Las Vegas, NV:
+
+    <img src="/images/defcon32_chv.png"  alt="Course"  class="center"  style="border-radius: 8px;"  />
+
+</p>
+<ul>
+<li><a href="https://defcon.org/html/defcon-32/dc-32-creator-talks.html#54564">DEFCON32 Link</a></li>
+<li><a href="https://www.carhackingvillage.com/events/2024/8/8/defcon-32-eyp5w">CHV Link</a></li>
+<li><a href="https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20villages/DEF%20CON%2032%20-%20Car%20Hacking%20Village%20-%20Pavel%20Khunt%20&%20Thomas%20Sermpinis%20(a.k.a.%20Cr0wTom)%20-%20V2GEvil%20-%20Ghost%20in%20the%20wires.pdf">Slides</a></li>
+<li><a href="https://www.linkedin.com/posts/car-hacking-village_our-first-talk-is-now-live-come-to-creator-activity-7227766750178635776-I6WC?utm_source=share&utm_medium=member_desktop">CHV LinkedIn Post</a></li>
+</ul>
+<p>Presented in ScapyCon, on September 18-19, 2024, in Regensburg, Germany:
+
+    <img src="/images/scapycon.jpeg"  alt="Course"  class="center"  style="border-radius: 8px;"  />
+
+</p>
+<ul>
+<li><a href="https://dissecto.regfox.com/scapycon-automotive">Conference Link</a></li>
+<li><a href="https://github.com/Cr0wTom/Conference-Talks/blob/main/2024/ScapyCon%20-%20V2GEvil%20-%20Ghost%20in%20the%20wires.pdf">Slides</a></li>
+<li><a href="https://dissec.to/conferences/scapycon-recap-two-days-of-network-manipulation/">Talk Blog Post</a></li>
+</ul>
+<p>Planned to be presented in DeepSec, on November 22nd, 2024, in Vienna, Austria:</p>
+<ul>
+<li><a href="https://deepsec.net/speaker.html#PSLOT710">Conference Link</a></li>
+<li><a href="https://blog.deepsec.net/deepsec-2024-talk-v2gevil-ghost-in-the-wires-pavel-khunt-thomas-sermpinis/">Talk Blog Post</a></li>
+</ul>
+<p>Speakers:</p>
+<ul>
+<li>1st Speaker - <a href="https://www.linkedin.com/in/pavel-khunt-8b815421a/">Pavel Khunt</a></li>
+<li>2nd Speaker - <a href="https://www.linkedin.com/in/thomas-sermpinis-0473a4b0/">Thomas Sermpinis</a></li>
+</ul>
+
+            </div>
+        </article>
+
+        <hr />
+
+        <div class="post-info">
+            
+    <p>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7" y2="7"></line></svg>
+
+        <span class="tag"><a href="https://cr0wtom.github.io/tags/academic/">Academic</a></span>
+        <span class="tag"><a href="https://cr0wtom.github.io/tags/security/">security</a></span>
+        <span class="tag"><a href="https://cr0wtom.github.io/tags/research/">Research</a></span>
+        <span class="tag"><a href="https://cr0wtom.github.io/tags/talks/">Talks</a></span>
+        <span class="tag"><a href="https://cr0wtom.github.io/tags/automotive/">Automotive</a></span>
+        <span class="tag"><a href="https://cr0wtom.github.io/tags/troopers24/">Troopers24</a></span>
+        <span class="tag"><a href="https://cr0wtom.github.io/tags/scapycon/">ScapyCon</a></span>
+        <span class="tag"><a href="https://cr0wtom.github.io/tags/defcon/">DEFCON</a></span>
+        <span class="tag"><a href="https://cr0wtom.github.io/tags/chv/">CHV</a></span>
+        
+    </p>
+
+            
+  		</div>
+    </main>
+
+            </div>
+
+            
+                <footer class="footer">
+    
+    
+</footer>
+
+            
+        </div>
+
+        
+
+
+
+<script type="text/javascript" src="/bundle.min.e89fda0f29b95d33f6f4224dd9e5cf69d84aff3818be2b0d73e731689cc374261b016d17d46f8381962fb4a1577ba3017b1f23509d894f6e66431f988c00889e.js" integrity="sha512-6J/aDym5XTP29CJN2eXPadhK/zgYvisNc&#43;cxaJzDdCYbAW0X1G&#43;DgZYvtKFXe6MBex8jUJ2JT25mQx&#43;YjACIng=="></script>
+
+
+
+    </body>
+</html>

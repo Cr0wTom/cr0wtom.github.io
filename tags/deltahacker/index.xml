@@ -4,19 +4,17 @@
     <title>DeltaHacker on Cr0w&#39;s Place</title>
     <link>https://cr0wtom.github.io/tags/deltahacker/</link>
     <description>Recent content in DeltaHacker on Cr0w&#39;s Place</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <generator>Hugo</generator>
+    <language>en</language>
     <copyright>Thomas Sermpinis</copyright>
-    <lastBuildDate>Sun, 07 Sep 2014 16:56:46 +0100</lastBuildDate><atom:link href="https://cr0wtom.github.io/tags/deltahacker/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Sep 2014 16:56:46 +0100</lastBuildDate>
+    <atom:link href="https://cr0wtom.github.io/tags/deltahacker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DeltaHacker - The Start</title>
-      <link>https://cr0wtom.github.io/projects/deltahacker-all-articles/</link>
+      <link>https://cr0wtom.github.io/projects/deltahacker---all-articles/</link>
       <pubDate>Sun, 07 Sep 2014 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/deltahacker-all-articles/</guid>
-      <description>For a couple of years I was colaborating with DeltaHacker as a Magazine Editor for penetration testing and cyber security technical topics, under my Cr0wTom alias. I wrote 10 articles in total, for which you can find abstracts of the article in my blog, in Greek.
-DeltaHacker alongside my personal blog, can be considered my start in the security industry, my first steps and some really exciting times with people from the Greek hacking community that I really apreciate.</description>
+      <guid>https://cr0wtom.github.io/projects/deltahacker---all-articles/</guid>
+      <description>For a couple of years I was colaborating with DeltaHacker as a Magazine Editor for penetration testing and cyber security technical topics, under my Cr0wTom alias. I wrote 10 articles in total, for which you can find abstracts of the article in my blog, in Greek.&#xA;DeltaHacker alongside my personal blog, can be considered my start in the security industry, my first steps and some really exciting times with people from the Greek hacking community that I really apreciate.</description>
     </item>
-    
   </channel>
 </rss>

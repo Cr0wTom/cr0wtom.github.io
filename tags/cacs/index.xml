@@ -4,18 +4,17 @@
     <title>CACS on Cr0w&#39;s Place</title>
     <link>https://cr0wtom.github.io/tags/cacs/</link>
     <description>Recent content in CACS on Cr0w&#39;s Place</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <generator>Hugo</generator>
+    <language>en</language>
     <copyright>Thomas Sermpinis</copyright>
-    <lastBuildDate>Fri, 30 Jun 2023 16:56:46 +0100</lastBuildDate><atom:link href="https://cr0wtom.github.io/tags/cacs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Jun 2023 16:56:46 +0100</lastBuildDate>
+    <atom:link href="https://cr0wtom.github.io/tags/cacs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research/Talks - Horror Stories from the Automotive Industry</title>
-      <link>https://cr0wtom.github.io/projects/research-talks-horror-stories/</link>
+      <link>https://cr0wtom.github.io/projects/research-talks---horror-stories/</link>
       <pubDate>Fri, 30 Jun 2023 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-talks-horror-stories/</guid>
+      <guid>https://cr0wtom.github.io/projects/research-talks---horror-stories/</guid>
       <description>In this talk, we will revisit some of the scariest stories we faced during more than 50 penetration testing and security research projects, with a twist. In the ever-emerging industry of automotive, with old and new OEMs trying to get a share of the pie, many things are at stake, with many things getting overlooked, forgotten, or even deliberately covered. We will go through a journey of critical findings in different targets and the constant battle between penetration testers, developers, and mid to upper management.</description>
     </item>
-    
   </channel>
 </rss>

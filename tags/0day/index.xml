@@ -4,111 +4,52 @@
     <title>0day on Cr0w&#39;s Place</title>
     <link>https://cr0wtom.github.io/tags/0day/</link>
     <description>Recent content in 0day on Cr0w&#39;s Place</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <generator>Hugo</generator>
+    <language>en</language>
     <copyright>Thomas Sermpinis</copyright>
-    <lastBuildDate>Sun, 07 Jul 2024 16:56:46 +0100</lastBuildDate><atom:link href="https://cr0wtom.github.io/tags/0day/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Jul 2024 16:56:46 +0100</lastBuildDate>
+    <atom:link href="https://cr0wtom.github.io/tags/0day/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research - [CVE-2024-6347] - Unauthorized access to ECU functionality</title>
-      <link>https://cr0wtom.github.io/projects/research-nissan_seed/</link>
+      <link>https://cr0wtom.github.io/projects/research---nissan_seed/</link>
       <pubDate>Sun, 07 Jul 2024 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-nissan_seed/</guid>
-      <description>Title: Predictable seed generation after ECU reset
-Date: 15/08/2024
-CVE-ID: CVE-2024-6347
-CVSS Score: 5.3 (v4)
-Author: Thomas Sermpinis
-Versions: Nissan Altima MY22 - MY24 (More to be added)
-CNA: ASRG
-Tested on: Nissan Altima MY22 - MY24
-Unprotected privileged mode access through UDS session in the Blind Spot Detection Sensor ECU firmware in Nissan Altima (2022) allows attackers to trigger denial-of-service (DoS) by unauthorized access to the ECU&amp;rsquo;s programming session. * No preconditions implemented for ECU management functionality through UDS session in the Blind Spot Detection Sensor ECU in Nissan Altima (2022) allows attackers to disrupt normal ECU operations by triggering a control command without authentication.</description>
+      <guid>https://cr0wtom.github.io/projects/research---nissan_seed/</guid>
+      <description>Title: Predictable seed generation after ECU reset&#xA;Date: 15/08/2024&#xA;CVE-ID: CVE-2024-6347&#xA;CVSS Score: 5.3 (v4)&#xA;Author: Thomas Sermpinis&#xA;Versions: Nissan Altima MY22 - MY24 (More to be added)&#xA;CNA: ASRG&#xA;Tested on: Nissan Altima MY22 - MY24&#xA;Unprotected privileged mode access through UDS session in the Blind Spot Detection Sensor ECU firmware in Nissan Altima (2022) allows attackers to trigger denial-of-service (DoS) by unauthorized access to the ECU&amp;rsquo;s programming session. * No preconditions implemented for ECU management functionality through UDS session in the Blind Spot Detection Sensor ECU in Nissan Altima (2022) allows attackers to disrupt normal ECU operations by triggering a control command without authentication.</description>
     </item>
-    
     <item>
       <title>Research - [CVE-2024-6348] - Predictable seed generation after ECU reset</title>
-      <link>https://cr0wtom.github.io/projects/research-nissan_ecureset/</link>
+      <link>https://cr0wtom.github.io/projects/research---nissan_ecureset/</link>
       <pubDate>Sun, 07 Jul 2024 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-nissan_ecureset/</guid>
-      <description>Title: Predictable seed generation after ECU reset
-Date: 15/08/2024
-CVE-ID: CVE-2024-6348
-CVSS Score: 5.3 (v4)
-Author: Thomas Sermpinis
-Versions: Nissan Altima MY22 - MY24 (More to be added)
-CNA: ASRG
-Tested on: Nissan Altima MY22 - MY24
-Predictable seed generation in the security access mechanism of UDS in the Blind Spot Protection Sensor ECU in Nissan Altima (2022) allows attackers to predict the requested seeds and bypass security controls via repeated ECU resets and seed requests.</description>
+      <guid>https://cr0wtom.github.io/projects/research---nissan_ecureset/</guid>
+      <description>Title: Predictable seed generation after ECU reset&#xA;Date: 15/08/2024&#xA;CVE-ID: CVE-2024-6348&#xA;CVSS Score: 5.3 (v4)&#xA;Author: Thomas Sermpinis&#xA;Versions: Nissan Altima MY22 - MY24 (More to be added)&#xA;CNA: ASRG&#xA;Tested on: Nissan Altima MY22 - MY24&#xA;Predictable seed generation in the security access mechanism of UDS in the Blind Spot Protection Sensor ECU in Nissan Altima (2022) allows attackers to predict the requested seeds and bypass security controls via repeated ECU resets and seed requests.</description>
     </item>
-    
     <item>
       <title>Research - [CVE-2021-29507] Improper Input Validation leads to buffer overflow in dlt-daemon (0day)</title>
-      <link>https://cr0wtom.github.io/projects/research-dlt-daemon/</link>
+      <link>https://cr0wtom.github.io/projects/research---dlt-daemon/</link>
       <pubDate>Tue, 11 May 2021 12:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-dlt-daemon/</guid>
-      <description>Title: Improper Input Validation leads to buffer overflow in dlt-daemon
-Date: 12/05/2021
-CVE-ID: CVE-2021-29507
-CVSS Score: 6.5 (v3)
-Author: Thomas Sermpinis
-Versions: 2.10.0 &amp;lt; version &amp;lt;= 2.18.6
-Package URL: https://github.com/GENIVI/dlt-daemon/
-Tested on: dlt-daemon 2.18.6
-The dlt-daemon includes a configuration file load functionality (-c) which is vulnerable to a buffer overflow vulnerability and allows a malicious user to supply a specially crafted configuration file which results in a segmentation fault after improper validation of the file content.</description>
+      <guid>https://cr0wtom.github.io/projects/research---dlt-daemon/</guid>
+      <description>Title: Improper Input Validation leads to buffer overflow in dlt-daemon&#xA;Date: 12/05/2021&#xA;CVE-ID: CVE-2021-29507&#xA;CVSS Score: 6.5 (v3)&#xA;Author: Thomas Sermpinis&#xA;Versions: 2.10.0 &amp;lt; version &amp;lt;= 2.18.6&#xA;Package URL: https://github.com/GENIVI/dlt-daemon/&#xA;Tested on: dlt-daemon 2.18.6&#xA;The dlt-daemon includes a configuration file load functionality (-c) which is vulnerable to a buffer overflow vulnerability and allows a malicious user to supply a specially crafted configuration file which results in a segmentation fault after improper validation of the file content.</description>
     </item>
-    
     <item>
       <title>Research - [CVE-2020-26800] Stack based buffer overflow while parsing JSON file in Aleth C&#43;&#43; Ethereum client (0day)</title>
-      <link>https://cr0wtom.github.io/projects/research-aleth/</link>
+      <link>https://cr0wtom.github.io/projects/research---aleth/</link>
       <pubDate>Mon, 11 Jan 2021 12:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-aleth/</guid>
-      <description>Title: Stack based buffer overflow while parsing JSON file in Aleth C++ Ethereum client
-Date: 11/01/2021
-CVE-ID: CVE-2020-26800
-CVSS Score: 5.5 (v3)
-Author: Thomas Sermpinis
-Versions: &amp;lt;= 1.8.0
-Package URL: https://github.com/ethereum/aleth
-Tested on: Aleth C++ Ethereum Client 1.8.0
-An attacker can supply a specially crafted config.json file, consisting of 3764 left square brackets or more, which results in segmentation fault by the application. This immediately results in Denial of Service, and with more advanced exploitation it can have further implications, with higher severity security issues.</description>
+      <guid>https://cr0wtom.github.io/projects/research---aleth/</guid>
+      <description>Title: Stack based buffer overflow while parsing JSON file in Aleth C++ Ethereum client&#xA;Date: 11/01/2021&#xA;CVE-ID: CVE-2020-26800&#xA;CVSS Score: 5.5 (v3)&#xA;Author: Thomas Sermpinis&#xA;Versions: &amp;lt;= 1.8.0&#xA;Package URL: https://github.com/ethereum/aleth&#xA;Tested on: Aleth C++ Ethereum Client 1.8.0&#xA;An attacker can supply a specially crafted config.json file, consisting of 3764 left square brackets or more, which results in segmentation fault by the application. This immediately results in Denial of Service, and with more advanced exploitation it can have further implications, with higher severity security issues.</description>
     </item>
-    
     <item>
       <title>Research - [CVE-2020-24807] File Type Restriction Bypass in Socket.io-file NPM module (0day)</title>
-      <link>https://cr0wtom.github.io/projects/research-socketio_2/</link>
+      <link>https://cr0wtom.github.io/projects/research---socketio_2/</link>
       <pubDate>Tue, 08 Sep 2020 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-socketio_2/</guid>
-      <description>Title: File Type Restriction Bypass in Socket.io-file NPM module
-Date: 31/07/2020
-CVE-ID: CVE-2020-24807
-CVSS Score: 7.8 (v3)
-Author: Thomas Sermpinis
-Versions: &amp;lt;= 2.0.31
-Package URL: -
-Tested on: node v10.19.0, Socket.io-file v2.0.31, socket.io v2.3.0
-All versions of socket.io-file are vulnerable to a file restriction bypass. The validation for valid file types only happens on the client-side, which allows an attacker to intercept the Websocket request post-validation and alter the name value to upload any file types.</description>
+      <guid>https://cr0wtom.github.io/projects/research---socketio_2/</guid>
+      <description>Title: File Type Restriction Bypass in Socket.io-file NPM module&#xA;Date: 31/07/2020&#xA;CVE-ID: CVE-2020-24807&#xA;CVSS Score: 7.8 (v3)&#xA;Author: Thomas Sermpinis&#xA;Versions: &amp;lt;= 2.0.31&#xA;Package URL: -&#xA;Tested on: node v10.19.0, Socket.io-file v2.0.31, socket.io v2.3.0&#xA;All versions of socket.io-file are vulnerable to a file restriction bypass. The validation for valid file types only happens on the client-side, which allows an attacker to intercept the Websocket request post-validation and alter the name value to upload any file types.</description>
     </item>
-    
     <item>
       <title>Research - [CVE-2020-15779] Path Traversal in Socket.io-file NPM module Functionality (0day)</title>
-      <link>https://cr0wtom.github.io/projects/research-socketio/</link>
+      <link>https://cr0wtom.github.io/projects/research---socketio/</link>
       <pubDate>Sun, 07 Jun 2020 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-socketio/</guid>
-      <description>Title: Path Traversal in Socket.io-file NPM module
-Date: 18/05/2020
-CVE-ID: CVE-2020-15779
-CVSS Score: 7.5 (v3)
-Author: Thomas Sermpinis
-Versions: &amp;lt;= 2.0.31
-Package URL: https://www.npmjs.com/package/socket.io-file
-Tested on: node v10.19.0, Socket.io-file v2.0.31, socket.io v2.3.0
-All versions of socket.io-file are vulnerable to Path Traversal. The package fails to sanitize user input and uses it to generate the file upload paths. The socket.io-file::createFile message contains a name option that is passed directly to path.</description>
+      <guid>https://cr0wtom.github.io/projects/research---socketio/</guid>
+      <description>Title: Path Traversal in Socket.io-file NPM module&#xA;Date: 18/05/2020&#xA;CVE-ID: CVE-2020-15779&#xA;CVSS Score: 7.5 (v3)&#xA;Author: Thomas Sermpinis&#xA;Versions: &amp;lt;= 2.0.31&#xA;Package URL: https://www.npmjs.com/package/socket.io-file&#xA;Tested on: node v10.19.0, Socket.io-file v2.0.31, socket.io v2.3.0&#xA;All versions of socket.io-file are vulnerable to Path Traversal. The package fails to sanitize user input and uses it to generate the file upload paths. The socket.io-file::createFile message contains a name option that is passed directly to path.</description>
     </item>
-    
   </channel>
 </rss>

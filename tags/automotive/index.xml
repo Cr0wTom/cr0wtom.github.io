@@ -4,110 +4,80 @@
     <title>Automotive on Cr0w&#39;s Place</title>
     <link>https://cr0wtom.github.io/tags/automotive/</link>
     <description>Recent content in Automotive on Cr0w&#39;s Place</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <generator>Hugo</generator>
+    <language>en</language>
     <copyright>Thomas Sermpinis</copyright>
-    <lastBuildDate>Sun, 11 Aug 2024 16:56:46 +0100</lastBuildDate><atom:link href="https://cr0wtom.github.io/tags/automotive/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Aug 2024 16:56:46 +0100</lastBuildDate>
+    <atom:link href="https://cr0wtom.github.io/tags/automotive/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research - Car Hacking Village CTF 2024</title>
-      <link>https://cr0wtom.github.io/projects/research-chv_ctf/</link>
+      <link>https://cr0wtom.github.io/projects/research---chv_ctf/</link>
       <pubDate>Sun, 11 Aug 2024 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-chv_ctf/</guid>
-      <description> 3rd Place in the Car Hacking Village CTF, as the Team Leader of the team OBDII Obl1terat0rs (Aux_labs).
-Competition happened during DEFCON 32, August 9th - 11th, 2024, in Las Vegas, NV.
-CTF Link </description>
+      <guid>https://cr0wtom.github.io/projects/research---chv_ctf/</guid>
+      <description> 3rd Place in the Car Hacking Village CTF, as the Team Leader of the team OBDII Obl1terat0rs (Aux_labs).&#xA;Competition happened during DEFCON 32, August 9th - 11th, 2024, in Las Vegas, NV.&#xA;CTF Link </description>
     </item>
-    
     <item>
       <title>Research/Talks - The hack, the crash and two smoking barrels. (And all the times I (almost) killed an engineer.)</title>
-      <link>https://cr0wtom.github.io/projects/research-talks-two-smocking-barrels/</link>
+      <link>https://cr0wtom.github.io/projects/research-talks---two-smocking-barrels/</link>
       <pubDate>Sun, 11 Aug 2024 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-talks-two-smocking-barrels/</guid>
-      <description>Abstract:
-This is not a talk in which I will demonstrate exploit chains obtained from the underworld after signing with blood. It’s about sharing meaningful stories from said underworld. The automotive underworld of huge corporations, short deadlines and lukewarm engineers. The one where companies fight for packing more and more functionality inside your computer on wheels, without paying attention to one of the things that our life actually depends on right now, cybersecurity.</description>
+      <guid>https://cr0wtom.github.io/projects/research-talks---two-smocking-barrels/</guid>
+      <description>Abstract:&#xA;This is not a talk in which I will demonstrate exploit chains obtained from the underworld after signing with blood. It’s about sharing meaningful stories from said underworld. The automotive underworld of huge corporations, short deadlines and lukewarm engineers. The one where companies fight for packing more and more functionality inside your computer on wheels, without paying attention to one of the things that our life actually depends on right now, cybersecurity.</description>
     </item>
-    
     <item>
       <title>Research/Talks - V2GEvil: Ghost in the wires</title>
-      <link>https://cr0wtom.github.io/projects/research-talks-v2gevil/</link>
+      <link>https://cr0wtom.github.io/projects/research-talks---v2gevil/</link>
       <pubDate>Mon, 24 Jun 2024 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-talks-v2gevil/</guid>
-      <description>This research is dedicated to enhancing the cybersecurity of electric vehicles, with a specific focus on identifying vulnerabilities in the Electric Vehicle Communication Controller (EVCC). This controller facilitates communication with the Supply Equipment Communication Controller during the charging process. Accessible through the On-Board Charging (OBC) port, which is as publicly available as the gas tank in combustion engine vehicles.
-The research journey began by studying the electric vehicle charging ports, how they communicate, and the standards they follow, especially focusing on ISO 15118.</description>
+      <guid>https://cr0wtom.github.io/projects/research-talks---v2gevil/</guid>
+      <description>This research is dedicated to enhancing the cybersecurity of electric vehicles, with a specific focus on identifying vulnerabilities in the Electric Vehicle Communication Controller (EVCC). This controller facilitates communication with the Supply Equipment Communication Controller during the charging process. Accessible through the On-Board Charging (OBC) port, which is as publicly available as the gas tank in combustion engine vehicles.&#xA;The research journey began by studying the electric vehicle charging ports, how they communicate, and the standards they follow, especially focusing on ISO 15118.</description>
     </item>
-    
     <item>
       <title>Research/Talks - Need For Speed: The Fight of Ownership</title>
-      <link>https://cr0wtom.github.io/projects/research-talks-need-for-speed/</link>
+      <link>https://cr0wtom.github.io/projects/research-talks---need-for-speed/</link>
       <pubDate>Fri, 31 May 2024 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-talks-need-for-speed/</guid>
-      <description>While the automotive industry starts to realize the mistakes of the past, penetration testers, researchers and automakers strive to create impenetrable vehicle components, with the ultimate purpose being safer streets inside and outside of our vehicles. However, as desirable as this can be, it had an impact in other aspects of the automotive landscape, notably in terms of privacy and ownership, out of many.
-Tuners and car enthusiasts, while they might have no direct connection to cyber security, they have significantly contributed to vehicle vulnerabilities and exploitation over the years.</description>
+      <guid>https://cr0wtom.github.io/projects/research-talks---need-for-speed/</guid>
+      <description>While the automotive industry starts to realize the mistakes of the past, penetration testers, researchers and automakers strive to create impenetrable vehicle components, with the ultimate purpose being safer streets inside and outside of our vehicles. However, as desirable as this can be, it had an impact in other aspects of the automotive landscape, notably in terms of privacy and ownership, out of many.&#xA;Tuners and car enthusiasts, while they might have no direct connection to cyber security, they have significantly contributed to vehicle vulnerabilities and exploitation over the years.</description>
     </item>
-    
     <item>
       <title>Research/Talks - Back to the Future: Old Vulnerabilities Becoming New Again</title>
-      <link>https://cr0wtom.github.io/projects/research-talks-back-to-the-future/</link>
+      <link>https://cr0wtom.github.io/projects/research-talks---back-to-the-future/</link>
       <pubDate>Thu, 04 Apr 2024 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-talks-back-to-the-future/</guid>
-      <description>While hardware security is a topic of interest for decades, devices are constantly getting smaller, more powerful and more complicated. Most would assume that this resulted in higher security standards, but from our 100+ penetration tests in the (heavily hardware based) automotive industry, we beg to differ.
-With automotive suppliers trying to make everything work under heavily constrained environments, with limited resources both for energy and processing power, understandably many things are getting left out of the table, with one of the biggest victim being security.</description>
+      <guid>https://cr0wtom.github.io/projects/research-talks---back-to-the-future/</guid>
+      <description>While hardware security is a topic of interest for decades, devices are constantly getting smaller, more powerful and more complicated. Most would assume that this resulted in higher security standards, but from our 100+ penetration tests in the (heavily hardware based) automotive industry, we beg to differ.&#xA;With automotive suppliers trying to make everything work under heavily constrained environments, with limited resources both for energy and processing power, understandably many things are getting left out of the table, with one of the biggest victim being security.</description>
     </item>
-    
     <item>
       <title>Research - ASRG Prague Group</title>
-      <link>https://cr0wtom.github.io/projects/research-asrg/</link>
+      <link>https://cr0wtom.github.io/projects/research---asrg/</link>
       <pubDate>Tue, 27 Feb 2024 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-asrg/</guid>
-      <description> As the main contact of the ASRG Prague Group, I will be presenting a series of events, focused on Automotive Security. List to be updated with more information, as the events happen.
-Event 1: ASRG Prague Meetup: Vehicle (In)Securities - Part 1
-Event Link LinkedIn Link </description>
+      <guid>https://cr0wtom.github.io/projects/research---asrg/</guid>
+      <description> As the main contact of the ASRG Prague Group, I will be presenting a series of events, focused on Automotive Security. List to be updated with more information, as the events happen.&#xA;Event 1: ASRG Prague Meetup: Vehicle (In)Securities - Part 1&#xA;Event Link LinkedIn Link </description>
     </item>
-    
     <item>
       <title>Research/Talks - Horror Stories from the Automotive Industry</title>
-      <link>https://cr0wtom.github.io/projects/research-talks-horror-stories/</link>
+      <link>https://cr0wtom.github.io/projects/research-talks---horror-stories/</link>
       <pubDate>Fri, 30 Jun 2023 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-talks-horror-stories/</guid>
+      <guid>https://cr0wtom.github.io/projects/research-talks---horror-stories/</guid>
       <description>In this talk, we will revisit some of the scariest stories we faced during more than 50 penetration testing and security research projects, with a twist. In the ever-emerging industry of automotive, with old and new OEMs trying to get a share of the pie, many things are at stake, with many things getting overlooked, forgotten, or even deliberately covered. We will go through a journey of critical findings in different targets and the constant battle between penetration testers, developers, and mid to upper management.</description>
     </item>
-    
     <item>
       <title>Research/Talks - UDS Fuzzing and the Path to Game Over</title>
-      <link>https://cr0wtom.github.io/projects/research-talks-uds-fuzzing-troopers22/</link>
+      <link>https://cr0wtom.github.io/projects/research-talks---uds-fuzzing-troopers22/</link>
       <pubDate>Thu, 30 Jun 2022 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-talks-uds-fuzzing-troopers22/</guid>
+      <guid>https://cr0wtom.github.io/projects/research-talks---uds-fuzzing-troopers22/</guid>
       <description>The automotive industry presented significant advances in the sector in the last decade, to catch up with the technological advances of the world. Lack of proper regulations and security standards meant that automotive companies had to develop custom solutions most of the time, which resulted in a lot of security issues. Security testing also fell behind, as there was no significant need till now to test and research those devices, but with more and more connected components the risks are increasing rapidly.</description>
     </item>
-    
     <item>
       <title>GitHub - CaringCaribou DoIP Module</title>
-      <link>https://cr0wtom.github.io/projects/github-doip-cc-module/</link>
+      <link>https://cr0wtom.github.io/projects/github---doip-cc-module/</link>
       <pubDate>Thu, 24 Feb 2022 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/github-doip-cc-module/</guid>
-      <description>An enumeration and exploitation module for the UDS protocol on DoIP upon the ISO 13400-2, as a CaringCaribou contribution. It includes the following sub-functions:
-discovery - Scan for arbitration IDs where ECUs listen and respond to incoming diagnostics requests services - Scan for diagnostics services supported by an ECU ecu_reset - Reset an ECU security_seed - Request security seeds from an ECU dump_dids - Dump data identifiers with the read_data_by_identifier UDS service testerpresent - Force an elevated diagnostics session against an ECU to stay active seed_randomness_fuzzer - ECUReset method fuzzing for seed randomness evaluation Project Link</description>
+      <guid>https://cr0wtom.github.io/projects/github---doip-cc-module/</guid>
+      <description>An enumeration and exploitation module for the UDS protocol on DoIP upon the ISO 13400-2, as a CaringCaribou contribution. It includes the following sub-functions:&#xA;discovery - Scan for arbitration IDs where ECUs listen and respond to incoming diagnostics requests services - Scan for diagnostics services supported by an ECU ecu_reset - Reset an ECU security_seed - Request security seeds from an ECU dump_dids - Dump data identifiers with the read_data_by_identifier UDS service testerpresent - Force an elevated diagnostics session against an ECU to stay active seed_randomness_fuzzer - ECUReset method fuzzing for seed randomness evaluation Project Link</description>
     </item>
-    
     <item>
       <title>GitHub - CaringCaribou UDS Fuzzer Module</title>
-      <link>https://cr0wtom.github.io/projects/github-uds_fuzzer-cc-module/</link>
+      <link>https://cr0wtom.github.io/projects/github---uds_fuzzer-cc-module/</link>
       <pubDate>Wed, 24 Nov 2021 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/github-uds_fuzzer-cc-module/</guid>
-      <description>A fuzzing module for the UDS protocol, as a CaringCaribou contribution. It includes the following sub-functions:
-seed_randomness_fuzzer: Supply the seed request process used by the target ECU and fuzz it to test for possible duplicates after a supplied Hard ECUReset (with flexibility on the reset method implementation), which means that the device is possibly vulnerable.
-delay_fuzzer: This is more of an exploitation sub-function, where a seed request process is supplied, alongside the seed from a single seed/key pair that a tester has acquired.</description>
+      <guid>https://cr0wtom.github.io/projects/github---uds_fuzzer-cc-module/</guid>
+      <description>A fuzzing module for the UDS protocol, as a CaringCaribou contribution. It includes the following sub-functions:&#xA;seed_randomness_fuzzer: Supply the seed request process used by the target ECU and fuzz it to test for possible duplicates after a supplied Hard ECUReset (with flexibility on the reset method implementation), which means that the device is possibly vulnerable.&#xA;delay_fuzzer: This is more of an exploitation sub-function, where a seed request process is supplied, alongside the seed from a single seed/key pair that a tester has acquired.</description>
     </item>
-    
   </channel>
 </rss>

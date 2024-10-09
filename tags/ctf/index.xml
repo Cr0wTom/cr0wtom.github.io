@@ -4,20 +4,17 @@
     <title>CTF on Cr0w&#39;s Place</title>
     <link>https://cr0wtom.github.io/tags/ctf/</link>
     <description>Recent content in CTF on Cr0w&#39;s Place</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <generator>Hugo</generator>
+    <language>en</language>
     <copyright>Thomas Sermpinis</copyright>
-    <lastBuildDate>Sun, 11 Aug 2024 16:56:46 +0100</lastBuildDate><atom:link href="https://cr0wtom.github.io/tags/ctf/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Aug 2024 16:56:46 +0100</lastBuildDate>
+    <atom:link href="https://cr0wtom.github.io/tags/ctf/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research - Car Hacking Village CTF 2024</title>
-      <link>https://cr0wtom.github.io/projects/research-chv_ctf/</link>
+      <link>https://cr0wtom.github.io/projects/research---chv_ctf/</link>
       <pubDate>Sun, 11 Aug 2024 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-chv_ctf/</guid>
-      <description> 3rd Place in the Car Hacking Village CTF, as the Team Leader of the team OBDII Obl1terat0rs (Aux_labs).
-Competition happened during DEFCON 32, August 9th - 11th, 2024, in Las Vegas, NV.
-CTF Link </description>
+      <guid>https://cr0wtom.github.io/projects/research---chv_ctf/</guid>
+      <description> 3rd Place in the Car Hacking Village CTF, as the Team Leader of the team OBDII Obl1terat0rs (Aux_labs).&#xA;Competition happened during DEFCON 32, August 9th - 11th, 2024, in Las Vegas, NV.&#xA;CTF Link </description>
     </item>
-    
   </channel>
 </rss>

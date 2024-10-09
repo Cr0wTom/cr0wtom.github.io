@@ -4,19 +4,17 @@
     <title>OBC on Cr0w&#39;s Place</title>
     <link>https://cr0wtom.github.io/tags/obc/</link>
     <description>Recent content in OBC on Cr0w&#39;s Place</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <generator>Hugo</generator>
+    <language>en</language>
     <copyright>Thomas Sermpinis</copyright>
-    <lastBuildDate>Sun, 07 Jan 2024 16:56:46 +0100</lastBuildDate><atom:link href="https://cr0wtom.github.io/tags/obc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Jan 2024 16:56:46 +0100</lastBuildDate>
+    <atom:link href="https://cr0wtom.github.io/tags/obc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vehicle On-Board Charging Security Scanner</title>
-      <link>https://cr0wtom.github.io/projects/research-obc-research/</link>
+      <link>https://cr0wtom.github.io/projects/research---obc-research/</link>
       <pubDate>Sun, 07 Jan 2024 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-obc-research/</guid>
-      <description>Topic: Vehicle On-Board Charging Security Scanner Autor: Pavel Khunt Supervisor: Thomas Sermpinis University: Czech Technical University in Prague Type: Masters Thesis in the department of Informatics Abstract
-This thesis focusses on the cybersecurity of electric vehicles, with an emphasis on security issues associated with the On-Board Charging (OBC) port. I have developed a security tool that enables the enumeration and partial evaluation of the publicly accessible OBC port on European electric vehicles.</description>
+      <guid>https://cr0wtom.github.io/projects/research---obc-research/</guid>
+      <description>Topic: Vehicle On-Board Charging Security Scanner Autor: Pavel Khunt Supervisor: Thomas Sermpinis University: Czech Technical University in Prague Type: Masters Thesis in the department of Informatics Abstract&#xA;This thesis focusses on the cybersecurity of electric vehicles, with an emphasis on security issues associated with the On-Board Charging (OBC) port. I have developed a security tool that enables the enumeration and partial evaluation of the publicly accessible OBC port on European electric vehicles.</description>
     </item>
-    
   </channel>
 </rss>

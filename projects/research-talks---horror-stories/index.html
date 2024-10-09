@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="author" content="">
+<meta name="description" content="In this talk, we will revisit some of the scariest stories we faced during more than 50 penetration testing and security research projects, with a twist. In the ever-emerging industry of automotive, with old and new OEMs trying to get a share of the pie, many things are at stake, with many things getting overlooked, forgotten, or even deliberately covered. We will go through a journey of critical findings in different targets and the constant battle between penetration testers, developers, and mid to upper management." />
+<meta name="keywords" content="homepage, blog, science, informatics, hacking, pentesting, Academic, security, Research, Talks, Automotive, TROOPERS23, CCC, DeepSec, CACS" />
+<meta name="robots" content="noodp" />
+<meta name="theme-color" content="" />
+<link rel="canonical" href="https://cr0wtom.github.io/projects/research-talks---horror-stories/" />
+
+
+    <title>
+        
+            Research/Talks - Horror Stories from the Automotive Industry :: Cr0w&#39;s Place  — Hacking for Donuts
+        
+    </title>
+
+
+
+
+
+<link rel="stylesheet" href="/main.b78c3be9451dc4ca61ca377f3dc2cf2e6345a44c2bae46216a322ef366daa399.css" integrity="sha256-t4w76UUdxMphyjd/PcLPLmNFpEwrrkYhajIu82bao5k=">
+
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <meta name="msapplication-TileColor" content="">
+
+
+
+  <meta itemprop="name" content="Research/Talks - Horror Stories from the Automotive Industry">
+  <meta itemprop="description" content="In this talk, we will revisit some of the scariest stories we faced during more than 50 penetration testing and security research projects, with a twist. In the ever-emerging industry of automotive, with old and new OEMs trying to get a share of the pie, many things are at stake, with many things getting overlooked, forgotten, or even deliberately covered. We will go through a journey of critical findings in different targets and the constant battle between penetration testers, developers, and mid to upper management.">
+  <meta itemprop="datePublished" content="2023-06-30T16:56:46+01:00">
+  <meta itemprop="dateModified" content="2023-06-30T16:56:46+01:00">
+  <meta itemprop="wordCount" content="305">
+  <meta itemprop="image" content="https://cr0wtom.github.io/">
+  <meta itemprop="keywords" content="Academic,Security,Research,Talks,Automotive,TROOPERS23,CCC,DeepSec,CACS">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://cr0wtom.github.io/">
+  <meta name="twitter:title" content="Research/Talks - Horror Stories from the Automotive Industry">
+  <meta name="twitter:description" content="In this talk, we will revisit some of the scariest stories we faced during more than 50 penetration testing and security research projects, with a twist. In the ever-emerging industry of automotive, with old and new OEMs trying to get a share of the pie, many things are at stake, with many things getting overlooked, forgotten, or even deliberately covered. We will go through a journey of critical findings in different targets and the constant battle between penetration testers, developers, and mid to upper management.">
+
+
+
+
+
+
+
+    <meta property="article:published_time" content="2023-06-30 16:56:46 &#43;0100 &#43;0100" />
+
+
+
+
+
+
+
+
+
+
+
+    </head>
+
+    
+        <body>
+    
+    
+        <div class="container">
+            <header class="header">
+    <span class="header__inner">
+        <a href="/" style="text-decoration: none;">
+    <div class="logo">
+        
+            <span class="logo__mark">></span>
+            <span class="logo__text ">
+                ../../../Cr0w/Tom</span>
+            <span class="logo__cursor" style=
+                  "
+                   
+                   ">
+            </span>
+        
+    </div>
+</a>
+
+
+        <span class="header__right">
+            
+                <nav class="menu">
+    <ul class="menu__inner"><li><a href="/about">About</a></li><li><a href="https://cr0wsplace.wordpress.com">Blog</a></li><li><a href="/tags/cve">CVEs</a></li><li><a href="/labs">Labs</a></li><li><a href="/projects">Projects</a></li><li><a href="https://drive.google.com/file/d/1h9KMYGYFR0cwMygpmAFmd2oOLDvqIto1/view?usp=share_link">Résumé</a></li><li><a href="/tags/talks">Talks</a></li>
+    </ul>
+</nav>
+
+                <span class="menu-trigger">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                        <path d="M0 0h24v24H0z" fill="none"/>
+                        <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+                    </svg>
+                </span>
+            
+        </span>
+    </span>
+</header>
+
+
+            <div class="content">
+                
+    <main class="post">
+
+        <div class="post-info">
+            
+            </p>
+        </div>
+
+        <article>
+            <h2 class="post-title"><a href="https://cr0wtom.github.io/projects/research-talks---horror-stories/">Research/Talks - Horror Stories from the Automotive Industry</a></h2>
+
+            
+            
+            
+
+            <div class="post-content">
+                
+    <img src="/images/horror_stories_TR23.png"  alt="Course"  class="center"  style="border-radius: 8px;"  />
+
+
+<p>In this talk, we will revisit some of the scariest stories we faced during more than 50 penetration testing and security research projects, with a twist. In the ever-emerging industry of automotive, with old and new OEMs trying to get a share of the pie, many things are at stake, with many things getting overlooked, forgotten, or even deliberately covered. We will go through a journey of critical findings in different targets and the constant battle between penetration testers, developers, and mid to upper management. This will help the audience get an understanding of how the industry behaves right now, what they (and what we) are doing wrong, and how the future of automotive security should be shaped, not only for the sake of security, but also for the sake of safety and reliability.</p>
+<p>This talk will try to raise awareness on the current state of automotive security, how does the industry behave in the whole spectrum of it (100-year-old OEMs to 2-year-old OEMs and Tier 1 suppliers) and ultimately try to propose a way forward for both the automotive and security industries, with the goal being a safer and more reliable future for everyone, in and out of the streets.</p>
+<ul>
+<li>
+<p>Presented in <a href="https://troopers.de">TROOPERS23</a>, on June 29th.</p>
+<ul>
+<li><a href="https://troopers.de/troopers23/talks/w3g7ug/">TROOPERS Link</a></li>
+<li><a href="https://github.com/Cr0wTom/Conference-Talks/blob/main/2023/TROOPERS23%20-%20Horror%20Stories%20from%20the%20Automotive%20Industry.pdf">TROOPERS Slides</a></li>
+<li><a href="https://www.youtube.com/watch?si=5RB2qZNAkvZPKbpH&v=ts1qSlW10dw&feature=youtu.be">Recording</a></li>
+</ul>
+</li>
+<li>
+<p>Presented in Chaos Communication Camp - <a href="https://www.ccc.de/en/">CCC</a> 2023, on August 12th to 19th.</p>
+<ul>
+<li><a href="https://pretalx.c3voc.de/camp2023/talk/UEHEVD/">CCC Link</a></li>
+<li><a href="https://github.com/Cr0wTom/Conference-Talks/blob/main/2023/CCC%20-%20Horror%20Stories%20from%20the%20Automotive%20Industry.pdf">CCC Slides</a></li>
+<li><a href="https://www.youtube.com/watch?v=rAA-agcNeeg">Recording</a></li>
+</ul>
+</li>
+<li>
+<p>Presented in <a href="https://deepsec.net/">DeepSec</a> 2023, on November 16th to 17th.</p>
+<ul>
+<li><a href="https://deepsec.net/archives.html">DeepSec Link</a></li>
+<li><a href="https://blog.deepsec.net/deepsec-2023-press-release-deepsec-2023-publishes-programme-this-years-conference-focuses-on-language-models-and-infrastructure/">Press Release</a></li>
+<li><a href="https://blog.deepsec.net/deepsec-2023-talk-horror-stories-from-the-automotive-industry-thomas-sermpinis/">Talk Blog Post</a></li>
+<li><a href="https://deepsec.net/docs/Slides/2023/Horror_Stories_from_the_Automotive_Industry_Thomas_Sermpinis.pdf">DeepSec Slides</a></li>
+<li><a href="https://github.com/Cr0wTom/Conference-Talks/blob/main/2023/DeepSec%20-%20Horror%20Stories%20from%20the%20Automotive%20Industry.pdf">DeepSec Slides - Personal Link</a></li>
+</ul>
+</li>
+<li>
+<p>Presented as an internal Security Seminar for Bosch, during October 2023.</p>
+<ul>
+<li><a href="https://www.bosch.com">Link</a></li>
+</ul>
+</li>
+<li>
+<p>Presented with similar content in the <a href="https://cacs.uni.opole.pl">CACS - Conference on Applied CyberSecurity</a>.</p>
+<ul>
+<li>Title: <a href="https://cacs.uni.opole.pl">DZIURAWE KOŁA I INNE BARDZIEJ POWAŻNE ZAGROŻENIA DLA ŚWIATA W RUCHU</a></li>
+<li>Main researcher: <a href="https://www.linkedin.com/in/wiktorsedkowski/">Wiktor Sędkowski</a></li>
+<li>Organizer: Uniwersytet Opolski &amp; Park Naukowo-Technologiczny w Opolu</li>
+<li>Date: 23-25 October 2023</li>
+</ul>
+</li>
+</ul>
+
+            </div>
+        </article>
+
+        <hr />
+
+        <div class="post-info">
+            
+    <p>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7" y2="7"></line></svg>
+
+        <span class="tag"><a href="https://cr0wtom.github.io/tags/academic/">Academic</a></span>
+        <span class="tag"><a href="https://cr0wtom.github.io/tags/security/">security</a></span>
+        <span class="tag"><a href="https://cr0wtom.github.io/tags/research/">Research</a></span>
+        <span class="tag"><a href="https://cr0wtom.github.io/tags/talks/">Talks</a></span>
+        <span class="tag"><a href="https://cr0wtom.github.io/tags/automotive/">Automotive</a></span>
+        <span class="tag"><a href="https://cr0wtom.github.io/tags/troopers23/">TROOPERS23</a></span>
+        <span class="tag"><a href="https://cr0wtom.github.io/tags/ccc/">CCC</a></span>
+        <span class="tag"><a href="https://cr0wtom.github.io/tags/deepsec/">DeepSec</a></span>
+        <span class="tag"><a href="https://cr0wtom.github.io/tags/cacs/">CACS</a></span>
+        
+    </p>
+
+            
+  		</div>
+    </main>
+
+            </div>
+
+            
+                <footer class="footer">
+    
+    
+</footer>
+
+            
+        </div>
+
+        
+
+
+
+<script type="text/javascript" src="/bundle.min.e89fda0f29b95d33f6f4224dd9e5cf69d84aff3818be2b0d73e731689cc374261b016d17d46f8381962fb4a1577ba3017b1f23509d894f6e66431f988c00889e.js" integrity="sha512-6J/aDym5XTP29CJN2eXPadhK/zgYvisNc&#43;cxaJzDdCYbAW0X1G&#43;DgZYvtKFXe6MBex8jUJ2JT25mQx&#43;YjACIng=="></script>
+
+
+
+    </body>
+</html>
