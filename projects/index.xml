@@ -4,691 +4,444 @@
     <title>Projects on Cr0w&#39;s Place</title>
     <link>https://cr0wtom.github.io/projects/</link>
     <description>Recent content in Projects on Cr0w&#39;s Place</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <generator>Hugo</generator>
+    <language>en</language>
     <copyright>Thomas Sermpinis</copyright>
-    <lastBuildDate>Sun, 11 Aug 2024 16:56:46 +0100</lastBuildDate><atom:link href="https://cr0wtom.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 May 2025 16:56:46 +0100</lastBuildDate>
+    <atom:link href="https://cr0wtom.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research/Talks - The Matrix Unloaded: Escaping the JTAG Reality</title>
+      <link>https://cr0wtom.github.io/projects/research-talks---the-matrix-unloaded/</link>
+      <pubDate>Mon, 05 May 2025 16:56:46 +0100</pubDate>
+      <guid>https://cr0wtom.github.io/projects/research-talks---the-matrix-unloaded/</guid>
+      <description>In the current reality of connected and autonomous vehicles, manufacturers keep repeating security mistakes of the past, with minimal experience adopted by other industries and their failures. And one of those failures, which arguably costed millions in stolen intellectual property, initiated exploit chains and botnets, and helped malicious actors exploit understand and analyze targets more efficiently, is hardware vulnerabilities.&#xA;The telephone booth of escape for an attacker after an unsuccessful compromise of target hardware, is (and always will be) hardware vulnerabilities, allowing full access due to physical limitations on the amount of protections one can implement.</description>
+    </item>
     <item>
       <title>Research - Car Hacking Village CTF 2024</title>
-      <link>https://cr0wtom.github.io/projects/research-chv_ctf/</link>
+      <link>https://cr0wtom.github.io/projects/research---chv_ctf/</link>
       <pubDate>Sun, 11 Aug 2024 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-chv_ctf/</guid>
-      <description> 3rd Place in the Car Hacking Village CTF, as the Team Leader of the team OBDII Obl1terat0rs (Aux_labs).
-Competition happened during DEFCON 32, August 9th - 11th, 2024, in Las Vegas, NV.
-CTF Link </description>
+      <guid>https://cr0wtom.github.io/projects/research---chv_ctf/</guid>
+      <description> 3rd Place in the Car Hacking Village CTF, as the Team Leader of the team OBDII Obl1terat0rs (Aux_labs).&#xA;Competition happened during DEFCON 32, August 9th - 11th, 2024, in Las Vegas, NV.&#xA;CTF Link </description>
     </item>
-    
     <item>
       <title>Research/Talks - The hack, the crash and two smoking barrels. (And all the times I (almost) killed an engineer.)</title>
-      <link>https://cr0wtom.github.io/projects/research-talks-two-smocking-barrels/</link>
+      <link>https://cr0wtom.github.io/projects/research-talks---two-smocking-barrels/</link>
       <pubDate>Sun, 11 Aug 2024 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-talks-two-smocking-barrels/</guid>
-      <description>Abstract:
-This is not a talk in which I will demonstrate exploit chains obtained from the underworld after signing with blood. It’s about sharing meaningful stories from said underworld. The automotive underworld of huge corporations, short deadlines and lukewarm engineers. The one where companies fight for packing more and more functionality inside your computer on wheels, without paying attention to one of the things that our life actually depends on right now, cybersecurity.</description>
+      <guid>https://cr0wtom.github.io/projects/research-talks---two-smocking-barrels/</guid>
+      <description>Abstract:&#xA;This is not a talk in which I will demonstrate exploit chains obtained from the underworld after signing with blood. It’s about sharing meaningful stories from said underworld. The automotive underworld of huge corporations, short deadlines and lukewarm engineers. The one where companies fight for packing more and more functionality inside your computer on wheels, without paying attention to one of the things that our life actually depends on right now, cybersecurity.</description>
     </item>
-    
     <item>
       <title>Research - [CVE-2024-6347] - Unauthorized access to ECU functionality</title>
-      <link>https://cr0wtom.github.io/projects/research-nissan_seed/</link>
+      <link>https://cr0wtom.github.io/projects/research---nissan_seed/</link>
       <pubDate>Sun, 07 Jul 2024 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-nissan_seed/</guid>
-      <description>Title: Predictable seed generation after ECU reset
-Date: 15/08/2024
-CVE-ID: CVE-2024-6347
-CVSS Score: 5.3 (v4)
-Author: Thomas Sermpinis
-Versions: Nissan Altima MY22 - MY24 (More to be added)
-CNA: ASRG
-Tested on: Nissan Altima MY22 - MY24
-Unprotected privileged mode access through UDS session in the Blind Spot Detection Sensor ECU firmware in Nissan Altima (2022) allows attackers to trigger denial-of-service (DoS) by unauthorized access to the ECU&amp;rsquo;s programming session. * No preconditions implemented for ECU management functionality through UDS session in the Blind Spot Detection Sensor ECU in Nissan Altima (2022) allows attackers to disrupt normal ECU operations by triggering a control command without authentication.</description>
+      <guid>https://cr0wtom.github.io/projects/research---nissan_seed/</guid>
+      <description>Title: Predictable seed generation after ECU reset&#xA;Date: 15/08/2024&#xA;CVE-ID: CVE-2024-6347&#xA;CVSS Score: 5.3 (v4)&#xA;Author: Thomas Sermpinis&#xA;Versions: Nissan Altima MY22 - MY24 (More to be added)&#xA;CNA: ASRG&#xA;Tested on: Nissan Altima MY22 - MY24&#xA;Unprotected privileged mode access through UDS session in the Blind Spot Detection Sensor ECU firmware in Nissan Altima (2022) allows attackers to trigger denial-of-service (DoS) by unauthorized access to the ECU&amp;rsquo;s programming session. * No preconditions implemented for ECU management functionality through UDS session in the Blind Spot Detection Sensor ECU in Nissan Altima (2022) allows attackers to disrupt normal ECU operations by triggering a control command without authentication.</description>
     </item>
-    
     <item>
       <title>Research - [CVE-2024-6348] - Predictable seed generation after ECU reset</title>
-      <link>https://cr0wtom.github.io/projects/research-nissan_ecureset/</link>
+      <link>https://cr0wtom.github.io/projects/research---nissan_ecureset/</link>
       <pubDate>Sun, 07 Jul 2024 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-nissan_ecureset/</guid>
-      <description>Title: Predictable seed generation after ECU reset
-Date: 15/08/2024
-CVE-ID: CVE-2024-6348
-CVSS Score: 5.3 (v4)
-Author: Thomas Sermpinis
-Versions: Nissan Altima MY22 - MY24 (More to be added)
-CNA: ASRG
-Tested on: Nissan Altima MY22 - MY24
-Predictable seed generation in the security access mechanism of UDS in the Blind Spot Protection Sensor ECU in Nissan Altima (2022) allows attackers to predict the requested seeds and bypass security controls via repeated ECU resets and seed requests.</description>
+      <guid>https://cr0wtom.github.io/projects/research---nissan_ecureset/</guid>
+      <description>Title: Predictable seed generation after ECU reset&#xA;Date: 15/08/2024&#xA;CVE-ID: CVE-2024-6348&#xA;CVSS Score: 5.3 (v4)&#xA;Author: Thomas Sermpinis&#xA;Versions: Nissan Altima MY22 - MY24 (More to be added)&#xA;CNA: ASRG&#xA;Tested on: Nissan Altima MY22 - MY24&#xA;Predictable seed generation in the security access mechanism of UDS in the Blind Spot Protection Sensor ECU in Nissan Altima (2022) allows attackers to predict the requested seeds and bypass security controls via repeated ECU resets and seed requests.</description>
     </item>
-    
     <item>
       <title>Research/Talks - How I Hacked My Way to the Security Sector</title>
-      <link>https://cr0wtom.github.io/projects/research-talks-storytellers24/</link>
+      <link>https://cr0wtom.github.io/projects/research-talks---storytellers24/</link>
       <pubDate>Wed, 26 Jun 2024 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-talks-storytellers24/</guid>
-      <description>Title: How I Hacked My Way to the Security Sector {And why you should always do what you love, no matter what people say!}
-Abstract:
-It all started 30 years ago… hm, that’s a bit too much, let me try again.
-It all started 18 years ago, when I found a book of C in my uncles’ library. How stupid can you be to read C at 12 years old you might ask?</description>
+      <guid>https://cr0wtom.github.io/projects/research-talks---storytellers24/</guid>
+      <description>Title: How I Hacked My Way to the Security Sector {And why you should always do what you love, no matter what people say!}&#xA;Abstract:&#xA;It all started 30 years ago… hm, that’s a bit too much, let me try again.&#xA;It all started 18 years ago, when I found a book of C in my uncles’ library. How stupid can you be to read C at 12 years old you might ask?</description>
     </item>
-    
     <item>
       <title>Research/Talks - V2GEvil: Ghost in the wires</title>
-      <link>https://cr0wtom.github.io/projects/research-talks-v2gevil/</link>
+      <link>https://cr0wtom.github.io/projects/research-talks---v2gevil/</link>
       <pubDate>Mon, 24 Jun 2024 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-talks-v2gevil/</guid>
-      <description>This research is dedicated to enhancing the cybersecurity of electric vehicles, with a specific focus on identifying vulnerabilities in the Electric Vehicle Communication Controller (EVCC). This controller facilitates communication with the Supply Equipment Communication Controller during the charging process. Accessible through the On-Board Charging (OBC) port, which is as publicly available as the gas tank in combustion engine vehicles.
-The research journey began by studying the electric vehicle charging ports, how they communicate, and the standards they follow, especially focusing on ISO 15118.</description>
+      <guid>https://cr0wtom.github.io/projects/research-talks---v2gevil/</guid>
+      <description>This research is dedicated to enhancing the cybersecurity of electric vehicles, with a specific focus on identifying vulnerabilities in the Electric Vehicle Communication Controller (EVCC). This controller facilitates communication with the Supply Equipment Communication Controller during the charging process. Accessible through the On-Board Charging (OBC) port, which is as publicly available as the gas tank in combustion engine vehicles.&#xA;The research journey began by studying the electric vehicle charging ports, how they communicate, and the standards they follow, especially focusing on ISO 15118.</description>
     </item>
-    
     <item>
       <title>Research/Talks - Need For Speed: The Fight of Ownership</title>
-      <link>https://cr0wtom.github.io/projects/research-talks-need-for-speed/</link>
+      <link>https://cr0wtom.github.io/projects/research-talks---need-for-speed/</link>
       <pubDate>Fri, 31 May 2024 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-talks-need-for-speed/</guid>
-      <description>While the automotive industry starts to realize the mistakes of the past, penetration testers, researchers and automakers strive to create impenetrable vehicle components, with the ultimate purpose being safer streets inside and outside of our vehicles. However, as desirable as this can be, it had an impact in other aspects of the automotive landscape, notably in terms of privacy and ownership, out of many.
-Tuners and car enthusiasts, while they might have no direct connection to cyber security, they have significantly contributed to vehicle vulnerabilities and exploitation over the years.</description>
+      <guid>https://cr0wtom.github.io/projects/research-talks---need-for-speed/</guid>
+      <description>While the automotive industry starts to realize the mistakes of the past, penetration testers, researchers and automakers strive to create impenetrable vehicle components, with the ultimate purpose being safer streets inside and outside of our vehicles. However, as desirable as this can be, it had an impact in other aspects of the automotive landscape, notably in terms of privacy and ownership, out of many.&#xA;Tuners and car enthusiasts, while they might have no direct connection to cyber security, they have significantly contributed to vehicle vulnerabilities and exploitation over the years.</description>
     </item>
-    
     <item>
       <title>Research/Talks - Back to the Future: Old Vulnerabilities Becoming New Again</title>
-      <link>https://cr0wtom.github.io/projects/research-talks-back-to-the-future/</link>
+      <link>https://cr0wtom.github.io/projects/research-talks---back-to-the-future/</link>
       <pubDate>Thu, 04 Apr 2024 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-talks-back-to-the-future/</guid>
-      <description>While hardware security is a topic of interest for decades, devices are constantly getting smaller, more powerful and more complicated. Most would assume that this resulted in higher security standards, but from our 100+ penetration tests in the (heavily hardware based) automotive industry, we beg to differ.
-With automotive suppliers trying to make everything work under heavily constrained environments, with limited resources both for energy and processing power, understandably many things are getting left out of the table, with one of the biggest victim being security.</description>
+      <guid>https://cr0wtom.github.io/projects/research-talks---back-to-the-future/</guid>
+      <description>While hardware security is a topic of interest for decades, devices are constantly getting smaller, more powerful and more complicated. Most would assume that this resulted in higher security standards, but from our 100+ penetration tests in the (heavily hardware based) automotive industry, we beg to differ.&#xA;With automotive suppliers trying to make everything work under heavily constrained environments, with limited resources both for energy and processing power, understandably many things are getting left out of the table, with one of the biggest victim being security.</description>
     </item>
-    
     <item>
       <title>Research - ASRG Prague Group</title>
-      <link>https://cr0wtom.github.io/projects/research-asrg/</link>
+      <link>https://cr0wtom.github.io/projects/research---asrg/</link>
       <pubDate>Tue, 27 Feb 2024 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-asrg/</guid>
-      <description> As the main contact of the ASRG Prague Group, I will be presenting a series of events, focused on Automotive Security. List to be updated with more information, as the events happen.
-Event 1: ASRG Prague Meetup: Vehicle (In)Securities - Part 1
-Event Link LinkedIn Link </description>
+      <guid>https://cr0wtom.github.io/projects/research---asrg/</guid>
+      <description> As the main contact of the ASRG Prague Group, I will be presenting a series of events, focused on Automotive Security. List to be updated with more information, as the events happen.&#xA;Event 1: ASRG Prague Meetup: Vehicle (In)Securities - Part 1&#xA;Event Link LinkedIn Link </description>
     </item>
-    
     <item>
       <title>Vehicle On-Board Charging Security Scanner</title>
-      <link>https://cr0wtom.github.io/projects/research-obc-research/</link>
+      <link>https://cr0wtom.github.io/projects/research---obc-research/</link>
       <pubDate>Sun, 07 Jan 2024 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-obc-research/</guid>
-      <description>Topic: Vehicle On-Board Charging Security Scanner Autor: Pavel Khunt Supervisor: Thomas Sermpinis University: Czech Technical University in Prague Type: Masters Thesis in the department of Informatics Abstract
-This thesis focusses on the cybersecurity of electric vehicles, with an emphasis on security issues associated with the On-Board Charging (OBC) port. I have developed a security tool that enables the enumeration and partial evaluation of the publicly accessible OBC port on European electric vehicles.</description>
+      <guid>https://cr0wtom.github.io/projects/research---obc-research/</guid>
+      <description>Topic: Vehicle On-Board Charging Security Scanner Autor: Pavel Khunt Supervisor: Thomas Sermpinis University: Czech Technical University in Prague Type: Masters Thesis in the department of Informatics Abstract&#xA;This thesis focusses on the cybersecurity of electric vehicles, with an emphasis on security issues associated with the On-Board Charging (OBC) port. I have developed a security tool that enables the enumeration and partial evaluation of the publicly accessible OBC port on European electric vehicles.</description>
     </item>
-    
     <item>
       <title>Research/Talks - Horror Stories from the Automotive Industry</title>
-      <link>https://cr0wtom.github.io/projects/research-talks-horror-stories/</link>
+      <link>https://cr0wtom.github.io/projects/research-talks---horror-stories/</link>
       <pubDate>Fri, 30 Jun 2023 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-talks-horror-stories/</guid>
+      <guid>https://cr0wtom.github.io/projects/research-talks---horror-stories/</guid>
       <description>In this talk, we will revisit some of the scariest stories we faced during more than 50 penetration testing and security research projects, with a twist. In the ever-emerging industry of automotive, with old and new OEMs trying to get a share of the pie, many things are at stake, with many things getting overlooked, forgotten, or even deliberately covered. We will go through a journey of critical findings in different targets and the constant battle between penetration testers, developers, and mid to upper management.</description>
     </item>
-    
     <item>
       <title>2600 - Is it time to change our approach to security?</title>
-      <link>https://cr0wtom.github.io/projects/2600-is-it-time-to-change-our-approach-to-security/</link>
+      <link>https://cr0wtom.github.io/projects/2600---is-it-time-to-change-our-approach-to-security/</link>
       <pubDate>Mon, 07 Nov 2022 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/2600-is-it-time-to-change-our-approach-to-security/</guid>
-      <description>One more article for the legendary 2600 magazine, going through the intresting and critical story of the Automotive security, and my views on where we are, where we are going, and what we should pay attention and change on our way there.
-Volume Thirty Nine Number Three - Autumn 2022. Buy the issue.
-2600 Magazine</description>
+      <guid>https://cr0wtom.github.io/projects/2600---is-it-time-to-change-our-approach-to-security/</guid>
+      <description>One more article for the legendary 2600 magazine, going through the intresting and critical story of the Automotive security, and my views on where we are, where we are going, and what we should pay attention and change on our way there.&#xA;Volume Thirty Nine Number Three - Autumn 2022. Buy the issue.&#xA;2600 Magazine</description>
     </item>
-    
     <item>
       <title>Research/Talks - UDS Fuzzing and the Path to Game Over</title>
-      <link>https://cr0wtom.github.io/projects/research-talks-uds-fuzzing-troopers22/</link>
+      <link>https://cr0wtom.github.io/projects/research-talks---uds-fuzzing-troopers22/</link>
       <pubDate>Thu, 30 Jun 2022 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-talks-uds-fuzzing-troopers22/</guid>
+      <guid>https://cr0wtom.github.io/projects/research-talks---uds-fuzzing-troopers22/</guid>
       <description>The automotive industry presented significant advances in the sector in the last decade, to catch up with the technological advances of the world. Lack of proper regulations and security standards meant that automotive companies had to develop custom solutions most of the time, which resulted in a lot of security issues. Security testing also fell behind, as there was no significant need till now to test and research those devices, but with more and more connected components the risks are increasing rapidly.</description>
     </item>
-    
     <item>
       <title>GitHub - CaringCaribou DoIP Module</title>
-      <link>https://cr0wtom.github.io/projects/github-doip-cc-module/</link>
+      <link>https://cr0wtom.github.io/projects/github---doip-cc-module/</link>
       <pubDate>Thu, 24 Feb 2022 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/github-doip-cc-module/</guid>
-      <description>An enumeration and exploitation module for the UDS protocol on DoIP upon the ISO 13400-2, as a CaringCaribou contribution. It includes the following sub-functions:
-discovery - Scan for arbitration IDs where ECUs listen and respond to incoming diagnostics requests services - Scan for diagnostics services supported by an ECU ecu_reset - Reset an ECU security_seed - Request security seeds from an ECU dump_dids - Dump data identifiers with the read_data_by_identifier UDS service testerpresent - Force an elevated diagnostics session against an ECU to stay active seed_randomness_fuzzer - ECUReset method fuzzing for seed randomness evaluation Project Link</description>
+      <guid>https://cr0wtom.github.io/projects/github---doip-cc-module/</guid>
+      <description>An enumeration and exploitation module for the UDS protocol on DoIP upon the ISO 13400-2, as a CaringCaribou contribution. It includes the following sub-functions:&#xA;discovery - Scan for arbitration IDs where ECUs listen and respond to incoming diagnostics requests services - Scan for diagnostics services supported by an ECU ecu_reset - Reset an ECU security_seed - Request security seeds from an ECU dump_dids - Dump data identifiers with the read_data_by_identifier UDS service testerpresent - Force an elevated diagnostics session against an ECU to stay active seed_randomness_fuzzer - ECUReset method fuzzing for seed randomness evaluation Project Link</description>
     </item>
-    
     <item>
       <title>GitHub - CaringCaribou UDS Fuzzer Module</title>
-      <link>https://cr0wtom.github.io/projects/github-uds_fuzzer-cc-module/</link>
+      <link>https://cr0wtom.github.io/projects/github---uds_fuzzer-cc-module/</link>
       <pubDate>Wed, 24 Nov 2021 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/github-uds_fuzzer-cc-module/</guid>
-      <description>A fuzzing module for the UDS protocol, as a CaringCaribou contribution. It includes the following sub-functions:
-seed_randomness_fuzzer: Supply the seed request process used by the target ECU and fuzz it to test for possible duplicates after a supplied Hard ECUReset (with flexibility on the reset method implementation), which means that the device is possibly vulnerable.
-delay_fuzzer: This is more of an exploitation sub-function, where a seed request process is supplied, alongside the seed from a single seed/key pair that a tester has acquired.</description>
+      <guid>https://cr0wtom.github.io/projects/github---uds_fuzzer-cc-module/</guid>
+      <description>A fuzzing module for the UDS protocol, as a CaringCaribou contribution. It includes the following sub-functions:&#xA;seed_randomness_fuzzer: Supply the seed request process used by the target ECU and fuzz it to test for possible duplicates after a supplied Hard ECUReset (with flexibility on the reset method implementation), which means that the device is possibly vulnerable.&#xA;delay_fuzzer: This is more of an exploitation sub-function, where a seed request process is supplied, alongside the seed from a single seed/key pair that a tester has acquired.</description>
     </item>
-    
     <item>
       <title>Research - [CVE-2021-29507] Improper Input Validation leads to buffer overflow in dlt-daemon (0day)</title>
-      <link>https://cr0wtom.github.io/projects/research-dlt-daemon/</link>
+      <link>https://cr0wtom.github.io/projects/research---dlt-daemon/</link>
       <pubDate>Tue, 11 May 2021 12:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-dlt-daemon/</guid>
-      <description>Title: Improper Input Validation leads to buffer overflow in dlt-daemon
-Date: 12/05/2021
-CVE-ID: CVE-2021-29507
-CVSS Score: 6.5 (v3)
-Author: Thomas Sermpinis
-Versions: 2.10.0 &amp;lt; version &amp;lt;= 2.18.6
-Package URL: https://github.com/GENIVI/dlt-daemon/
-Tested on: dlt-daemon 2.18.6
-The dlt-daemon includes a configuration file load functionality (-c) which is vulnerable to a buffer overflow vulnerability and allows a malicious user to supply a specially crafted configuration file which results in a segmentation fault after improper validation of the file content.</description>
+      <guid>https://cr0wtom.github.io/projects/research---dlt-daemon/</guid>
+      <description>Title: Improper Input Validation leads to buffer overflow in dlt-daemon&#xA;Date: 12/05/2021&#xA;CVE-ID: CVE-2021-29507&#xA;CVSS Score: 6.5 (v3)&#xA;Author: Thomas Sermpinis&#xA;Versions: 2.10.0 &amp;lt; version &amp;lt;= 2.18.6&#xA;Package URL: https://github.com/GENIVI/dlt-daemon/&#xA;Tested on: dlt-daemon 2.18.6&#xA;The dlt-daemon includes a configuration file load functionality (-c) which is vulnerable to a buffer overflow vulnerability and allows a malicious user to supply a specially crafted configuration file which results in a segmentation fault after improper validation of the file content.</description>
     </item>
-    
     <item>
       <title>Research - [CVE-2020-26800] Stack based buffer overflow while parsing JSON file in Aleth C&#43;&#43; Ethereum client (0day)</title>
-      <link>https://cr0wtom.github.io/projects/research-aleth/</link>
+      <link>https://cr0wtom.github.io/projects/research---aleth/</link>
       <pubDate>Mon, 11 Jan 2021 12:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-aleth/</guid>
-      <description>Title: Stack based buffer overflow while parsing JSON file in Aleth C++ Ethereum client
-Date: 11/01/2021
-CVE-ID: CVE-2020-26800
-CVSS Score: 5.5 (v3)
-Author: Thomas Sermpinis
-Versions: &amp;lt;= 1.8.0
-Package URL: https://github.com/ethereum/aleth
-Tested on: Aleth C++ Ethereum Client 1.8.0
-An attacker can supply a specially crafted config.json file, consisting of 3764 left square brackets or more, which results in segmentation fault by the application. This immediately results in Denial of Service, and with more advanced exploitation it can have further implications, with higher severity security issues.</description>
+      <guid>https://cr0wtom.github.io/projects/research---aleth/</guid>
+      <description>Title: Stack based buffer overflow while parsing JSON file in Aleth C++ Ethereum client&#xA;Date: 11/01/2021&#xA;CVE-ID: CVE-2020-26800&#xA;CVSS Score: 5.5 (v3)&#xA;Author: Thomas Sermpinis&#xA;Versions: &amp;lt;= 1.8.0&#xA;Package URL: https://github.com/ethereum/aleth&#xA;Tested on: Aleth C++ Ethereum Client 1.8.0&#xA;An attacker can supply a specially crafted config.json file, consisting of 3764 left square brackets or more, which results in segmentation fault by the application. This immediately results in Denial of Service, and with more advanced exploitation it can have further implications, with higher severity security issues.</description>
     </item>
-    
     <item>
       <title>Research - [CVE-2020-24807] File Type Restriction Bypass in Socket.io-file NPM module (0day)</title>
-      <link>https://cr0wtom.github.io/projects/research-socketio_2/</link>
+      <link>https://cr0wtom.github.io/projects/research---socketio_2/</link>
       <pubDate>Tue, 08 Sep 2020 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-socketio_2/</guid>
-      <description>Title: File Type Restriction Bypass in Socket.io-file NPM module
-Date: 31/07/2020
-CVE-ID: CVE-2020-24807
-CVSS Score: 7.8 (v3)
-Author: Thomas Sermpinis
-Versions: &amp;lt;= 2.0.31
-Package URL: -
-Tested on: node v10.19.0, Socket.io-file v2.0.31, socket.io v2.3.0
-All versions of socket.io-file are vulnerable to a file restriction bypass. The validation for valid file types only happens on the client-side, which allows an attacker to intercept the Websocket request post-validation and alter the name value to upload any file types.</description>
+      <guid>https://cr0wtom.github.io/projects/research---socketio_2/</guid>
+      <description>Title: File Type Restriction Bypass in Socket.io-file NPM module&#xA;Date: 31/07/2020&#xA;CVE-ID: CVE-2020-24807&#xA;CVSS Score: 7.8 (v3)&#xA;Author: Thomas Sermpinis&#xA;Versions: &amp;lt;= 2.0.31&#xA;Package URL: -&#xA;Tested on: node v10.19.0, Socket.io-file v2.0.31, socket.io v2.3.0&#xA;All versions of socket.io-file are vulnerable to a file restriction bypass. The validation for valid file types only happens on the client-side, which allows an attacker to intercept the Websocket request post-validation and alter the name value to upload any file types.</description>
     </item>
-    
     <item>
       <title>Certifications - Offensive Security Certified Expert</title>
-      <link>https://cr0wtom.github.io/projects/certifications-osce/</link>
+      <link>https://cr0wtom.github.io/projects/certifications---osce/</link>
       <pubDate>Mon, 07 Sep 2020 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/certifications-osce/</guid>
+      <guid>https://cr0wtom.github.io/projects/certifications---osce/</guid>
       <description>OSCEs have expert-level penetration testing skills. They have proven that they can craft their own exploits, execute attacks to compromise systems, and gain administrative access. The intense 48-hour exam also demonstrates that OSCEs have an above-average degree of persistence, determination, and ability to perform under pressure and can think outside the box to determine innovative ways of penetrating internal networks. An OSCE also has familiarity with more advanced protections like ASLR.</description>
     </item>
-    
     <item>
       <title>Research - DeTRACT a decentralized, transparent, immutable and open PKI certificate framework</title>
-      <link>https://cr0wtom.github.io/projects/research-detract-a-decentralized-transparent-immutable-and-open-pki-certificate-framework/</link>
+      <link>https://cr0wtom.github.io/projects/research---detract-a-decentralized-transparent-immutable-and-open-pki-certificate-framework/</link>
       <pubDate>Fri, 07 Aug 2020 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-detract-a-decentralized-transparent-immutable-and-open-pki-certificate-framework/</guid>
-      <description>The academic paper based on my masters thesis and research made during my work with the OSwinds research team of the Aristotle Unicersity of Thessaloniki got published in Springers&amp;rsquo; Internationa Journal of Information Security by the name &amp;ldquo;DeTRACT a decentralized, transparent, immutable and open PKI certificate framework&amp;rdquo;.
-Thanks to the team, George Vlahavas, Konstantinos Karasavvas &amp;amp; Athena Vakali.
-Abstract Public key infrastructure (PKI) is widely used over the Internet to secure and to encrypt communication among parties.</description>
+      <guid>https://cr0wtom.github.io/projects/research---detract-a-decentralized-transparent-immutable-and-open-pki-certificate-framework/</guid>
+      <description>The academic paper based on my masters thesis and research made during my work with the OSwinds research team of the Aristotle Unicersity of Thessaloniki got published in Springers&amp;rsquo; Internationa Journal of Information Security by the name &amp;ldquo;DeTRACT a decentralized, transparent, immutable and open PKI certificate framework&amp;rdquo;.&#xA;Thanks to the team, George Vlahavas, Konstantinos Karasavvas &amp;amp; Athena Vakali.&#xA;Abstract Public key infrastructure (PKI) is widely used over the Internet to secure and to encrypt communication among parties.</description>
     </item>
-    
     <item>
       <title>Research - [CVE-2020-15779] Path Traversal in Socket.io-file NPM module Functionality (0day)</title>
-      <link>https://cr0wtom.github.io/projects/research-socketio/</link>
+      <link>https://cr0wtom.github.io/projects/research---socketio/</link>
       <pubDate>Sun, 07 Jun 2020 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-socketio/</guid>
-      <description>Title: Path Traversal in Socket.io-file NPM module
-Date: 18/05/2020
-CVE-ID: CVE-2020-15779
-CVSS Score: 7.5 (v3)
-Author: Thomas Sermpinis
-Versions: &amp;lt;= 2.0.31
-Package URL: https://www.npmjs.com/package/socket.io-file
-Tested on: node v10.19.0, Socket.io-file v2.0.31, socket.io v2.3.0
-All versions of socket.io-file are vulnerable to Path Traversal. The package fails to sanitize user input and uses it to generate the file upload paths. The socket.io-file::createFile message contains a name option that is passed directly to path.</description>
+      <guid>https://cr0wtom.github.io/projects/research---socketio/</guid>
+      <description>Title: Path Traversal in Socket.io-file NPM module&#xA;Date: 18/05/2020&#xA;CVE-ID: CVE-2020-15779&#xA;CVSS Score: 7.5 (v3)&#xA;Author: Thomas Sermpinis&#xA;Versions: &amp;lt;= 2.0.31&#xA;Package URL: https://www.npmjs.com/package/socket.io-file&#xA;Tested on: node v10.19.0, Socket.io-file v2.0.31, socket.io v2.3.0&#xA;All versions of socket.io-file are vulnerable to Path Traversal. The package fails to sanitize user input and uses it to generate the file upload paths. The socket.io-file::createFile message contains a name option that is passed directly to path.</description>
     </item>
-    
     <item>
       <title>Certifications - Offensive Security Certified Professional</title>
-      <link>https://cr0wtom.github.io/projects/certifications-oscp/</link>
+      <link>https://cr0wtom.github.io/projects/certifications---oscp/</link>
       <pubDate>Sat, 07 Dec 2019 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/certifications-oscp/</guid>
-      <description>Offensive Security Certified Professional (OSCP) is an ethical hacking certification offered by Offensive Security that teaches penetration testing methodologies and the use of the tools included with the Kali Linux distribution (successor of BackTrack). The OSCP is a hands-on penetration testing certification, requiring holders to successfully attack and penetrate various live machines in a safe lab environment.
-An OSCP is able to research a network, identify vulnerabilities and successfully execute attacks.</description>
+      <guid>https://cr0wtom.github.io/projects/certifications---oscp/</guid>
+      <description>Offensive Security Certified Professional (OSCP) is an ethical hacking certification offered by Offensive Security that teaches penetration testing methodologies and the use of the tools included with the Kali Linux distribution (successor of BackTrack). The OSCP is a hands-on penetration testing certification, requiring holders to successfully attack and penetrate various live machines in a safe lab environment.&#xA;An OSCP is able to research a network, identify vulnerabilities and successfully execute attacks.</description>
     </item>
-    
     <item>
       <title>2600 - The Madness Debate (or How I Got Locked out of My Computer)</title>
-      <link>https://cr0wtom.github.io/projects/2600-the-madness-debate/</link>
+      <link>https://cr0wtom.github.io/projects/2600---the-madness-debate/</link>
       <pubDate>Sun, 07 Jul 2019 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/2600-the-madness-debate/</guid>
+      <guid>https://cr0wtom.github.io/projects/2600---the-madness-debate/</guid>
       <description>2600 is one of the oldest and most appreciated by me magazines in the security community. It is a joy to read, with interesting stories from hackers from all over the world. Writing to this legend was a must for me, so I composed a really interesting story, describing how privacy concern can drive you crazy, how it can lead you to losing everything and a debate on what can anc cannot be the attitute of online entities in our modern world.</description>
     </item>
-    
     <item>
       <title>GitHub - Mi AI Button Remapper</title>
-      <link>https://cr0wtom.github.io/projects/github-miai_remap/</link>
+      <link>https://cr0wtom.github.io/projects/github---miai_remap/</link>
       <pubDate>Sun, 07 Apr 2019 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/github-miai_remap/</guid>
-      <description>I created a Magisk module that allows you to remap the dedicated Mi AI hardware button of the Xiaomi Mi 9 and Mi Mix 3 to any one of 15 user-selectable functions.
-The mod is availavle in the Magisk store, and you can directly download it from there.
-Magisk Project Link
-Project Link
-XDA-Developers Thread
-Some blog threads that talked about my work:
-Thread 1
-Thread 2
-Thread 3
-Thread 4</description>
+      <guid>https://cr0wtom.github.io/projects/github---miai_remap/</guid>
+      <description>I created a Magisk module that allows you to remap the dedicated Mi AI hardware button of the Xiaomi Mi 9 and Mi Mix 3 to any one of 15 user-selectable functions.&#xA;The mod is availavle in the Magisk store, and you can directly download it from there.&#xA;Magisk Project Link&#xA;Project Link&#xA;XDA-Developers Thread&#xA;Some blog threads that talked about my work:&#xA;Thread 1&#xA;Thread 2&#xA;Thread 3&#xA;Thread 4</description>
     </item>
-    
     <item>
       <title>GitHub - Xiaomi Mi9 Stereo Mod</title>
-      <link>https://cr0wtom.github.io/projects/github-mi9_stereo_mod/</link>
+      <link>https://cr0wtom.github.io/projects/github---mi9_stereo_mod/</link>
       <pubDate>Sun, 07 Apr 2019 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/github-mi9_stereo_mod/</guid>
-      <description>With this Magisk mod you can hear sound for both the speaker and the earpiece in stereo mod. Original module by acervenky for Mi 8, modified for Mix 3 by Nukeclears and for the Mi 9 by me.
-The mod is availavle in the Magisk store, and you can directly download it from there.
-Magisk Project Link
-Project Link</description>
+      <guid>https://cr0wtom.github.io/projects/github---mi9_stereo_mod/</guid>
+      <description>With this Magisk mod you can hear sound for both the speaker and the earpiece in stereo mod. Original module by acervenky for Mi 8, modified for Mix 3 by Nukeclears and for the Mi 9 by me.&#xA;The mod is availavle in the Magisk store, and you can directly download it from there.&#xA;Magisk Project Link&#xA;Project Link</description>
     </item>
-    
     <item>
       <title>GitHub - Cross-chain Transactions</title>
-      <link>https://cr0wtom.github.io/projects/github-cross-chain_transaction/</link>
+      <link>https://cr0wtom.github.io/projects/github---cross-chain_transaction/</link>
       <pubDate>Mon, 07 Jan 2019 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/github-cross-chain_transaction/</guid>
-      <description>This repo contains possible implementations for cross chain transactions platforms, that need support for multiple cryptocurrencies. Due to this fact several ways can be used to implement cross chain transactions. Some of the methods are described bellow, with PoC code in the folders of this repo.
-Project Link</description>
+      <guid>https://cr0wtom.github.io/projects/github---cross-chain_transaction/</guid>
+      <description>This repo contains possible implementations for cross chain transactions platforms, that need support for multiple cryptocurrencies. Due to this fact several ways can be used to implement cross chain transactions. Some of the methods are described bellow, with PoC code in the folders of this repo.&#xA;Project Link</description>
     </item>
-    
     <item>
       <title>GitHub - Ethereum Voting</title>
-      <link>https://cr0wtom.github.io/projects/github-ethereum_voting/</link>
+      <link>https://cr0wtom.github.io/projects/github---ethereum_voting/</link>
       <pubDate>Mon, 07 Jan 2019 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/github-ethereum_voting/</guid>
-      <description>This is a project developed during my blockchain research in the Aristotle University of Thessaloniki.
-This project includes decentralized voting capabilities to support the decentralized addition of new organizations in the final Plastic Twist network (Horizon 2020 European Project). It uses the blockchain technology to exploit its capabilities and especially the Ethereum Blockchain, to be easily applicable to the initial system created by Almerys.
-Project Link</description>
+      <guid>https://cr0wtom.github.io/projects/github---ethereum_voting/</guid>
+      <description>This is a project developed during my blockchain research in the Aristotle University of Thessaloniki.&#xA;This project includes decentralized voting capabilities to support the decentralized addition of new organizations in the final Plastic Twist network (Horizon 2020 European Project). It uses the blockchain technology to exploit its capabilities and especially the Ethereum Blockchain, to be easily applicable to the initial system created by Almerys.&#xA;Project Link</description>
     </item>
-    
     <item>
       <title>GitHub - New Organization Blockchain Voting Platform</title>
-      <link>https://cr0wtom.github.io/projects/github-hyperledger-voting-chaincode/</link>
+      <link>https://cr0wtom.github.io/projects/github---hyperledger-voting-chaincode/</link>
       <pubDate>Mon, 07 Jan 2019 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/github-hyperledger-voting-chaincode/</guid>
-      <description>This is a project developed during my blockchain research in the Aristotle University of Thessaloniki.
-This project includes decentralized voting capabilities to support the decentralized addition of new organizations in the final Plastic Twist network (Horizon 2020 European Project). It uses the blockchain technology to exploit its capabilities and the Hyperledger Fabric framework, to be easily applicable to the initial system created by Almerys.
-For more information, technical specifications and installation instructions head to the repo wiki.</description>
+      <guid>https://cr0wtom.github.io/projects/github---hyperledger-voting-chaincode/</guid>
+      <description>This is a project developed during my blockchain research in the Aristotle University of Thessaloniki.&#xA;This project includes decentralized voting capabilities to support the decentralized addition of new organizations in the final Plastic Twist network (Horizon 2020 European Project). It uses the blockchain technology to exploit its capabilities and the Hyperledger Fabric framework, to be easily applicable to the initial system created by Almerys.&#xA;For more information, technical specifications and installation instructions head to the repo wiki.</description>
     </item>
-    
     <item>
       <title>GitHub - New Organization Blockchain Voting Platform</title>
-      <link>https://cr0wtom.github.io/projects/github-hyperledger_channel_configuration/</link>
+      <link>https://cr0wtom.github.io/projects/github---hyperledger_channel_configuration/</link>
       <pubDate>Mon, 07 Jan 2019 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/github-hyperledger_channel_configuration/</guid>
-      <description>This is a project developed during my blockchain research in the Aristotle University of Thessaloniki.
-Hyperledger voting for new peer join in channel. This repo includes the setup and information needed to vote and join of a new peer in a hyperledger privet network channel.
-Project Link</description>
+      <guid>https://cr0wtom.github.io/projects/github---hyperledger_channel_configuration/</guid>
+      <description>This is a project developed during my blockchain research in the Aristotle University of Thessaloniki.&#xA;Hyperledger voting for new peer join in channel. This repo includes the setup and information needed to vote and join of a new peer in a hyperledger privet network channel.&#xA;Project Link</description>
     </item>
-    
     <item>
       <title>GitHub - DeTRACT Smart Contract</title>
-      <link>https://cr0wtom.github.io/projects/github-detract-sc/</link>
+      <link>https://cr0wtom.github.io/projects/github---detract-sc/</link>
       <pubDate>Wed, 07 Nov 2018 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/github-detract-sc/</guid>
-      <description>SSL/TLS Certificate Authority Replacement through Ethereum Smart Contracts. The project was developed alongside the academic paper based on my Master&amp;rsquo;s Thesis for Aristotle University of Thessaloniki.
-Project Link</description>
+      <guid>https://cr0wtom.github.io/projects/github---detract-sc/</guid>
+      <description>SSL/TLS Certificate Authority Replacement through Ethereum Smart Contracts. The project was developed alongside the academic paper based on my Master&amp;rsquo;s Thesis for Aristotle University of Thessaloniki.&#xA;Project Link</description>
     </item>
-    
     <item>
       <title>GitHub - DeTRACT with Bitcoin Blockchain</title>
-      <link>https://cr0wtom.github.io/projects/github-detract-t_bitcoin/</link>
+      <link>https://cr0wtom.github.io/projects/github---detract-t_bitcoin/</link>
       <pubDate>Wed, 07 Nov 2018 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/github-detract-t_bitcoin/</guid>
-      <description>SSL/TLS Certificate Authority Replacement through the Bitcoin Blockchain. The project was developed alongside the academic paper based on my Master&amp;rsquo;s Thesis for Aristotle University of Thessaloniki.
-Project Link</description>
+      <guid>https://cr0wtom.github.io/projects/github---detract-t_bitcoin/</guid>
+      <description>SSL/TLS Certificate Authority Replacement through the Bitcoin Blockchain. The project was developed alongside the academic paper based on my Master&amp;rsquo;s Thesis for Aristotle University of Thessaloniki.&#xA;Project Link</description>
     </item>
-    
     <item>
       <title>GitHub - DeTRACT with Ethereum Blockchain</title>
-      <link>https://cr0wtom.github.io/projects/github-detract-t_ethereum/</link>
+      <link>https://cr0wtom.github.io/projects/github---detract-t_ethereum/</link>
       <pubDate>Wed, 07 Nov 2018 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/github-detract-t_ethereum/</guid>
-      <description>SSL/TLS Certificate Authority Replacement through the Ethereum Blockchain. The project was developed alongside the academic paper based on my Master&amp;rsquo;s Thesis for Aristotle University of Thessaloniki.
-Project Link</description>
+      <guid>https://cr0wtom.github.io/projects/github---detract-t_ethereum/</guid>
+      <description>SSL/TLS Certificate Authority Replacement through the Ethereum Blockchain. The project was developed alongside the academic paper based on my Master&amp;rsquo;s Thesis for Aristotle University of Thessaloniki.&#xA;Project Link</description>
     </item>
-    
     <item>
       <title>GitHub - Mi Notebook Pro Mods</title>
-      <link>https://cr0wtom.github.io/projects/github-mi_notebook_pro_mods/</link>
+      <link>https://cr0wtom.github.io/projects/github---mi_notebook_pro_mods/</link>
       <pubDate>Sun, 07 Oct 2018 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/github-mi_notebook_pro_mods/</guid>
-      <description>Mi Notebook Pro by Xiaomi is a 15inch laptop which was widely adopted because of its good price/performance ratio. This made it a huge success and created a big community of hackers wanting to fix some minor issues that the laptop had, alongside adding new capabilities, like natevelly running MacOS.
-I created a repo including all the available mods, and additional stuff I created for this device.
-Project Link</description>
+      <guid>https://cr0wtom.github.io/projects/github---mi_notebook_pro_mods/</guid>
+      <description>Mi Notebook Pro by Xiaomi is a 15inch laptop which was widely adopted because of its good price/performance ratio. This made it a huge success and created a big community of hackers wanting to fix some minor issues that the laptop had, alongside adding new capabilities, like natevelly running MacOS.&#xA;I created a repo including all the available mods, and additional stuff I created for this device.&#xA;Project Link</description>
     </item>
-    
     <item>
       <title>GitHub - OSCP - PWK Repository</title>
-      <link>https://cr0wtom.github.io/projects/github-oscp-pwk-repo/</link>
+      <link>https://cr0wtom.github.io/projects/github---oscp-pwk-repo/</link>
       <pubDate>Sun, 07 Oct 2018 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/github-oscp-pwk-repo/</guid>
+      <guid>https://cr0wtom.github.io/projects/github---oscp-pwk-repo/</guid>
       <description>During my time at the PWK labs and for my OSCP preparation, I gathered a big amount of useful stuff that I want to share and make available to the community. With a huge amount of respect to the Offensive Security team, I will not disclose anything about the labs and the exam, but I will give general information and study lines for the young padawans out there who want to TRY HARDER!</description>
     </item>
-    
     <item>
       <title>Hakin9 - SBC: Penetration Testing with Raspberry Pi</title>
       <link>https://cr0wtom.github.io/projects/sbc-penetration-testing-with-raspberry-pi-hakin9/</link>
       <pubDate>Sun, 07 Oct 2018 16:56:46 +0100</pubDate>
-      
       <guid>https://cr0wtom.github.io/projects/sbc-penetration-testing-with-raspberry-pi-hakin9/</guid>
-      <description> Instructor in the 4 week course for Hakin9 Media, in the topic of penetration testing with Raspberry Pi and other security related hardware.
-See project YouTube Video Sample </description>
+      <description> Instructor in the 4 week course for Hakin9 Media, in the topic of penetration testing with Raspberry Pi and other security related hardware.&#xA;See project YouTube Video Sample </description>
     </item>
-    
     <item>
       <title>Research/Talks - Consensus Algorithms (Greek)</title>
-      <link>https://cr0wtom.github.io/projects/research-talks-consensus-algorithms/</link>
+      <link>https://cr0wtom.github.io/projects/research-talks---consensus-algorithms/</link>
       <pubDate>Sun, 07 Oct 2018 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-talks-consensus-algorithms/</guid>
-      <description> Presentation at the &amp;ldquo;Bitcoin &amp;amp; Blockchain Tech Meetup (Thessaloniki)&amp;rdquo; taking place at Thessaloniki.
-Recording Meetup Link Slides </description>
+      <guid>https://cr0wtom.github.io/projects/research-talks---consensus-algorithms/</guid>
+      <description> Presentation at the &amp;ldquo;Bitcoin &amp;amp; Blockchain Tech Meetup (Thessaloniki)&amp;rdquo; taking place at Thessaloniki.&#xA;Recording Meetup Link Slides </description>
     </item>
-    
     <item>
       <title>Research - Traceability Decentralization in Supply Chain Management Using Blockchain Technologies</title>
-      <link>https://cr0wtom.github.io/projects/research-talks-traceability-decentralization-in-supply-chain-management-using-blockchain-technologies/</link>
+      <link>https://cr0wtom.github.io/projects/research-talks---traceability-decentralization-in-supply-chain-management-using-blockchain-technologies/</link>
       <pubDate>Sat, 07 Jul 2018 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-talks-traceability-decentralization-in-supply-chain-management-using-blockchain-technologies/</guid>
-      <description>Conference talk and paper proceeding in the 4th Olympus International Conference on Supply Chains (14-15 September 2018, Katerini), on the topic &amp;ldquo;Traceability Decentralization in Supply Chain Management Using Blockchain Technologies&amp;rdquo;. Co-author Christos Sermpinis.
-Abstract With the increase of web users and applications with real time requests, the ability to identify, track and trace elements of a product as it moves in the supply chain is deemed necessary, and for many industries is even mandated by national or international regulations.</description>
+      <guid>https://cr0wtom.github.io/projects/research-talks---traceability-decentralization-in-supply-chain-management-using-blockchain-technologies/</guid>
+      <description>Conference talk and paper proceeding in the 4th Olympus International Conference on Supply Chains (14-15 September 2018, Katerini), on the topic &amp;ldquo;Traceability Decentralization in Supply Chain Management Using Blockchain Technologies&amp;rdquo;. Co-author Christos Sermpinis.&#xA;Abstract With the increase of web users and applications with real time requests, the ability to identify, track and trace elements of a product as it moves in the supply chain is deemed necessary, and for many industries is even mandated by national or international regulations.</description>
     </item>
-    
     <item>
       <title>Research - PKI Decentralization Using Blockchain Technologies</title>
-      <link>https://cr0wtom.github.io/projects/research-pki-decentralization-using-blockchain-technologies/</link>
+      <link>https://cr0wtom.github.io/projects/research---pki-decentralization-using-blockchain-technologies/</link>
       <pubDate>Mon, 07 May 2018 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-pki-decentralization-using-blockchain-technologies/</guid>
-      <description>My masters thesis, supervised by Athena Vakali, was based on blockchain technologies with the title “PKI Decentralization Using Blockchain Technologies”.
-Abstract The Public Key Infrastructure (PKI) is used widely on the Internet in order to certify the identity of users, and as a result encrypt the communication between two parties and make it more secure. From this model, multiple problems can arise, most of them due to its centralized nature. In the past, there have been cases of Certificate Authorities distributing rogue certificates that resulted in attacks, targeting users of the system.</description>
+      <guid>https://cr0wtom.github.io/projects/research---pki-decentralization-using-blockchain-technologies/</guid>
+      <description>My masters thesis, supervised by Athena Vakali, was based on blockchain technologies with the title “PKI Decentralization Using Blockchain Technologies”.&#xA;Abstract The Public Key Infrastructure (PKI) is used widely on the Internet in order to certify the identity of users, and as a result encrypt the communication between two parties and make it more secure. From this model, multiple problems can arise, most of them due to its centralized nature. In the past, there have been cases of Certificate Authorities distributing rogue certificates that resulted in attacks, targeting users of the system.</description>
     </item>
-    
     <item>
       <title>Research/Talks - Introduction to Bitcoin and Blockchain Technologies (Greek)</title>
-      <link>https://cr0wtom.github.io/projects/research-talks-introduction-to-bitcoin-and-blockchain-technologies-greek/</link>
+      <link>https://cr0wtom.github.io/projects/research-talks---introduction-to-bitcoin-and-blockchain-technologies-greek/</link>
       <pubDate>Mon, 07 May 2018 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-talks-introduction-to-bitcoin-and-blockchain-technologies-greek/</guid>
-      <description> Presentation at the &amp;ldquo;Bitcoin and Machine Learning joint meetup&amp;rdquo; taking place at Thessaloniki.
-Recording Slides Meetup Link Blog Post </description>
+      <guid>https://cr0wtom.github.io/projects/research-talks---introduction-to-bitcoin-and-blockchain-technologies-greek/</guid>
+      <description> Presentation at the &amp;ldquo;Bitcoin and Machine Learning joint meetup&amp;rdquo; taking place at Thessaloniki.&#xA;Recording Slides Meetup Link Blog Post </description>
     </item>
-    
     <item>
       <title>Hakin9 - Attack and Defense in Blockchain Technologies</title>
       <link>https://cr0wtom.github.io/projects/attack-and-defense-in-blockchain-technologies-hakin9/</link>
       <pubDate>Sat, 07 Apr 2018 16:56:46 +0100</pubDate>
-      
       <guid>https://cr0wtom.github.io/projects/attack-and-defense-in-blockchain-technologies-hakin9/</guid>
-      <description> Instructor in the 4 week course for Hakin9 Media, in Blockchain security topics.
-See Project YouTube Video Sample </description>
+      <description> Instructor in the 4 week course for Hakin9 Media, in Blockchain security topics.&#xA;See Project YouTube Video Sample </description>
     </item>
-    
     <item>
       <title>Hakin9 - Attack and Defense in Blockchain Technologies [Book]</title>
       <link>https://cr0wtom.github.io/projects/attack-and-defense-in-blockchain-technologies-hakin9ebook/</link>
       <pubDate>Sat, 07 Apr 2018 16:56:46 +0100</pubDate>
-      
       <guid>https://cr0wtom.github.io/projects/attack-and-defense-in-blockchain-technologies-hakin9ebook/</guid>
-      <description>Alongside the 4 week course for Hakin9 Media, in Blockchain security topics, an eBook was created with all the content of the course.
-See Project or buy the Book.</description>
+      <description>Alongside the 4 week course for Hakin9 Media, in Blockchain security topics, an eBook was created with all the content of the course.&#xA;See Project or buy the Book.</description>
     </item>
-    
     <item>
       <title>Academic - Informatics and Management (MSc)</title>
-      <link>https://cr0wtom.github.io/projects/academic-informatics-and-management-msc/</link>
+      <link>https://cr0wtom.github.io/projects/academic---informatics-and-management-msc/</link>
       <pubDate>Wed, 28 Mar 2018 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/academic-informatics-and-management-msc/</guid>
-      <description>Master&amp;rsquo;s Degree with title Informatics and Management from the Aristotle University of Thessaloniki and the department of Computer Science.
-Thesis: PKI Decentralization Using Blockchain Technologies (Grade: 10/10)
-Courses: Business Intelligence, IT Infrastructure, IT Business Systems, Worldwide Web, IT Project Management, Research Methodology and Data Analysis, E-commerce, Databases and Data Mining, Financial Risk Management
-Final Grade: 9,25/10</description>
+      <guid>https://cr0wtom.github.io/projects/academic---informatics-and-management-msc/</guid>
+      <description>Master&amp;rsquo;s Degree with title Informatics and Management from the Aristotle University of Thessaloniki and the department of Computer Science.&#xA;Thesis: PKI Decentralization Using Blockchain Technologies (Grade: 10/10)&#xA;Courses: Business Intelligence, IT Infrastructure, IT Business Systems, Worldwide Web, IT Project Management, Research Methodology and Data Analysis, E-commerce, Databases and Data Mining, Financial Risk Management&#xA;Final Grade: 9,25/10</description>
     </item>
-    
     <item>
       <title>Scholarship - TROOPERS 18</title>
-      <link>https://cr0wtom.github.io/projects/scholarship-troopers-18/</link>
+      <link>https://cr0wtom.github.io/projects/scholarship---troopers-18/</link>
       <pubDate>Wed, 07 Feb 2018 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/scholarship-troopers-18/</guid>
-      <description>I received a scholarship covering the ticket to the TROOPERS 2018 information security conference in Heidelberg.
-Cr0w&amp;rsquo;s Place Vlog of Attendance
-BlackHat, TROOPERS and more!
-TROOPERS18 and a crazy journey!</description>
+      <guid>https://cr0wtom.github.io/projects/scholarship---troopers-18/</guid>
+      <description>I received a scholarship covering the ticket to the TROOPERS 2018 information security conference in Heidelberg.&#xA;Cr0w&amp;rsquo;s Place Vlog of Attendance&#xA;BlackHat, TROOPERS and more!&#xA;TROOPERS18 and a crazy journey!</description>
     </item>
-    
     <item>
       <title>Scholarship - Black Hat Europe 2017</title>
-      <link>https://cr0wtom.github.io/projects/scholarship-blackhat2017/</link>
+      <link>https://cr0wtom.github.io/projects/scholarship---blackhat2017/</link>
       <pubDate>Thu, 07 Dec 2017 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/scholarship-blackhat2017/</guid>
-      <description>I received a scholarship covering the Academic Pass to Black Hat Europe 2017 in London.
-Cr0w&amp;rsquo;s Place Vlog of Attendance
-BlackHat, TROOPERS and more!
-BlackHat Europe 2017 – The Wrap Up</description>
+      <guid>https://cr0wtom.github.io/projects/scholarship---blackhat2017/</guid>
+      <description>I received a scholarship covering the Academic Pass to Black Hat Europe 2017 in London.&#xA;Cr0w&amp;rsquo;s Place Vlog of Attendance&#xA;BlackHat, TROOPERS and more!&#xA;BlackHat Europe 2017 – The Wrap Up</description>
     </item>
-    
     <item>
       <title>Scholarship - Black Hat Asia 2017</title>
-      <link>https://cr0wtom.github.io/projects/scholarship-blackhat2017-asia/</link>
+      <link>https://cr0wtom.github.io/projects/scholarship---blackhat2017-asia/</link>
       <pubDate>Tue, 07 Mar 2017 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/scholarship-blackhat2017-asia/</guid>
-      <description>I received a scholarship covering the Academic Pass to Black Hat Asia 2016 in Singapore.
-My road to BlackHat Asia 2017 and some updates!</description>
+      <guid>https://cr0wtom.github.io/projects/scholarship---blackhat2017-asia/</guid>
+      <description>I received a scholarship covering the Academic Pass to Black Hat Asia 2016 in Singapore.&#xA;My road to BlackHat Asia 2017 and some updates!</description>
     </item>
-    
     <item>
       <title>Scholarship - TROOPERS 17</title>
-      <link>https://cr0wtom.github.io/projects/scholarship-troopers-17/</link>
+      <link>https://cr0wtom.github.io/projects/scholarship---troopers-17/</link>
       <pubDate>Tue, 07 Feb 2017 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/scholarship-troopers-17/</guid>
-      <description>I received a scholarship covering the ticket to the TROOPERS 2017 information security conference in Heidelberg.
-Cr0w&amp;rsquo;s Place Vlog of Attendance
-My Road to TROOPERS Scholarship! – Part 1
-My Road to TROOPERS Scholarship – Part 2
-TROOPERS 17 – The Wrap Up</description>
+      <guid>https://cr0wtom.github.io/projects/scholarship---troopers-17/</guid>
+      <description>I received a scholarship covering the ticket to the TROOPERS 2017 information security conference in Heidelberg.&#xA;Cr0w&amp;rsquo;s Place Vlog of Attendance&#xA;My Road to TROOPERS Scholarship! – Part 1&#xA;My Road to TROOPERS Scholarship – Part 2&#xA;TROOPERS 17 – The Wrap Up</description>
     </item>
-    
     <item>
       <title>Hakin9 - Bypassing Web Application Firewalls</title>
       <link>https://cr0wtom.github.io/projects/bypassing-web-application-firewalls-hakin9/</link>
       <pubDate>Wed, 07 Dec 2016 16:56:46 +0100</pubDate>
-      
       <guid>https://cr0wtom.github.io/projects/bypassing-web-application-firewalls-hakin9/</guid>
-      <description> Workshop Instructor in the 4 week topic, &amp;ldquo;Bypassing Web Application Firewalls&amp;rdquo;, hosted by the Hakin9 Magazine.
-See project YouTube Video Sample YouTube Video Sample 2 </description>
+      <description> Workshop Instructor in the 4 week topic, &amp;ldquo;Bypassing Web Application Firewalls&amp;rdquo;, hosted by the Hakin9 Magazine.&#xA;See project YouTube Video Sample YouTube Video Sample 2 </description>
     </item>
-    
     <item>
       <title>Hakin9 - Bypassing Web Application Firewalls [Book]</title>
       <link>https://cr0wtom.github.io/projects/bypassing-web-application-firewalls-hakin9ebook/</link>
       <pubDate>Wed, 07 Dec 2016 16:56:46 +0100</pubDate>
-      
       <guid>https://cr0wtom.github.io/projects/bypassing-web-application-firewalls-hakin9ebook/</guid>
-      <description>Alongside my 4 week topic, &amp;ldquo;Bypassing Web Application Firewalls&amp;rdquo;, hosted by the Hakin9 Magazine, an eBook was created with all the content of the course.
-See Project or buy the Book.</description>
+      <description>Alongside my 4 week topic, &amp;ldquo;Bypassing Web Application Firewalls&amp;rdquo;, hosted by the Hakin9 Magazine, an eBook was created with all the content of the course.&#xA;See Project or buy the Book.</description>
     </item>
-    
     <item>
       <title>Hakin9 - Web Application Hacking: Advanced SQL Injection and Data Store Attacks</title>
       <link>https://cr0wtom.github.io/projects/web-application-hacking-advanced-sql-injection-and-data-store-attacks-hakin9/</link>
       <pubDate>Wed, 07 Sep 2016 16:56:46 +0100</pubDate>
-      
       <guid>https://cr0wtom.github.io/projects/web-application-hacking-advanced-sql-injection-and-data-store-attacks-hakin9/</guid>
-      <description> Workshop Instructor in the 4 week topic, &amp;ldquo;Web Application Hacking: Advanced SQL Injection and Data Store Attacks&amp;rdquo;, hosted by the eForensics Magazine.
-See Project YouTube Video Sample </description>
+      <description> Workshop Instructor in the 4 week topic, &amp;ldquo;Web Application Hacking: Advanced SQL Injection and Data Store Attacks&amp;rdquo;, hosted by the eForensics Magazine.&#xA;See Project YouTube Video Sample </description>
     </item>
-    
     <item>
       <title>Hakin9 - Web Application Hacking: Advanced SQL Injection and Data Store Attacks [Book]</title>
       <link>https://cr0wtom.github.io/projects/web-application-hacking-advanced-sql-injection-and-data-store-attacks-hakin9ebook/</link>
       <pubDate>Wed, 07 Sep 2016 16:56:46 +0100</pubDate>
-      
       <guid>https://cr0wtom.github.io/projects/web-application-hacking-advanced-sql-injection-and-data-store-attacks-hakin9ebook/</guid>
-      <description>Alongside my 4 week topic, &amp;ldquo;Web Application Hacking: Advanced SQL Injection and Data Store Attacks&amp;rdquo;, hosted by the eForensics Magazine, an eBook was created with all the content of the course.
-See Project or buy the Book.</description>
+      <description>Alongside my 4 week topic, &amp;ldquo;Web Application Hacking: Advanced SQL Injection and Data Store Attacks&amp;rdquo;, hosted by the eForensics Magazine, an eBook was created with all the content of the course.&#xA;See Project or buy the Book.</description>
     </item>
-    
     <item>
       <title>Scholarship - Black Hat Europe 2016</title>
-      <link>https://cr0wtom.github.io/projects/scholarship-blackhat2016/</link>
+      <link>https://cr0wtom.github.io/projects/scholarship---blackhat2016/</link>
       <pubDate>Sun, 07 Aug 2016 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/scholarship-blackhat2016/</guid>
-      <description>I received a scholarship covering the Academic Pass to Black Hat Europe 2016 in London.
-Cr0w&amp;rsquo;s Place Vlog of Attendance
-My road to BlackHat Europe so far (or how to get your scholarship)!
-My road to BlackHat Europe so far – Part 2 (Acceptance email)
-BlackHat Europe 2016 – Epilogue</description>
+      <guid>https://cr0wtom.github.io/projects/scholarship---blackhat2016/</guid>
+      <description>I received a scholarship covering the Academic Pass to Black Hat Europe 2016 in London.&#xA;Cr0w&amp;rsquo;s Place Vlog of Attendance&#xA;My road to BlackHat Europe so far (or how to get your scholarship)!&#xA;My road to BlackHat Europe so far – Part 2 (Acceptance email)&#xA;BlackHat Europe 2016 – Epilogue</description>
     </item>
-    
     <item>
       <title>Academic - Administration and Economics (BSc)</title>
-      <link>https://cr0wtom.github.io/projects/academic-administration-and-economics-bsc/</link>
+      <link>https://cr0wtom.github.io/projects/academic---administration-and-economics-bsc/</link>
       <pubDate>Thu, 30 Jun 2016 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/academic-administration-and-economics-bsc/</guid>
-      <description>Bachelor&amp;rsquo;s Degree on Administration and Economics from the International Hellenic University with major in Supply Chain Management (Logistics).
-Major: Supply Chain Management
-Thesis: Integration of Near Field Communication technology into Warehouse Management Systems (Grade: 10/10)
-Courses: Mathematics, Consumer behavior, Informatics, Introduction to economics, Plant product processing, Animal product processing, HRM, Dissertation writing, Statistical and qualitative data analysis, Urban Commercial Law, Technical Chemistry, Business Administration, Marketing, Technology and Materials Management, Accounting principles, Industrial Processes in Manufacturing, Costing - Management Accounting, GIS, Quality control, Packaging and Standardization, E-commerce, Reverse and Green Logistics, Introduction to Logistics, Marking and Traceability, Organisational Behavior, Systems and Means of Transport, Inventory Management and Demand Forecasting, Warehouse Organization and Management, Quality management, Supply Chain Management, Research methodology, Purchasing management, CRM, Operational research, Management of services supply chain.</description>
+      <guid>https://cr0wtom.github.io/projects/academic---administration-and-economics-bsc/</guid>
+      <description>Bachelor&amp;rsquo;s Degree on Administration and Economics from the International Hellenic University with major in Supply Chain Management (Logistics).&#xA;Major: Supply Chain Management&#xA;Thesis: Integration of Near Field Communication technology into Warehouse Management Systems (Grade: 10/10)&#xA;Courses: Mathematics, Consumer behavior, Informatics, Introduction to economics, Plant product processing, Animal product processing, HRM, Dissertation writing, Statistical and qualitative data analysis, Urban Commercial Law, Technical Chemistry, Business Administration, Marketing, Technology and Materials Management, Accounting principles, Industrial Processes in Manufacturing, Costing - Management Accounting, GIS, Quality control, Packaging and Standardization, E-commerce, Reverse and Green Logistics, Introduction to Logistics, Marking and Traceability, Organisational Behavior, Systems and Means of Transport, Inventory Management and Demand Forecasting, Warehouse Organization and Management, Quality management, Supply Chain Management, Research methodology, Purchasing management, CRM, Operational research, Management of services supply chain.</description>
     </item>
-    
     <item>
       <title>Research - Integration of Near Field Communication into Warehouse Management Systems (BSc Thesis)</title>
-      <link>https://cr0wtom.github.io/projects/research-integration-of-near-field-communication-into-warehouse-management-systems/</link>
+      <link>https://cr0wtom.github.io/projects/research---integration-of-near-field-communication-into-warehouse-management-systems/</link>
       <pubDate>Tue, 07 Jun 2016 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-integration-of-near-field-communication-into-warehouse-management-systems/</guid>
-      <description>My bachelors thesis, supervised by Dimitrios Folinas, was based on NFC and WMS technologies with the title “Integration of Near Field Communication into Warehouse Management Systems”.
-Abstract (Greek) Στην παρούσα εργασία θα αναφερθούμε και θα εξετάσουμε μία καινοτόμο εφαρμογή που έχει να κάνει με την εφαρμογή της τεχνολογίας NFC, και παράλληλα της πολιτικής BYOD, στα συστήματα WMS. Τα κύρια σημεία που εξετάστηκαν είναι το αν υπάρχει ενδιαφέρον από τους εργαζομένους, όσο αναφορά την εφαρμογή ενός τέτοιου συστήματος στον χώρο εργασίας τους, και αν είναι δυνατή η ανάπτυξη ενός ολοκληρωμένου συστήματος με την προσθήκη των τεχνολογιών και πολιτικών που προτείνονται.</description>
+      <guid>https://cr0wtom.github.io/projects/research---integration-of-near-field-communication-into-warehouse-management-systems/</guid>
+      <description>My bachelors thesis, supervised by Dimitrios Folinas, was based on NFC and WMS technologies with the title “Integration of Near Field Communication into Warehouse Management Systems”.&#xA;Abstract (Greek) Στην παρούσα εργασία θα αναφερθούμε και θα εξετάσουμε μία καινοτόμο εφαρμογή που έχει να κάνει με την εφαρμογή της τεχνολογίας NFC, και παράλληλα της πολιτικής BYOD, στα συστήματα WMS. Τα κύρια σημεία που εξετάστηκαν είναι το αν υπάρχει ενδιαφέρον από τους εργαζομένους, όσο αναφορά την εφαρμογή ενός τέτοιου συστήματος στον χώρο εργασίας τους, και αν είναι δυνατή η ανάπτυξη ενός ολοκληρωμένου συστήματος με την προσθήκη των τεχνολογιών και πολιτικών που προτείνονται.</description>
     </item>
-    
     <item>
       <title>Hakin9 - Penetration Testing with Kali 2.0</title>
       <link>https://cr0wtom.github.io/projects/pentesting-with-kali2-hakin9/</link>
       <pubDate>Tue, 07 Jul 2015 16:56:46 +0100</pubDate>
-      
       <guid>https://cr0wtom.github.io/projects/pentesting-with-kali2-hakin9/</guid>
-      <description>Co-Workshop instructor in the topic &amp;ldquo;Penetration Testing with Kali 2.0&amp;rdquo; due to the release of the second version of the Kali OS, hosted by the PenTest Magazine.
-See project</description>
+      <description>Co-Workshop instructor in the topic &amp;ldquo;Penetration Testing with Kali 2.0&amp;rdquo; due to the release of the second version of the Kali OS, hosted by the PenTest Magazine.&#xA;See project</description>
     </item>
-    
     <item>
       <title>Research/Talks - Integration of Augmented Reality technology into Warehouse Management Systems</title>
-      <link>https://cr0wtom.github.io/projects/research-talks-integration-of-augmented-reality-technology-into-warehouse-management-systems/</link>
+      <link>https://cr0wtom.github.io/projects/research-talks---integration-of-augmented-reality-technology-into-warehouse-management-systems/</link>
       <pubDate>Tue, 07 Apr 2015 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-talks-integration-of-augmented-reality-technology-into-warehouse-management-systems/</guid>
-      <description>Conference talk in the &amp;ldquo;12th Student Conference on Management Science and Technology&amp;rdquo; taking place in Athens on 14th of May 2015. The subject is my innovative idea on the &amp;ldquo;Integration of Augmented Reality technology into Warehouse Management Systems&amp;rdquo; based on my paper made in the context of my studies in the Technological Educational Institute of Central Macedonia.
-Conference Link Slides </description>
+      <guid>https://cr0wtom.github.io/projects/research-talks---integration-of-augmented-reality-technology-into-warehouse-management-systems/</guid>
+      <description>Conference talk in the &amp;ldquo;12th Student Conference on Management Science and Technology&amp;rdquo; taking place in Athens on 14th of May 2015. The subject is my innovative idea on the &amp;ldquo;Integration of Augmented Reality technology into Warehouse Management Systems&amp;rdquo; based on my paper made in the context of my studies in the Technological Educational Institute of Central Macedonia.&#xA;Conference Link Slides </description>
     </item>
-    
     <item>
       <title>Research/Talks - Integration of Near Field Communication technology into Warehouse Management Systems</title>
-      <link>https://cr0wtom.github.io/projects/research-talks-integration-of-near-field-communication-technology-into-warehouse-management-systems/</link>
+      <link>https://cr0wtom.github.io/projects/research-talks---integration-of-near-field-communication-technology-into-warehouse-management-systems/</link>
       <pubDate>Tue, 07 Apr 2015 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-talks-integration-of-near-field-communication-technology-into-warehouse-management-systems/</guid>
-      <description>Conference talk in the &amp;ldquo;12th Student Conference on Management Science and Technology&amp;rdquo; taking place in Athens on 14th of May 2015. The subject is my innovative idea on the &amp;ldquo;Integration of Near Field Communication technology into Warehouse Management Systems&amp;rdquo; based on my paper made in the context of my studies in the Technological Educational Institute of Central Macedonia.
-Conference Link Slides </description>
+      <guid>https://cr0wtom.github.io/projects/research-talks---integration-of-near-field-communication-technology-into-warehouse-management-systems/</guid>
+      <description>Conference talk in the &amp;ldquo;12th Student Conference on Management Science and Technology&amp;rdquo; taking place in Athens on 14th of May 2015. The subject is my innovative idea on the &amp;ldquo;Integration of Near Field Communication technology into Warehouse Management Systems&amp;rdquo; based on my paper made in the context of my studies in the Technological Educational Institute of Central Macedonia.&#xA;Conference Link Slides </description>
     </item>
-    
     <item>
       <title>Hakin9 - Android Malware Analysis</title>
       <link>https://cr0wtom.github.io/projects/android-malware-analysis-hakin9/</link>
       <pubDate>Wed, 07 Jan 2015 16:56:46 +0100</pubDate>
-      
       <guid>https://cr0wtom.github.io/projects/android-malware-analysis-hakin9/</guid>
-      <description>Workshop Instructor in the 4 week topic, &amp;ldquo;Android Malware Analysis&amp;rdquo;, hosted by the eForensics Magazine.
-See Project</description>
+      <description>Workshop Instructor in the 4 week topic, &amp;ldquo;Android Malware Analysis&amp;rdquo;, hosted by the eForensics Magazine.&#xA;See Project</description>
     </item>
-    
     <item>
       <title>Hakin9 - Penetration Testing with Android Devices</title>
       <link>https://cr0wtom.github.io/projects/pentesting-with-android-hakin9/</link>
       <pubDate>Wed, 07 Jan 2015 16:56:46 +0100</pubDate>
-      
       <guid>https://cr0wtom.github.io/projects/pentesting-with-android-hakin9/</guid>
-      <description>Workshop Instructor in the 10 week topic, &amp;ldquo;Penetration Testing with Android Devices&amp;rdquo;, hosted by the Pentest Magazine.
-You can find more here.</description>
+      <description>Workshop Instructor in the 10 week topic, &amp;ldquo;Penetration Testing with Android Devices&amp;rdquo;, hosted by the Pentest Magazine.&#xA;You can find more here.</description>
     </item>
-    
     <item>
       <title>Research/Talks - Penetration Testing with Android Devices</title>
-      <link>https://cr0wtom.github.io/projects/research-talks-penetration-testing-with-android-devices/</link>
+      <link>https://cr0wtom.github.io/projects/research-talks---penetration-testing-with-android-devices/</link>
       <pubDate>Sun, 30 Nov 2014 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/research-talks-penetration-testing-with-android-devices/</guid>
-      <description> One of my first talks in the security industry happened in the Google DevFest 2014 Season of Thessaloniki. A brief visit to the ways of performing penetration testing with an Android device was presented.
-Conference Link Slides Recording </description>
+      <guid>https://cr0wtom.github.io/projects/research-talks---penetration-testing-with-android-devices/</guid>
+      <description> One of my first talks in the security industry happened in the Google DevFest 2014 Season of Thessaloniki. A brief visit to the ways of performing penetration testing with an Android device was presented.&#xA;Conference Link Slides Recording </description>
     </item>
-    
     <item>
       <title>DeltaHacker - The Start</title>
-      <link>https://cr0wtom.github.io/projects/deltahacker-all-articles/</link>
+      <link>https://cr0wtom.github.io/projects/deltahacker---all-articles/</link>
       <pubDate>Sun, 07 Sep 2014 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/deltahacker-all-articles/</guid>
-      <description>For a couple of years I was colaborating with DeltaHacker as a Magazine Editor for penetration testing and cyber security technical topics, under my Cr0wTom alias. I wrote 10 articles in total, for which you can find abstracts of the article in my blog, in Greek.
-DeltaHacker alongside my personal blog, can be considered my start in the security industry, my first steps and some really exciting times with people from the Greek hacking community that I really apreciate.</description>
+      <guid>https://cr0wtom.github.io/projects/deltahacker---all-articles/</guid>
+      <description>For a couple of years I was colaborating with DeltaHacker as a Magazine Editor for penetration testing and cyber security technical topics, under my Cr0wTom alias. I wrote 10 articles in total, for which you can find abstracts of the article in my blog, in Greek.&#xA;DeltaHacker alongside my personal blog, can be considered my start in the security industry, my first steps and some really exciting times with people from the Greek hacking community that I really apreciate.</description>
     </item>
-    
     <item>
       <title>Awards - Professional Track and Field Athlete</title>
-      <link>https://cr0wtom.github.io/projects/awards-trackandfield/</link>
+      <link>https://cr0wtom.github.io/projects/awards---trackandfield/</link>
       <pubDate>Sat, 07 Dec 2013 16:56:46 +0100</pubDate>
-      
-      <guid>https://cr0wtom.github.io/projects/awards-trackandfield/</guid>
-      <description>I was a Professional Track and Field Athlete in the Greek team of Iraklis Gymnastics Club of Thessaloniki under the supervision of coach (Dr.) Theodora Ountzoudi. Some of my greatest discriminations during my career, were:
-Greek Champion 4x400m Relay 2013 Greek Champion Under 22 4x400m Relay 2013 2nd Greek Champion Under 22 4x400m Relay 2014 Greek Army Champion 4x100m Relay 2014 (Hellenic Air Force) Honorary selection for reduced military service Additionaly, I received a reduction in my military services from the Armed Forces Supreme Council of Sports, due to my nationwide victories in my sport.</description>
+      <guid>https://cr0wtom.github.io/projects/awards---trackandfield/</guid>
+      <description>I was a Professional Track and Field Athlete in the Greek team of Iraklis Gymnastics Club of Thessaloniki under the supervision of coach (Dr.) Theodora Ountzoudi. Some of my greatest discriminations during my career, were:&#xA;Greek Champion 4x400m Relay 2013 Greek Champion Under 22 4x400m Relay 2013 2nd Greek Champion Under 22 4x400m Relay 2014 Greek Army Champion 4x100m Relay 2014 (Hellenic Air Force) Honorary selection for reduced military service Additionaly, I received a reduction in my military services from the Armed Forces Supreme Council of Sports, due to my nationwide victories in my sport.</description>
     </item>
-    
   </channel>
 </rss>
