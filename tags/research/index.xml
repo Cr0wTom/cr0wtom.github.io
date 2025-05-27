@@ -7,15 +7,8 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Thomas Sermpinis</copyright>
-    <lastBuildDate>Sun, 06 Apr 2025 16:56:46 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2024 16:56:46 +0100</lastBuildDate>
     <atom:link href="https://cr0wtom.github.io/tags/research/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Research/Talks - The Matrix Unloaded: Escaping the JTAG Reality</title>
-      <link>https://cr0wtom.github.io/projects/research-talks---the-matrix-unloaded/</link>
-      <pubDate>Sun, 06 Apr 2025 16:56:46 +0100</pubDate>
-      <guid>https://cr0wtom.github.io/projects/research-talks---the-matrix-unloaded/</guid>
-      <description>In the current reality of connected and autonomous vehicles, manufacturers keep repeating security mistakes of the past, with minimal experience adopted by other industries and their failures. And one of those failures, which arguably costed millions in stolen intellectual property, initiated exploit chains and botnets, and helped malicious actors exploit understand and analyze targets more efficiently, is hardware vulnerabilities.&#xA;The telephone booth of escape for an attacker after an unsuccessful compromise of target hardware, is (and always will be) hardware vulnerabilities, allowing full access due to physical limitations on the amount of protections one can implement.</description>
-    </item>
     <item>
       <title>Research - Car Hacking Village CTF 2024</title>
       <link>https://cr0wtom.github.io/projects/research---chv_ctf/</link>
@@ -64,6 +57,13 @@
       <pubDate>Fri, 31 May 2024 16:56:46 +0100</pubDate>
       <guid>https://cr0wtom.github.io/projects/research-talks---need-for-speed/</guid>
       <description>While the automotive industry starts to realize the mistakes of the past, penetration testers, researchers and automakers strive to create impenetrable vehicle components, with the ultimate purpose being safer streets inside and outside of our vehicles. However, as desirable as this can be, it had an impact in other aspects of the automotive landscape, notably in terms of privacy and ownership, out of many.&#xA;Tuners and car enthusiasts, while they might have no direct connection to cyber security, they have significantly contributed to vehicle vulnerabilities and exploitation over the years.</description>
+    </item>
+    <item>
+      <title>Research/Talks - The Matrix Unloaded: Escaping the JTAG Reality</title>
+      <link>https://cr0wtom.github.io/projects/research-talks---the-matrix-unloaded/</link>
+      <pubDate>Sat, 06 Apr 2024 16:56:46 +0100</pubDate>
+      <guid>https://cr0wtom.github.io/projects/research-talks---the-matrix-unloaded/</guid>
+      <description>In the current reality of connected and autonomous vehicles, manufacturers keep repeating security mistakes of the past, with minimal experience adopted by other industries and their failures. And one of those failures, which arguably costed millions in stolen intellectual property, initiated exploit chains and botnets, and helped malicious actors exploit understand and analyze targets more efficiently, is hardware vulnerabilities.&#xA;The telephone booth of escape for an attacker after an unsuccessful compromise of target hardware, is (and always will be) hardware vulnerabilities, allowing full access due to physical limitations on the amount of protections one can implement.</description>
     </item>
     <item>
       <title>Research/Talks - Back to the Future: Old Vulnerabilities Becoming New Again</title>

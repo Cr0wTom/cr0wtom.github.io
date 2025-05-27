@@ -7,12 +7,12 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Thomas Sermpinis</copyright>
-    <lastBuildDate>Sun, 06 Apr 2025 16:56:46 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2024 16:56:46 +0100</lastBuildDate>
     <atom:link href="https://cr0wtom.github.io/tags/off-by-one/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research/Talks - The Matrix Unloaded: Escaping the JTAG Reality</title>
       <link>https://cr0wtom.github.io/projects/research-talks---the-matrix-unloaded/</link>
-      <pubDate>Sun, 06 Apr 2025 16:56:46 +0100</pubDate>
+      <pubDate>Sat, 06 Apr 2024 16:56:46 +0100</pubDate>
       <guid>https://cr0wtom.github.io/projects/research-talks---the-matrix-unloaded/</guid>
       <description>In the current reality of connected and autonomous vehicles, manufacturers keep repeating security mistakes of the past, with minimal experience adopted by other industries and their failures. And one of those failures, which arguably costed millions in stolen intellectual property, initiated exploit chains and botnets, and helped malicious actors exploit understand and analyze targets more efficiently, is hardware vulnerabilities.&#xA;The telephone booth of escape for an attacker after an unsuccessful compromise of target hardware, is (and always will be) hardware vulnerabilities, allowing full access due to physical limitations on the amount of protections one can implement.</description>
     </item>
