@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Thomas Sermpinis</copyright>
-    <lastBuildDate>Sun, 11 Aug 2024 16:56:46 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 07 May 2025 16:56:46 +0100</lastBuildDate>
     <atom:link href="https://cr0wtom.github.io/tags/defcon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interview - ISMG - The Auto Industry&#39;s Achilles Heel: Cybersecurity</title>
+      <link>https://cr0wtom.github.io/media/interview---ismg/</link>
+      <pubDate>Wed, 07 May 2025 16:56:46 +0100</pubDate>
+      <guid>https://cr0wtom.github.io/media/interview---ismg/</guid>
+      <description> Interview with ISMG, based on my DEF CON talk during 2024, shot in Las Vegas, NV.&#xA;Interview links:&#xA;OT Security Banking Info Security Brochure </description>
+    </item>
     <item>
       <title>Research/Talks - The hack, the crash and two smoking barrels. (And all the times I (almost) killed an engineer.)</title>
       <link>https://cr0wtom.github.io/projects/research-talks---two-smocking-barrels/</link>
