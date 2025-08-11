@@ -2,11 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cr0wtom.github.io/tags/academic/</loc>
+    <lastmod>2025-08-10T16:56:46+01:00</lastmod>
+  </url><url>
     <loc>https://cr0wtom.github.io/tags/automotive/</loc>
-    <lastmod>2025-05-07T16:56:46+01:00</lastmod>
+    <lastmod>2025-08-10T16:56:46+01:00</lastmod>
+  </url><url>
+    <loc>https://cr0wtom.github.io/tags/chv/</loc>
+    <lastmod>2025-08-10T16:56:46+01:00</lastmod>
   </url><url>
     <loc>https://cr0wtom.github.io/</loc>
-    <lastmod>2025-05-07T16:56:46+01:00</lastmod>
+    <lastmod>2025-08-10T16:56:46+01:00</lastmod>
+  </url><url>
+    <loc>https://cr0wtom.github.io/tags/ctf/</loc>
+    <lastmod>2025-08-10T16:56:46+01:00</lastmod>
+  </url><url>
+    <loc>https://cr0wtom.github.io/tags/research/</loc>
+    <lastmod>2025-08-10T16:56:46+01:00</lastmod>
+  </url><url>
+    <loc>https://cr0wtom.github.io/projects/research---chv_ctf_25/</loc>
+    <lastmod>2025-08-10T16:56:46+01:00</lastmod>
+  </url><url>
+    <loc>https://cr0wtom.github.io/tags/security/</loc>
+    <lastmod>2025-08-10T16:56:46+01:00</lastmod>
+  </url><url>
+    <loc>https://cr0wtom.github.io/tags/</loc>
+    <lastmod>2025-08-10T16:56:46+01:00</lastmod>
   </url><url>
     <loc>https://cr0wtom.github.io/tags/media/</loc>
     <lastmod>2025-05-07T16:56:46+01:00</lastmod>
@@ -17,28 +38,13 @@
     <loc>https://cr0wtom.github.io/media/podcast---podcar/</loc>
     <lastmod>2025-05-07T16:56:46+01:00</lastmod>
   </url><url>
-    <loc>https://cr0wtom.github.io/tags/</loc>
-    <lastmod>2025-05-07T16:56:46+01:00</lastmod>
-  </url><url>
-    <loc>https://cr0wtom.github.io/tags/academic/</loc>
-    <lastmod>2025-05-05T16:56:46+01:00</lastmod>
-  </url><url>
-    <loc>https://cr0wtom.github.io/tags/ctf/</loc>
-    <lastmod>2025-05-05T16:56:46+01:00</lastmod>
-  </url><url>
     <loc>https://cr0wtom.github.io/tags/off-by-one/</loc>
-    <lastmod>2025-05-05T16:56:46+01:00</lastmod>
-  </url><url>
-    <loc>https://cr0wtom.github.io/tags/research/</loc>
     <lastmod>2025-05-05T16:56:46+01:00</lastmod>
   </url><url>
     <loc>https://cr0wtom.github.io/projects/research---obo_ctf/</loc>
     <lastmod>2025-05-05T16:56:46+01:00</lastmod>
   </url><url>
     <loc>https://cr0wtom.github.io/projects/research-talks---the-matrix-unloaded/</loc>
-    <lastmod>2025-05-05T16:56:46+01:00</lastmod>
-  </url><url>
-    <loc>https://cr0wtom.github.io/tags/security/</loc>
     <lastmod>2025-05-05T16:56:46+01:00</lastmod>
   </url><url>
     <loc>https://cr0wtom.github.io/tags/singapore/</loc>
@@ -58,9 +64,6 @@
   </url><url>
     <loc>https://cr0wtom.github.io/media/interview---ismg/</loc>
     <lastmod>2024-08-15T16:56:46+01:00</lastmod>
-  </url><url>
-    <loc>https://cr0wtom.github.io/tags/chv/</loc>
-    <lastmod>2024-08-11T16:56:46+01:00</lastmod>
   </url><url>
     <loc>https://cr0wtom.github.io/projects/research---chv_ctf/</loc>
     <lastmod>2024-08-11T16:56:46+01:00</lastmod>
