@@ -2,14 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cr0wtom.github.io/tags/academic/</loc>
+    <lastmod>2026-06-15T16:56:46+01:00</lastmod>
+  </url><url>
+    <loc>https://cr0wtom.github.io/tags/automotive/</loc>
+    <lastmod>2026-06-15T16:56:46+01:00</lastmod>
+  </url><url>
+    <loc>https://cr0wtom.github.io/tags/cacs/</loc>
+    <lastmod>2026-06-15T16:56:46+01:00</lastmod>
+  </url><url>
+    <loc>https://cr0wtom.github.io/tags/ccc/</loc>
+    <lastmod>2026-06-15T16:56:46+01:00</lastmod>
+  </url><url>
     <loc>https://cr0wtom.github.io/</loc>
     <lastmod>2026-06-15T16:56:46+01:00</lastmod>
   </url><url>
-    <loc>https://cr0wtom.github.io/tags/academic/</loc>
-    <lastmod>2025-08-10T16:56:46+01:00</lastmod>
+    <loc>https://cr0wtom.github.io/tags/deepsec/</loc>
+    <lastmod>2026-06-15T16:56:46+01:00</lastmod>
   </url><url>
-    <loc>https://cr0wtom.github.io/tags/automotive/</loc>
-    <lastmod>2025-08-10T16:56:46+01:00</lastmod>
+    <loc>https://cr0wtom.github.io/tags/ekoparty/</loc>
+    <lastmod>2026-06-15T16:56:46+01:00</lastmod>
+  </url><url>
+    <loc>https://cr0wtom.github.io/tags/research/</loc>
+    <lastmod>2026-06-15T16:56:46+01:00</lastmod>
+  </url><url>
+    <loc>https://cr0wtom.github.io/projects/research-talks---horror-stories_2/</loc>
+    <lastmod>2026-06-15T16:56:46+01:00</lastmod>
+  </url><url>
+    <loc>https://cr0wtom.github.io/tags/security/</loc>
+    <lastmod>2026-06-15T16:56:46+01:00</lastmod>
+  </url><url>
+    <loc>https://cr0wtom.github.io/tags/</loc>
+    <lastmod>2026-06-15T16:56:46+01:00</lastmod>
+  </url><url>
+    <loc>https://cr0wtom.github.io/tags/talks/</loc>
+    <lastmod>2026-06-15T16:56:46+01:00</lastmod>
+  </url><url>
+    <loc>https://cr0wtom.github.io/tags/troopers23/</loc>
+    <lastmod>2026-06-15T16:56:46+01:00</lastmod>
   </url><url>
     <loc>https://cr0wtom.github.io/tags/chv/</loc>
     <lastmod>2025-08-10T16:56:46+01:00</lastmod>
@@ -17,16 +47,7 @@
     <loc>https://cr0wtom.github.io/tags/ctf/</loc>
     <lastmod>2025-08-10T16:56:46+01:00</lastmod>
   </url><url>
-    <loc>https://cr0wtom.github.io/tags/research/</loc>
-    <lastmod>2025-08-10T16:56:46+01:00</lastmod>
-  </url><url>
     <loc>https://cr0wtom.github.io/projects/research---chv_ctf_25/</loc>
-    <lastmod>2025-08-10T16:56:46+01:00</lastmod>
-  </url><url>
-    <loc>https://cr0wtom.github.io/tags/security/</loc>
-    <lastmod>2025-08-10T16:56:46+01:00</lastmod>
-  </url><url>
-    <loc>https://cr0wtom.github.io/tags/</loc>
     <lastmod>2025-08-10T16:56:46+01:00</lastmod>
   </url><url>
     <loc>https://cr0wtom.github.io/tags/media/</loc>
@@ -48,9 +69,6 @@
     <lastmod>2025-05-05T16:56:46+01:00</lastmod>
   </url><url>
     <loc>https://cr0wtom.github.io/tags/singapore/</loc>
-    <lastmod>2025-05-05T16:56:46+01:00</lastmod>
-  </url><url>
-    <loc>https://cr0wtom.github.io/tags/talks/</loc>
     <lastmod>2025-05-05T16:56:46+01:00</lastmod>
   </url><url>
     <loc>https://cr0wtom.github.io/labs/</loc>
@@ -122,22 +140,7 @@
     <loc>https://cr0wtom.github.io/projects/research---obc-research/</loc>
     <lastmod>2024-01-07T16:56:46+01:00</lastmod>
   </url><url>
-    <loc>https://cr0wtom.github.io/tags/cacs/</loc>
-    <lastmod>2023-06-30T16:56:46+01:00</lastmod>
-  </url><url>
-    <loc>https://cr0wtom.github.io/tags/ccc/</loc>
-    <lastmod>2023-06-30T16:56:46+01:00</lastmod>
-  </url><url>
-    <loc>https://cr0wtom.github.io/tags/deepsec/</loc>
-    <lastmod>2023-06-30T16:56:46+01:00</lastmod>
-  </url><url>
-    <loc>https://cr0wtom.github.io/tags/ekoparty/</loc>
-    <lastmod>2023-06-30T16:56:46+01:00</lastmod>
-  </url><url>
     <loc>https://cr0wtom.github.io/projects/research-talks---horror-stories/</loc>
-    <lastmod>2023-06-30T16:56:46+01:00</lastmod>
-  </url><url>
-    <loc>https://cr0wtom.github.io/tags/troopers23/</loc>
     <lastmod>2023-06-30T16:56:46+01:00</lastmod>
   </url><url>
     <loc>https://cr0wtom.github.io/tags/2600/</loc>
